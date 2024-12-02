@@ -1,0 +1,5571 @@
+Ano,Sc,cidade,pib
+2021,RO,Alta Floresta D'Oeste,734469
+2021,RO,Ariquemes,3209761
+2021,RO,Cabixi,238412
+2021,RO,Cacoal,2792383
+2021,RO,Cerejeiras,743037
+2021,RO,Colorado do Oeste,424807
+2021,RO,Corumbiara,396728
+2021,RO,Costa Marques,316671
+2021,RO,Espig�o D'Oeste,773381
+2021,RO,Guajar�-Mirim,1054179
+2021,RO,Jaru,1765089
+2021,RO,Ji-Paran�,4231113
+2021,RO,Machadinho D'Oeste,890320
+2021,RO,Nova Brasil�ndia D'Oeste,548734
+2021,RO,Ouro Preto do Oeste,985868
+2021,RO,Pimenta Bueno,1642516
+2021,RO,Porto Velho,20059522
+2021,RO,Presidente M�dici,559990
+2021,RO,Rio Crespo,184430
+2021,RO,Rolim de Moura,1565194
+2021,RO,Santa Luzia D'Oeste,213556
+2021,RO,Vilhena,4215046
+2021,RO,S�o Miguel do Guapor�,905335
+2021,RO,Nova Mamor�,742687
+2021,RO,Alvorada D'Oeste,352628
+2021,RO,Alto Alegre dos Parecis,483672
+2021,RO,Alto Para�so,510361
+2021,RO,Buritis,966552
+2021,RO,Novo Horizonte do Oeste,231502
+2021,RO,Cacaul�ndia,275338
+2021,RO,Campo Novo de Rond�nia,369377
+2021,RO,Candeias do Jamari,655606
+2021,RO,Castanheiras,99627
+2021,RO,Chupinguaia,468793
+2021,RO,Cujubim,487480
+2021,RO,Governador Jorge Teixeira,239330
+2021,RO,Itapu� do Oeste,210031
+2021,RO,Ministro Andreazza,297878
+2021,RO,Mirante da Serra,262640
+2021,RO,Monte Negro,389891
+2021,RO,Nova Uni�o,157321
+2021,RO,Parecis,155434
+2021,RO,Pimenteiras do Oeste,246209
+2021,RO,Primavera de Rond�nia,107030
+2021,RO,S�o Felipe D'Oeste,130676
+2021,RO,S�o Francisco do Guapor�,488043
+2021,RO,Seringueiras,332987
+2021,RO,Teixeir�polis,121301
+2021,RO,Theobroma,257426
+2021,RO,Urup�,273501
+2021,RO,Vale do Anari,220588
+2021,RO,Vale do Para�so,185648
+2021,AC,Acrel�ndia,398725
+2021,AC,Assis Brasil,133916
+2021,AC,Brasil�ia,685636
+2021,AC,Bujari,300830
+2021,AC,Capixaba,512353
+2021,AC,Cruzeiro do Sul,2058630
+2021,AC,Epitaciol�ndia,644542
+2021,AC,Feij�,567040
+2021,AC,Jord�o,113975
+2021,AC,M�ncio Lima,269205
+2021,AC,Manoel Urbano,184904
+2021,AC,Marechal Thaumaturgo,256865
+2021,AC,Pl�cido de Castro,601471
+2021,AC,Porto Walter,160535
+2021,AC,Rio Branco,10955675
+2021,AC,Rodrigues Alves,255649
+2021,AC,Santa Rosa do Purus,108545
+2021,AC,Senador Guiomard,779672
+2021,AC,Sena Madureira,748094
+2021,AC,Tarauac�,711884
+2021,AC,Xapuri,454981
+2021,AC,Porto Acre,471315
+2021,AM,Alvar�es,217333
+2021,AM,Amatur�,118872
+2021,AM,Anam�,138599
+2021,AM,Anori,248435
+2021,AM,Apu�,297810
+2021,AM,Atalaia do Norte,184947
+2021,AM,Autazes,506341
+2021,AM,Barcelos,245622
+2021,AM,Barreirinha,344890
+2021,AM,Benjamin Constant,388781
+2021,AM,Beruri,211871
+2021,AM,Boa Vista do Ramos,182412
+2021,AM,Boca do Acre,512796
+2021,AM,Borba,402131
+2021,AM,Caapiranga,177894
+2021,AM,Canutama,154316
+2021,AM,Carauari,370657
+2021,AM,Careiro,395194
+2021,AM,Careiro da V�rzea,413374
+2021,AM,Coari,3380278
+2021,AM,Codaj�s,531995
+2021,AM,Eirunep�,568039
+2021,AM,Envira,215527
+2021,AM,Fonte Boa,222773
+2021,AM,Guajar�,177320
+2021,AM,Humait�,860168
+2021,AM,Ipixuna,216519
+2021,AM,Iranduba,1001862
+2021,AM,Itacoatiara,2350463
+2021,AM,Itamarati,135620
+2021,AM,Itapiranga,152509
+2021,AM,Japur�,85809
+2021,AM,Juru�,138074
+2021,AM,Juta�,266377
+2021,AM,L�brea,625199
+2021,AM,Manacapuru,1544675
+2021,AM,Manaquiri,311335
+2021,AM,Manaus,103281436
+2021,AM,Manicor�,686279
+2021,AM,Mara�,176217
+2021,AM,Mau�s,595827
+2021,AM,Nhamund�,207005
+2021,AM,Nova Olinda do Norte,341652
+2021,AM,Novo Air�o,186533
+2021,AM,Novo Aripuan�,252422
+2021,AM,Parintins,1426984
+2021,AM,Pauini,199541
+2021,AM,Presidente Figueiredo,1031905
+2021,AM,Rio Preto da Eva,407146
+2021,AM,Santa Isabel do Rio Negro,185817
+2021,AM,Santo Ant�nio do I��,237314
+2021,AM,S�o Gabriel da Cachoeira,423054
+2021,AM,S�o Paulo de Oliven�a,334131
+2021,AM,S�o Sebasti�o do Uatum�,136609
+2021,AM,Silves,175042
+2021,AM,Tabatinga,758036
+2021,AM,Tapau�,239944
+2021,AM,Tef�,1098392
+2021,AM,Tonantins,185410
+2021,AM,Uarini,229209
+2021,AM,Urucar�,205656
+2021,AM,Urucurituba,232661
+2021,RR,Amajari,240826
+2021,RR,Alto Alegre,385507
+2021,RR,Boa Vista,13493364
+2021,RR,Bonfim,522405
+2021,RR,Cant�,353071
+2021,RR,Caracara�,453298
+2021,RR,Caroebe,236788
+2021,RR,Iracema,208477
+2021,RR,Mucaja�,393852
+2021,RR,Normandia,202859
+2021,RR,Pacaraima,329092
+2021,RR,Rorain�polis,732356
+2021,RR,S�o Jo�o da Baliza,327768
+2021,RR,S�o Luiz,178972
+2021,RR,Uiramut�,143945
+2021,PA,Abaetetuba,1949341
+2021,PA,Abel Figueiredo,105496
+2021,PA,Acar�,1433440
+2021,PA,Afu�,444236
+2021,PA,�gua Azul do Norte,643132
+2021,PA,Alenquer,745403
+2021,PA,Almeirim,688370
+2021,PA,Altamira,3120219
+2021,PA,Anaj�s,259020
+2021,PA,Ananindeua,8939830
+2021,PA,Anapu,588032
+2021,PA,Augusto Corr�a,363771
+2021,PA,Aurora do Par�,308633
+2021,PA,Aveiro,151969
+2021,PA,Bagre,250548
+2021,PA,Bai�o,562147
+2021,PA,Bannach,129007
+2021,PA,Barcarena,9243937
+2021,PA,Bel�m,33467126
+2021,PA,Belterra,237196
+2021,PA,Benevides,1986729
+2021,PA,Bom Jesus do Tocantins,243883
+2021,PA,Bonito,206682
+2021,PA,Bragan�a,1389573
+2021,PA,Brasil Novo,379813
+2021,PA,Brejo Grande do Araguaia,115088
+2021,PA,Breu Branco,794309
+2021,PA,Breves,893933
+2021,PA,Bujaru,536730
+2021,PA,Cachoeira do Piri�,227634
+2021,PA,Cachoeira do Arari,255830
+2021,PA,Camet�,1393690
+2021,PA,Cana� dos Caraj�s,34989610
+2021,PA,Capanema,1427144
+2021,PA,Capit�o Po�o,615773
+2021,PA,Castanhal,4709312
+2021,PA,Chaves,248270
+2021,PA,Colares,100969
+2021,PA,Concei��o do Araguaia,662825
+2021,PA,Conc�rdia do Par�,420236
+2021,PA,Cumaru do Norte,406927
+2021,PA,Curion�polis,3667341
+2021,PA,Curralinho,282512
+2021,PA,Curu�,149717
+2021,PA,Curu��,369777
+2021,PA,Dom Eliseu,940611
+2021,PA,Eldorado do Caraj�s,556042
+2021,PA,Faro,76730
+2021,PA,Floresta do Araguaia,602623
+2021,PA,Garraf�o do Norte,276033
+2021,PA,Goian�sia do Par�,506638
+2021,PA,Gurup�,334287
+2021,PA,Igarap�-A�u,415894
+2021,PA,Igarap�-Miri,691233
+2021,PA,Inhangapi,174628
+2021,PA,Ipixuna do Par�,625213
+2021,PA,Irituia,278006
+2021,PA,Itaituba,3078558
+2021,PA,Itupiranga,841956
+2021,PA,Jacareacanga,625760
+2021,PA,Jacund�,615695
+2021,PA,Juruti,1451756
+2021,PA,Limoeiro do Ajuru,503051
+2021,PA,M�e do Rio,340311
+2021,PA,Magalh�es Barata,98432
+2021,PA,Marab�,13523145
+2021,PA,Maracan�,289997
+2021,PA,Marapanim,263657
+2021,PA,Marituba,2578541
+2021,PA,Medicil�ndia,1023972
+2021,PA,Melga�o,216855
+2021,PA,Mocajuba,452082
+2021,PA,Moju,1348481
+2021,PA,Moju� dos Campos,288644
+2021,PA,Monte Alegre,807340
+2021,PA,Muan�,338764
+2021,PA,Nova Esperan�a do Piri�,350842
+2021,PA,Nova Ipixuna,192605
+2021,PA,Nova Timboteua,147491
+2021,PA,Novo Progresso,971539
+2021,PA,Novo Repartimento,1117034
+2021,PA,�bidos,965930
+2021,PA,Oeiras do Par�,419077
+2021,PA,Oriximin�,2278575
+2021,PA,Our�m,200629
+2021,PA,Ouril�ndia do Norte,1302429
+2021,PA,Pacaj�,867605
+2021,PA,Palestina do Par�,98769
+2021,PA,Paragominas,4280508
+2021,PA,Parauapebas,49763040
+2021,PA,Pau D'Arco,114870
+2021,PA,Peixe-Boi,72327
+2021,PA,Pi�arra,292755
+2021,PA,Placas,323263
+2021,PA,Ponta de Pedras,275230
+2021,PA,Portel,945733
+2021,PA,Porto de Moz,404677
+2021,PA,Prainha,442969
+2021,PA,Primavera,321726
+2021,PA,Quatipuru,120882
+2021,PA,Reden��o,2552479
+2021,PA,Rio Maria,601872
+2021,PA,Rondon do Par�,734050
+2021,PA,Rur�polis,496837
+2021,PA,Salin�polis,641901
+2021,PA,Salvaterra,210371
+2021,PA,Santa B�rbara do Par�,240524
+2021,PA,Santa Cruz do Arari,96043
+2021,PA,Santa Izabel do Par�,935129
+2021,PA,Santa Luzia do Par�,196168
+2021,PA,Santa Maria das Barreiras,1072244
+2021,PA,Santa Maria do Par�,371642
+2021,PA,Santana do Araguaia,1381972
+2021,PA,Santar�m,6390528
+2021,PA,Santar�m Novo,60065
+2021,PA,Santo Ant�nio do Tau�,475569
+2021,PA,S�o Caetano de Odivelas,183191
+2021,PA,S�o Domingos do Araguaia,359021
+2021,PA,S�o Domingos do Capim,438410
+2021,PA,S�o F�lix do Xingu,2009122
+2021,PA,S�o Francisco do Par�,264374
+2021,PA,S�o Geraldo do Araguaia,710684
+2021,PA,S�o Jo�o da Ponta,57407
+2021,PA,S�o Jo�o de Pirabas,182168
+2021,PA,S�o Jo�o do Araguaia,186890
+2021,PA,S�o Miguel do Guam�,793139
+2021,PA,S�o Sebasti�o da Boa Vista,245028
+2021,PA,Sapucaia,141176
+2021,PA,Senador Jos� Porf�rio,246281
+2021,PA,Soure,241803
+2021,PA,Tail�ndia,1291722
+2021,PA,Terra Alta,83046
+2021,PA,Terra Santa,519541
+2021,PA,Tom�-A�u,1040635
+2021,PA,Tracuateua,285330
+2021,PA,Trair�o,327523
+2021,PA,Tucum�,984423
+2021,PA,Tucuru�,5614501
+2021,PA,Ulian�polis,1995884
+2021,PA,Uruar�,774530
+2021,PA,Vigia,476787
+2021,PA,Viseu,618568
+2021,PA,Vit�ria do Xingu,4230778
+2021,PA,Xinguara,1605020
+2021,AP,Serra do Navio,92155
+2021,AP,Amap�,159543
+2021,AP,Pedra Branca do Amapari,453324
+2021,AP,Cal�oene,184496
+2021,AP,Cutias,94625
+2021,AP,Ferreira Gomes,578381
+2021,AP,Itaubal,87891
+2021,AP,Laranjal do Jari,1134587
+2021,AP,Macap�,12938060
+2021,AP,Mazag�o,377734
+2021,AP,Oiapoque,528919
+2021,AP,Porto Grande,373966
+2021,AP,Pracu�ba,84589
+2021,AP,Santana,2512717
+2021,AP,Tartarugalzinho,261938
+2021,AP,Vit�ria do Jari,236925
+2021,TO,Abreul�ndia,112135
+2021,TO,Aguiarn�polis,165480
+2021,TO,Alian�a do Tocantins,616571
+2021,TO,Almas,273741
+2021,TO,Alvorada,474111
+2021,TO,Anan�s,159769
+2021,TO,Angico,48276
+2021,TO,Aparecida do Rio Negro,255912
+2021,TO,Aragominas,98441
+2021,TO,Araguacema,240246
+2021,TO,Aragua�u,349050
+2021,TO,Aragua�na,5239050
+2021,TO,Araguan�,101858
+2021,TO,Araguatins,529290
+2021,TO,Arapoema,324523
+2021,TO,Arraias,223310
+2021,TO,Augustin�polis,305118
+2021,TO,Aurora do Tocantins,58806
+2021,TO,Axix� do Tocantins,141092
+2021,TO,Baba�ul�ndia,158741
+2021,TO,Bandeirantes do Tocantins,178654
+2021,TO,Barra do Ouro,113260
+2021,TO,Barrol�ndia,122016
+2021,TO,Bernardo Say�o,102684
+2021,TO,Bom Jesus do Tocantins,139410
+2021,TO,Brasil�ndia do Tocantins,75634
+2021,TO,Brejinho de Nazar�,272945
+2021,TO,Buriti do Tocantins,161641
+2021,TO,Cachoeirinha,58547
+2021,TO,Campos Lindos,1004931
+2021,TO,Cariri do Tocantins,517715
+2021,TO,Carmol�ndia,69222
+2021,TO,Carrasco Bonito,50561
+2021,TO,Caseara,389493
+2021,TO,Centen�rio,64557
+2021,TO,Chapada de Areia,39824
+2021,TO,Chapada da Natividade,148973
+2021,TO,Colinas do Tocantins,862139
+2021,TO,Combinado,76524
+2021,TO,Concei��o do Tocantins,67829
+2021,TO,Couto Magalh�es,203473
+2021,TO,Cristal�ndia,177294
+2021,TO,Crix�s do Tocantins,78645
+2021,TO,Darcin�polis,241932
+2021,TO,Dian�polis,644829
+2021,TO,Divin�polis do Tocantins,249235
+2021,TO,Dois Irm�os do Tocantins,216149
+2021,TO,Duer�,204765
+2021,TO,Esperantina,118724
+2021,TO,F�tima,89100
+2021,TO,Figueir�polis,256752
+2021,TO,Filad�lfia,129323
+2021,TO,Formoso do Araguaia,1414038
+2021,TO,Taboc�o,232898
+2021,TO,Goianorte,193502
+2021,TO,Goiatins,230924
+2021,TO,Guara�,880403
+2021,TO,Gurupi,2648420
+2021,TO,Ipueiras,47772
+2021,TO,Itacaj�,186260
+2021,TO,Itaguatins,82611
+2021,TO,Itapiratins,171522
+2021,TO,Itapor� do Tocantins,69980
+2021,TO,Ja� do Tocantins,97865
+2021,TO,Juarina,44395
+2021,TO,Lagoa da Confus�o,998445
+2021,TO,Lagoa do Tocantins,89429
+2021,TO,Lajeado,64405
+2021,TO,Lavandeira,37870
+2021,TO,Lizarda,66332
+2021,TO,Luzin�polis,71180
+2021,TO,Marian�polis do Tocantins,252331
+2021,TO,Mateiros,252360
+2021,TO,Mauril�ndia do Tocantins,55911
+2021,TO,Miracema do Tocantins,642003
+2021,TO,Miranorte,390325
+2021,TO,Monte do Carmo,296288
+2021,TO,Monte Santo do Tocantins,75004
+2021,TO,Palmeiras do Tocantins,95357
+2021,TO,Muricil�ndia,69465
+2021,TO,Natividade,247340
+2021,TO,Nazar�,58139
+2021,TO,Nova Olinda,320311
+2021,TO,Nova Rosal�ndia,100915
+2021,TO,Novo Acordo,84723
+2021,TO,Novo Alegre,35521
+2021,TO,Novo Jardim,42672
+2021,TO,Oliveira de F�tima,29469
+2021,TO,Palmeirante,185349
+2021,TO,Palmeir�polis,170118
+2021,TO,Para�so do Tocantins,1513693
+2021,TO,Paran�,315397
+2021,TO,Pau D'Arco,91169
+2021,TO,Pedro Afonso,848671
+2021,TO,Peixe,733929
+2021,TO,Pequizeiro,107606
+2021,TO,Colm�ia,182796
+2021,TO,Pindorama do Tocantins,85006
+2021,TO,Piraqu�,89940
+2021,TO,Pium,361915
+2021,TO,Ponte Alta do Bom Jesus,66158
+2021,TO,Ponte Alta do Tocantins,121170
+2021,TO,Porto Alegre do Tocantins,47043
+2021,TO,Porto Nacional,3649421
+2021,TO,Praia Norte,93139
+2021,TO,Presidente Kennedy,65165
+2021,TO,Pugmil,82663
+2021,TO,Recursol�ndia,91480
+2021,TO,Riachinho,68536
+2021,TO,Rio da Concei��o,29142
+2021,TO,Rio dos Bois,85928
+2021,TO,Rio Sono,111443
+2021,TO,Sampaio,145863
+2021,TO,Sandol�ndia,116736
+2021,TO,Santa F� do Araguaia,175927
+2021,TO,Santa Maria do Tocantins,139630
+2021,TO,Santa Rita do Tocantins,180273
+2021,TO,Santa Rosa do Tocantins,307685
+2021,TO,Santa Tereza do Tocantins,48098
+2021,TO,Santa Terezinha do Tocantins,41931
+2021,TO,S�o Bento do Tocantins,73590
+2021,TO,S�o F�lix do Tocantins,36541
+2021,TO,S�o Miguel do Tocantins,255814
+2021,TO,S�o Salvador do Tocantins,49467
+2021,TO,S�o Sebasti�o do Tocantins,61804
+2021,TO,S�o Val�rio,156734
+2021,TO,Silvan�polis,240329
+2021,TO,S�tio Novo do Tocantins,132862
+2021,TO,Sucupira,532374
+2021,TO,Taguatinga,318253
+2021,TO,Taipas do Tocantins,35246
+2021,TO,Talism�,146708
+2021,TO,Palmas,10333419
+2021,TO,Tocant�nia,191373
+2021,TO,Tocantin�polis,372642
+2021,TO,Tupirama,118839
+2021,TO,Tupiratins,38619
+2021,TO,Wanderl�ndia,183424
+2021,TO,Xambio�,471020
+2021,MA,A�ail�ndia,3828780
+2021,MA,Afonso Cunha,85068
+2021,MA,�gua Doce do Maranh�o,101672
+2021,MA,Alc�ntara,148797
+2021,MA,Aldeias Altas,249450
+2021,MA,Altamira do Maranh�o,71526
+2021,MA,Alto Alegre do Maranh�o,303156
+2021,MA,Alto Alegre do Pindar�,251786
+2021,MA,Alto Parna�ba,578991
+2021,MA,Amap� do Maranh�o,70213
+2021,MA,Amarante do Maranh�o,388693
+2021,MA,Anajatuba,207643
+2021,MA,Anapurus,149133
+2021,MA,Apicum-A�u,133979
+2021,MA,Araguan�,101754
+2021,MA,Araioses,282823
+2021,MA,Arame,290362
+2021,MA,Arari,313303
+2021,MA,Axix�,97443
+2021,MA,Bacabal,1514711
+2021,MA,Bacabeira,599322
+2021,MA,Bacuri,122906
+2021,MA,Bacurituba,39600
+2021,MA,Balsas,6307610
+2021,MA,Bar�o de Graja�,268565
+2021,MA,Barra do Corda,889327
+2021,MA,Barreirinhas,635796
+2021,MA,Bel�gua,60734
+2021,MA,Bela Vista do Maranh�o,107575
+2021,MA,Benedito Leite,73162
+2021,MA,Bequim�o,138140
+2021,MA,Bernardo do Mearim,105126
+2021,MA,Boa Vista do Gurupi,67554
+2021,MA,Bom Jardim,411430
+2021,MA,Bom Jesus das Selvas,375736
+2021,MA,Bom Lugar,117983
+2021,MA,Brejo,328697
+2021,MA,Brejo de Areia,71082
+2021,MA,Buriti,277995
+2021,MA,Buriti Bravo,238710
+2021,MA,Buriticupu,748132
+2021,MA,Buritirana,122497
+2021,MA,Cachoeira Grande,60992
+2021,MA,Cajapi�,70673
+2021,MA,Cajari,128111
+2021,MA,Campestre do Maranh�o,214038
+2021,MA,C�ndido Mendes,146821
+2021,MA,Cantanhede,153436
+2021,MA,Capinzal do Norte,284011
+2021,MA,Carolina,525940
+2021,MA,Carutapera,202040
+2021,MA,Caxias,2112941
+2021,MA,Cedral,78602
+2021,MA,Central do Maranh�o,58363
+2021,MA,Centro do Guilherme,103761
+2021,MA,Centro Novo do Maranh�o,200805
+2021,MA,Chapadinha,894509
+2021,MA,Cidel�ndia,183588
+2021,MA,Cod�,1648786
+2021,MA,Coelho Neto,462763
+2021,MA,Colinas,553253
+2021,MA,Concei��o do Lago-A�u,147232
+2021,MA,Coroat�,533670
+2021,MA,Cururupu,264588
+2021,MA,Davin�polis,190230
+2021,MA,Dom Pedro,262586
+2021,MA,Duque Bacelar,86926
+2021,MA,Esperantin�polis,159009
+2021,MA,Estreito,1138794
+2021,MA,Feira Nova do Maranh�o,118019
+2021,MA,Fernando Falc�o,100433
+2021,MA,Formosa da Serra Negra,202181
+2021,MA,Fortaleza dos Nogueiras,346720
+2021,MA,Fortuna,143321
+2021,MA,Godofredo Viana,2658714
+2021,MA,Gon�alves Dias,150088
+2021,MA,Governador Archer,91925
+2021,MA,Governador Edison Lob�o,375030
+2021,MA,Governador Eug�nio Barros,118448
+2021,MA,Governador Luiz Rocha,71094
+2021,MA,Governador Newton Bello,84191
+2021,MA,Governador Nunes Freire,258016
+2021,MA,Gra�a Aranha,54166
+2021,MA,Graja�,1149837
+2021,MA,Guimar�es,93414
+2021,MA,Humberto de Campos,184411
+2021,MA,Icatu,178973
+2021,MA,Igarap� do Meio,370692
+2021,MA,Igarap� Grande,117754
+2021,MA,Imperatriz,7693511
+2021,MA,Itaipava do Graja�,107310
+2021,MA,Itapecuru Mirim,772940
+2021,MA,Itinga do Maranh�o,489270
+2021,MA,Jatob�,75706
+2021,MA,Jenipapo dos Vieiras,125762
+2021,MA,Jo�o Lisboa,270665
+2021,MA,Josel�ndia,116564
+2021,MA,Junco do Maranh�o,61714
+2021,MA,Lago da Pedra,550477
+2021,MA,Lago do Junco,86662
+2021,MA,Lago Verde,135765
+2021,MA,Lagoa do Mato,97026
+2021,MA,Lago dos Rodrigues,83998
+2021,MA,Lagoa Grande do Maranh�o,102454
+2021,MA,Lajeado Novo,101485
+2021,MA,Lima Campos,274574
+2021,MA,Loreto,413287
+2021,MA,Lu�s Domingues,57351
+2021,MA,Magalh�es de Almeida,140989
+2021,MA,Maraca�um�,207076
+2021,MA,Maraj� do Sena,90824
+2021,MA,Maranh�ozinho,120934
+2021,MA,Mata Roma,179239
+2021,MA,Matinha,196785
+2021,MA,Mat�es,256405
+2021,MA,Mat�es do Norte,99343
+2021,MA,Milagres do Maranh�o,64355
+2021,MA,Mirador,277841
+2021,MA,Miranda do Norte,788634
+2021,MA,Mirinzal,112073
+2021,MA,Mon��o,257693
+2021,MA,Montes Altos,86501
+2021,MA,Morros,149936
+2021,MA,Nina Rodrigues,88539
+2021,MA,Nova Colinas,86441
+2021,MA,Nova Iorque,50977
+2021,MA,Nova Olinda do Maranh�o,183185
+2021,MA,Olho d'�gua das Cunh�s,188405
+2021,MA,Olinda Nova do Maranh�o,107307
+2021,MA,Pa�o do Lumiar,1240527
+2021,MA,Palmeir�ndia,139135
+2021,MA,Paraibano,183383
+2021,MA,Parnarama,323004
+2021,MA,Passagem Franca,200120
+2021,MA,Pastos Bons,309545
+2021,MA,Paulino Neves,118360
+2021,MA,Paulo Ramos,194181
+2021,MA,Pedreiras,787721
+2021,MA,Pedro do Ros�rio,157904
+2021,MA,Penalva,253791
+2021,MA,Peri Mirim,95959
+2021,MA,Peritor�,230472
+2021,MA,Pindar�-Mirim,296247
+2021,MA,Pinheiro,1040054
+2021,MA,Pio XII,191368
+2021,MA,Pirapemas,130801
+2021,MA,Po��o de Pedras,163110
+2021,MA,Porto Franco,1026129
+2021,MA,Porto Rico do Maranh�o,45867
+2021,MA,Presidente Dutra,755768
+2021,MA,Presidente Juscelino,84499
+2021,MA,Presidente M�dici,60695
+2021,MA,Presidente Sarney,165015
+2021,MA,Presidente Vargas,76191
+2021,MA,Primeira Cruz,89108
+2021,MA,Raposa,286199
+2021,MA,Riach�o,673241
+2021,MA,Ribamar Fiquene,124208
+2021,MA,Ros�rio,443240
+2021,MA,Samba�ba,474716
+2021,MA,Santa Filomena do Maranh�o,60216
+2021,MA,Santa Helena,358032
+2021,MA,Santa In�s,1466090
+2021,MA,Santa Luzia,743553
+2021,MA,Santa Luzia do Paru�,253366
+2021,MA,Santa Quit�ria do Maranh�o,218496
+2021,MA,Santa Rita,354687
+2021,MA,Santana do Maranh�o,74107
+2021,MA,Santo Amaro do Maranh�o,95956
+2021,MA,Santo Ant�nio dos Lopes,3055591
+2021,MA,S�o Benedito do Rio Preto,143478
+2021,MA,S�o Bento,312229
+2021,MA,S�o Bernardo,281230
+2021,MA,S�o Domingos do Azeit�o,320539
+2021,MA,S�o Domingos do Maranh�o,355969
+2021,MA,S�o F�lix de Balsas,86169
+2021,MA,S�o Francisco do Brej�o,121274
+2021,MA,S�o Francisco do Maranh�o,98997
+2021,MA,S�o Jo�o Batista,135625
+2021,MA,S�o Jo�o do Car�,123039
+2021,MA,S�o Jo�o do Para�so,151478
+2021,MA,S�o Jo�o do Soter,156403
+2021,MA,S�o Jo�o dos Patos,341012
+2021,MA,S�o Jos� de Ribamar,2293966
+2021,MA,S�o Jos� dos Bas�lios,61953
+2021,MA,S�o Lu�s,36535226
+2021,MA,S�o Lu�s Gonzaga do Maranh�o,170085
+2021,MA,S�o Mateus do Maranh�o,429291
+2021,MA,S�o Pedro da �gua Branca,127634
+2021,MA,S�o Pedro dos Crentes,83552
+2021,MA,S�o Raimundo das Mangabeiras,739661
+2021,MA,S�o Raimundo do Doca Bezerra,43968
+2021,MA,S�o Roberto,45779
+2021,MA,S�o Vicente Ferrer,145781
+2021,MA,Satubinha,93100
+2021,MA,Senador Alexandre Costa,101851
+2021,MA,Senador La Rocque,187168
+2021,MA,Serrano do Maranh�o,72464
+2021,MA,S�tio Novo,221539
+2021,MA,Sucupira do Norte,126237
+2021,MA,Sucupira do Riach�o,48010
+2021,MA,Tasso Fragoso,2351452
+2021,MA,Timbiras,196385
+2021,MA,Timon,2320942
+2021,MA,Trizidela do Vale,525551
+2021,MA,Tufil�ndia,60071
+2021,MA,Tuntum,365257
+2021,MA,Turia�u,295967
+2021,MA,Turil�ndia,223113
+2021,MA,Tut�ia,546267
+2021,MA,Urbano Santos,247541
+2021,MA,Vargem Grande,433576
+2021,MA,Viana,490490
+2021,MA,Vila Nova dos Mart�rios,156939
+2021,MA,Vit�ria do Mearim,318224
+2021,MA,Vitorino Freire,325567
+2021,MA,Z� Doca,567166
+2021,PI,Acau�,73561
+2021,PI,Agricol�ndia,47283
+2021,PI,�gua Branca,243971
+2021,PI,Alagoinha do Piau�,65442
+2021,PI,Alegrete do Piau�,48184
+2021,PI,Alto Long�,130955
+2021,PI,Altos,537774
+2021,PI,Alvorada do Gurgu�ia,82125
+2021,PI,Amarante,192592
+2021,PI,Angical do Piau�,66748
+2021,PI,An�sio de Abreu,98945
+2021,PI,Ant�nio Almeida,143815
+2021,PI,Aroazes,57305
+2021,PI,Aroeiras do Itaim,24625
+2021,PI,Arraial,48922
+2021,PI,Assun��o do Piau�,64266
+2021,PI,Avelino Lopes,97601
+2021,PI,Baixa Grande do Ribeiro,1768579
+2021,PI,Barra D'Alc�ntara,38963
+2021,PI,Barras,497599
+2021,PI,Barreiras do Piau�,163172
+2021,PI,Barro Duro,89830
+2021,PI,Batalha,250803
+2021,PI,Bela Vista do Piau�,46876
+2021,PI,Bel�m do Piau�,41264
+2021,PI,Beneditinos,91895
+2021,PI,Bertol�nia,72158
+2021,PI,Bet�nia do Piau�,62561
+2021,PI,Boa Hora,62507
+2021,PI,Bocaina,47772
+2021,PI,Bom Jesus,1410185
+2021,PI,Bom Princ�pio do Piau�,70166
+2021,PI,Bonfim do Piau�,52945
+2021,PI,Boqueir�o do Piau�,51725
+2021,PI,Brasileira,69324
+2021,PI,Brejo do Piau�,43978
+2021,PI,Buriti dos Lopes,214747
+2021,PI,Buriti dos Montes,69690
+2021,PI,Cabeceiras do Piau�,86134
+2021,PI,Cajazeiras do Piau�,34182
+2021,PI,Cajueiro da Praia,115376
+2021,PI,Caldeir�o Grande do Piau�,195079
+2021,PI,Campinas do Piau�,57496
+2021,PI,Campo Alegre do Fidalgo,51371
+2021,PI,Campo Grande do Piau�,62135
+2021,PI,Campo Largo do Piau�,56554
+2021,PI,Campo Maior,705863
+2021,PI,Canavieira,41948
+2021,PI,Canto do Buriti,271388
+2021,PI,Capit�o de Campos,106410
+2021,PI,Capit�o Gerv�sio Oliveira,43675
+2021,PI,Caracol,97485
+2021,PI,Cara�bas do Piau�,57437
+2021,PI,Caridade do Piau�,50031
+2021,PI,Castelo do Piau�,202443
+2021,PI,Caxing�,53140
+2021,PI,Cocal,272767
+2021,PI,Cocal de Telha,46961
+2021,PI,Cocal dos Alves,56960
+2021,PI,Coivaras,37708
+2021,PI,Col�nia do Gurgu�ia,70559
+2021,PI,Col�nia do Piau�,68111
+2021,PI,Concei��o do Canind�,60446
+2021,PI,Coronel Jos� Dias,40760
+2021,PI,Corrente,680693
+2021,PI,Cristal�ndia do Piau�,75069
+2021,PI,Cristino Castro,121550
+2021,PI,Curimat�,141390
+2021,PI,Currais,409013
+2021,PI,Curralinhos,39660
+2021,PI,Curral Novo do Piau�,78394
+2021,PI,Demerval Lob�o,211639
+2021,PI,Dirceu Arcoverde,67492
+2021,PI,Dom Expedito Lopes,78045
+2021,PI,Domingos Mour�o,46532
+2021,PI,Dom Inoc�ncio,164346
+2021,PI,Elesb�o Veloso,164731
+2021,PI,Eliseu Martins,55592
+2021,PI,Esperantina,456546
+2021,PI,Fartura do Piau�,46774
+2021,PI,Flores do Piau�,48120
+2021,PI,Floresta do Piau�,25258
+2021,PI,Floriano,1469174
+2021,PI,Francin�polis,44797
+2021,PI,Francisco Ayres,46763
+2021,PI,Francisco Macedo,32841
+2021,PI,Francisco Santos,83027
+2021,PI,Fronteiras,112454
+2021,PI,Geminiano,59253
+2021,PI,Gilbu�s,416894
+2021,PI,Guadalupe,637192
+2021,PI,Guaribas,45099
+2021,PI,Hugo Napole�o,34066
+2021,PI,Ilha Grande,119725
+2021,PI,Inhuma,163624
+2021,PI,Ipiranga do Piau�,82417
+2021,PI,Isa�as Coelho,80798
+2021,PI,Itain�polis,108192
+2021,PI,Itaueira,131853
+2021,PI,Jacobina do Piau�,69064
+2021,PI,Jaic�s,191771
+2021,PI,Jardim do Mulato,39632
+2021,PI,Jatob� do Piau�,58747
+2021,PI,Jerumenha,63528
+2021,PI,Jo�o Costa,69289
+2021,PI,Joaquim Pires,118894
+2021,PI,Joca Marques,46226
+2021,PI,Jos� de Freitas,390718
+2021,PI,Juazeiro do Piau�,56058
+2021,PI,J�lio Borges,80794
+2021,PI,Jurema,43566
+2021,PI,Lagoinha do Piau�,40519
+2021,PI,Lagoa Alegre,77314
+2021,PI,Lagoa do Barro do Piau�,534683
+2021,PI,Lagoa de S�o Francisco,54980
+2021,PI,Lagoa do Piau�,75615
+2021,PI,Lagoa do S�tio,48595
+2021,PI,Landri Sales,109799
+2021,PI,Lu�s Correia,378697
+2021,PI,Luzil�ndia,241221
+2021,PI,Madeiro,75141
+2021,PI,Manoel Em�dio,54807
+2021,PI,Marcol�ndia,198352
+2021,PI,Marcos Parente,54884
+2021,PI,Massap� do Piau�,52130
+2021,PI,Matias Ol�mpio,95555
+2021,PI,Miguel Alves,312819
+2021,PI,Miguel Le�o,23604
+2021,PI,Milton Brand�o,53563
+2021,PI,Monsenhor Gil,127469
+2021,PI,Monsenhor Hip�lito,72882
+2021,PI,Monte Alegre do Piau�,298089
+2021,PI,Morro Cabe�a no Tempo,39152
+2021,PI,Morro do Chap�u do Piau�,62450
+2021,PI,Murici dos Portelas,74909
+2021,PI,Nazar� do Piau�,67046
+2021,PI,Naz�ria,94817
+2021,PI,Nossa Senhora de Nazar�,47885
+2021,PI,Nossa Senhora dos Rem�dios,78547
+2021,PI,Novo Oriente do Piau�,58172
+2021,PI,Novo Santo Ant�nio,31237
+2021,PI,Oeiras,584373
+2021,PI,Olho D'�gua do Piau�,28731
+2021,PI,Padre Marcos,73909
+2021,PI,Paes Landim,44249
+2021,PI,Paje� do Piau�,52581
+2021,PI,Palmeira do Piau�,141457
+2021,PI,Palmeirais,138692
+2021,PI,Paquet�,44237
+2021,PI,Parnagu�,119215
+2021,PI,Parna�ba,2968947
+2021,PI,Passagem Franca do Piau�,48758
+2021,PI,Patos do Piau�,64629
+2021,PI,Pau D'Arco do Piau�,33612
+2021,PI,Paulistana,267709
+2021,PI,Pavussu,37693
+2021,PI,Pedro II,386275
+2021,PI,Pedro Laurentino,31322
+2021,PI,Nova Santa Rita,43931
+2021,PI,Picos,1940259
+2021,PI,Pimenteiras,106973
+2021,PI,Pio IX,202627
+2021,PI,Piracuruca,363522
+2021,PI,Piripiri,916771
+2021,PI,Porto,118547
+2021,PI,Porto Alegre do Piau�,39212
+2021,PI,Prata do Piau�,27584
+2021,PI,Queimada Nova,253485
+2021,PI,Reden��o do Gurgu�ia,97930
+2021,PI,Regenera��o,264514
+2021,PI,Riacho Frio,46279
+2021,PI,Ribeira do Piau�,217390
+2021,PI,Ribeiro Gon�alves,695855
+2021,PI,Rio Grande do Piau�,61491
+2021,PI,Santa Cruz do Piau�,61011
+2021,PI,Santa Cruz dos Milagres,45472
+2021,PI,Santa Filomena,615987
+2021,PI,Santa Luz,62480
+2021,PI,Santana do Piau�,40807
+2021,PI,Santa Rosa do Piau�,50228
+2021,PI,Santo Ant�nio de Lisboa,71849
+2021,PI,Santo Ant�nio dos Milagres,18051
+2021,PI,Santo In�cio do Piau�,40377
+2021,PI,S�o Braz do Piau�,39471
+2021,PI,S�o F�lix do Piau�,32116
+2021,PI,S�o Francisco de Assis do Piau�,55545
+2021,PI,S�o Francisco do Piau�,58406
+2021,PI,S�o Gon�alo do Gurgu�ia,54607
+2021,PI,S�o Gon�alo do Piau�,56735
+2021,PI,S�o Jo�o da Canabrava,49321
+2021,PI,S�o Jo�o da Fronteira,60925
+2021,PI,S�o Jo�o da Serra,59723
+2021,PI,S�o Jo�o da Varjota,36648
+2021,PI,S�o Jo�o do Arraial,68235
+2021,PI,S�o Jo�o do Piau�,426951
+2021,PI,S�o Jos� do Divino,63753
+2021,PI,S�o Jos� do Peixe,42836
+2021,PI,S�o Jos� do Piau�,68075
+2021,PI,S�o Juli�o,59534
+2021,PI,S�o Louren�o do Piau�,45315
+2021,PI,S�o Luis do Piau�,25332
+2021,PI,S�o Miguel da Baixa Grande,27272
+2021,PI,S�o Miguel do Fidalgo,47464
+2021,PI,S�o Miguel do Tapuio,163378
+2021,PI,S�o Pedro do Piau�,134821
+2021,PI,S�o Raimundo Nonato,566178
+2021,PI,Sebasti�o Barros,46712
+2021,PI,Sebasti�o Leal,255415
+2021,PI,Sigefredo Pacheco,78161
+2021,PI,Sim�es,434444
+2021,PI,Simpl�cio Mendes,182823
+2021,PI,Socorro do Piau�,41067
+2021,PI,Sussuapara,76888
+2021,PI,Tamboril do Piau�,30388
+2021,PI,Tanque do Piau�,33181
+2021,PI,Teresina,23895231
+2021,PI,Uni�o,420316
+2021,PI,Uru�u�,2815208
+2021,PI,Valen�a do Piau�,289656
+2021,PI,V�rzea Branca,44540
+2021,PI,V�rzea Grande,40995
+2021,PI,Vera Mendes,31077
+2021,PI,Vila Nova do Piau�,37035
+2021,PI,Wall Ferraz,38008
+2021,CE,Abaiara,117971
+2021,CE,Acarape,179994
+2021,CE,Acara�,1020201
+2021,CE,Acopiara,564520
+2021,CE,Aiuaba,151596
+2021,CE,Alc�ntaras,98202
+2021,CE,Altaneira,74654
+2021,CE,Alto Santo,232268
+2021,CE,Amontada,665472
+2021,CE,Antonina do Norte,78953
+2021,CE,Apuiar�s,120978
+2021,CE,Aquiraz,3854310
+2021,CE,Aracati,1706691
+2021,CE,Aracoiaba,266422
+2021,CE,Ararend�,106784
+2021,CE,Araripe,207982
+2021,CE,Aratuba,151645
+2021,CE,Arneiroz,70224
+2021,CE,Assar�,237259
+2021,CE,Aurora,216792
+2021,CE,Baixio,67541
+2021,CE,Banabui�,260031
+2021,CE,Barbalha,1345205
+2021,CE,Barreira,240016
+2021,CE,Barro,242027
+2021,CE,Barroquinha,133335
+2021,CE,Baturit�,448272
+2021,CE,Beberibe,1059006
+2021,CE,Bela Cruz,322244
+2021,CE,Boa Viagem,539218
+2021,CE,Brejo Santo,817034
+2021,CE,Camocim,839500
+2021,CE,Campos Sales,292357
+2021,CE,Canind�,911356
+2021,CE,Capistrano,176809
+2021,CE,Caridade,186169
+2021,CE,Carir�,193105
+2021,CE,Cariria�u,253127
+2021,CE,Cari�s,180984
+2021,CE,Carnaubal,166772
+2021,CE,Cascavel,1074377
+2021,CE,Catarina,154108
+2021,CE,Catunda,112081
+2021,CE,Caucaia,10414373
+2021,CE,Cedro,247325
+2021,CE,Chaval,110318
+2021,CE,Chor�,178989
+2021,CE,Chorozinho,260273
+2021,CE,Corea�,225090
+2021,CE,Crate�s,952649
+2021,CE,Crato,1871587
+2021,CE,Croat�,224437
+2021,CE,Cruz,372662
+2021,CE,Deputado Irapuan Pinheiro,100883
+2021,CE,Erer�,80690
+2021,CE,Eus�bio,3577747
+2021,CE,Farias Brito,202248
+2021,CE,Forquilha,304957
+2021,CE,Fortaleza,73436128
+2021,CE,Fortim,312460
+2021,CE,Frecheirinha,275921
+2021,CE,General Sampaio,86963
+2021,CE,Gra�a,129711
+2021,CE,Granja,469407
+2021,CE,Granjeiro,51337
+2021,CE,Groa�ras,110755
+2021,CE,Guai�ba,231993
+2021,CE,Guaraciaba do Norte,669209
+2021,CE,Guaramiranga,80396
+2021,CE,Hidrol�ndia,185025
+2021,CE,Horizonte,2117193
+2021,CE,Ibaretama,132265
+2021,CE,Ibiapina,348540
+2021,CE,Ibicuitinga,124951
+2021,CE,Icapu�,411021
+2021,CE,Ic�,737489
+2021,CE,Iguatu,1904815
+2021,CE,Independ�ncia,306809
+2021,CE,Ipaporanga,114127
+2021,CE,Ipaumirim,143451
+2021,CE,Ipu,519845
+2021,CE,Ipueiras,328115
+2021,CE,Iracema,195282
+2021,CE,Irau�uba,220294
+2021,CE,Itai�aba,82855
+2021,CE,Itaitinga,1258826
+2021,CE,Itapaj�,594581
+2021,CE,Itapipoca,1784007
+2021,CE,Itapi�na,170314
+2021,CE,Itarema,766786
+2021,CE,Itatira,174029
+2021,CE,Jaguaretama,226644
+2021,CE,Jaguaribara,154002
+2021,CE,Jaguaribe,561175
+2021,CE,Jaguaruana,566961
+2021,CE,Jardim,294154
+2021,CE,Jati,129729
+2021,CE,Jijoca de Jericoacoara,551638
+2021,CE,Juazeiro do Norte,5114793
+2021,CE,Juc�s,319373
+2021,CE,Lavras da Mangabeira,343304
+2021,CE,Limoeiro do Norte,1423366
+2021,CE,Madalena,174831
+2021,CE,Maracana�,12337017
+2021,CE,Maranguape,1649528
+2021,CE,Marco,390969
+2021,CE,Martin�pole,96327
+2021,CE,Massap�,378718
+2021,CE,Mauriti,517496
+2021,CE,Meruoca,129293
+2021,CE,Milagres,287223
+2021,CE,Milh�,195290
+2021,CE,Mira�ma,112599
+2021,CE,Miss�o Velha,515937
+2021,CE,Momba�a,446847
+2021,CE,Monsenhor Tabosa,160699
+2021,CE,Morada Nova,1276864
+2021,CE,Mora�jo,75575
+2021,CE,Morrinhos,193204
+2021,CE,Mucambo,131292
+2021,CE,Mulungu,123801
+2021,CE,Nova Olinda,163381
+2021,CE,Nova Russas,336930
+2021,CE,Novo Oriente,283185
+2021,CE,Ocara,284836
+2021,CE,Or�s,218899
+2021,CE,Pacajus,1360520
+2021,CE,Pacatuba,1235158
+2021,CE,Pacoti,148366
+2021,CE,Pacuj�,59940
+2021,CE,Palhano,98773
+2021,CE,Palm�cia,115124
+2021,CE,Paracuru,555931
+2021,CE,Paraipaba,535129
+2021,CE,Parambu,288689
+2021,CE,Paramoti,110908
+2021,CE,Pedra Branca,389914
+2021,CE,Penaforte,122162
+2021,CE,Pentecoste,484760
+2021,CE,Pereiro,560571
+2021,CE,Pindoretama,274852
+2021,CE,Piquet Carneiro,162092
+2021,CE,Pires Ferreira,84230
+2021,CE,Poranga,109402
+2021,CE,Porteiras,186375
+2021,CE,Potengi,110570
+2021,CE,Potiretama,96816
+2021,CE,Quiterian�polis,184720
+2021,CE,Quixad�,1109869
+2021,CE,Quixel�,198820
+2021,CE,Quixeramobim,1402461
+2021,CE,Quixer�,637015
+2021,CE,Reden��o,409867
+2021,CE,Reriutaba,190710
+2021,CE,Russas,1158523
+2021,CE,Saboeiro,169856
+2021,CE,Salitre,159284
+2021,CE,Santana do Acara�,280072
+2021,CE,Santana do Cariri,159277
+2021,CE,Santa Quit�ria,633710
+2021,CE,S�o Benedito,627180
+2021,CE,S�o Gon�alo do Amarante,8633637
+2021,CE,S�o Jo�o do Jaguaribe,107898
+2021,CE,S�o Lu�s do Curu,133109
+2021,CE,Senador Pompeu,352272
+2021,CE,Senador S�,62766
+2021,CE,Sobral,5395130
+2021,CE,Solon�pole,303284
+2021,CE,Tabuleiro do Norte,450593
+2021,CE,Tamboril,282247
+2021,CE,Tarrafas,85682
+2021,CE,Tau�,711836
+2021,CE,Teju�uoca,136988
+2021,CE,Tiangu�,1732690
+2021,CE,Trairi,1115144
+2021,CE,Tururu,138079
+2021,CE,Ubajara,642046
+2021,CE,Umari,69441
+2021,CE,Umirim,172797
+2021,CE,Uruburetama,299474
+2021,CE,Uruoca,298207
+2021,CE,Varjota,375819
+2021,CE,V�rzea Alegre,468101
+2021,CE,Vi�osa do Cear�,603321
+2021,RN,Acari,141994
+2021,RN,A�u,1467571
+2021,RN,Afonso Bezerra,138265
+2021,RN,�gua Nova,34553
+2021,RN,Alexandria,150790
+2021,RN,Almino Afonso,50062
+2021,RN,Alto do Rodrigues,616327
+2021,RN,Angicos,180166
+2021,RN,Ant�nio Martins,65526
+2021,RN,Apodi,709591
+2021,RN,Areia Branca,935974
+2021,RN,Ar�s,386634
+2021,RN,Campo Grande,105356
+2021,RN,Ba�a Formosa,325032
+2021,RN,Bara�na,746402
+2021,RN,Barcelona,45865
+2021,RN,Bento Fernandes,88430
+2021,RN,Bod�,286575
+2021,RN,Bom Jesus,109338
+2021,RN,Brejinho,139466
+2021,RN,Cai�ara do Norte,112178
+2021,RN,Cai�ara do Rio do Vento,60457
+2021,RN,Caic�,1394849
+2021,RN,Campo Redondo,106968
+2021,RN,Canguaretama,605678
+2021,RN,Cara�bas,373661
+2021,RN,Carna�ba dos Dantas,118373
+2021,RN,Carnaubais,210950
+2021,RN,Cear�-Mirim,1002205
+2021,RN,Cerro Cor�,140412
+2021,RN,Coronel Ezequiel,52507
+2021,RN,Coronel Jo�o Pessoa,48167
+2021,RN,Cruzeta,123142
+2021,RN,Currais Novos,804231
+2021,RN,Doutor Severiano,78557
+2021,RN,Parnamirim,6845403
+2021,RN,Encanto,62293
+2021,RN,Equador,81977
+2021,RN,Esp�rito Santo,97586
+2021,RN,Extremoz,570425
+2021,RN,Felipe Guerra,173827
+2021,RN,Fernando Pedroza,39070
+2021,RN,Flor�nia,120493
+2021,RN,Francisco Dantas,32759
+2021,RN,Frutuoso Gomes,44912
+2021,RN,Galinhos,162617
+2021,RN,Goianinha,546576
+2021,RN,Governador Dix-Sept Rosado,386262
+2021,RN,Grossos,158310
+2021,RN,Guamar�,2042144
+2021,RN,Ielmo Marinho,140721
+2021,RN,Ipangua�u,196501
+2021,RN,Ipueira,34930
+2021,RN,Itaj�,99445
+2021,RN,Ita�,73782
+2021,RN,Ja�an�,86390
+2021,RN,Janda�ra,101431
+2021,RN,Jandu�s,84499
+2021,RN,Janu�rio Cicco,84900
+2021,RN,Japi,51548
+2021,RN,Jardim de Angicos,64392
+2021,RN,Jardim de Piranhas,213316
+2021,RN,Jardim do Serid�,207993
+2021,RN,Jo�o C�mara,1269841
+2021,RN,Jo�o Dias,27991
+2021,RN,Jos� da Penha,67415
+2021,RN,Jucurutu,315841
+2021,RN,Jundi�,42148
+2021,RN,Lagoa d'Anta,70839
+2021,RN,Lagoa de Pedras,81382
+2021,RN,Lagoa de Velhos,38242
+2021,RN,Lagoa Nova,269036
+2021,RN,Lagoa Salgada,94313
+2021,RN,Lajes,165930
+2021,RN,Lajes Pintadas,51595
+2021,RN,Lucr�cia,51510
+2021,RN,Lu�s Gomes,87827
+2021,RN,Maca�ba,1828152
+2021,RN,Macau,1111123
+2021,RN,Major Sales,48004
+2021,RN,Marcelino Vieira,82890
+2021,RN,Martins,108195
+2021,RN,Maxaranguape,134894
+2021,RN,Messias Targino,55530
+2021,RN,Montanhas,130284
+2021,RN,Monte Alegre,271456
+2021,RN,Monte das Gameleiras,32367
+2021,RN,Mossor�,8071762
+2021,RN,Natal,24186262
+2021,RN,N�sia Floresta,474722
+2021,RN,Nova Cruz,560501
+2021,RN,Olho d'�gua do Borges,47533
+2021,RN,Ouro Branco,61704
+2021,RN,Paran�,43932
+2021,RN,Para�,55258
+2021,RN,Parazinho,606241
+2021,RN,Parelhas,368927
+2021,RN,Rio do Fogo,185593
+2021,RN,Passa e Fica,152324
+2021,RN,Passagem,46129
+2021,RN,Patu,160914
+2021,RN,Santa Maria,78032
+2021,RN,Pau dos Ferros,709333
+2021,RN,Pedra Grande,293285
+2021,RN,Pedra Preta,36128
+2021,RN,Pedro Avelino,79996
+2021,RN,Pedro Velho,173619
+2021,RN,Pend�ncias,757494
+2021,RN,Pil�es,41829
+2021,RN,Po�o Branco,131862
+2021,RN,Portalegre,78934
+2021,RN,Porto do Mangue,149473
+2021,RN,Serra Caiada,109308
+2021,RN,Pureza,169430
+2021,RN,Rafael Fernandes,53271
+2021,RN,Rafael Godeiro,43451
+2021,RN,Riacho da Cruz,37508
+2021,RN,Riacho de Santana,43514
+2021,RN,Riachuelo,192158
+2021,RN,Rodolfo Fernandes,59194
+2021,RN,Tibau,115024
+2021,RN,Ruy Barbosa,126773
+2021,RN,Santa Cruz,619042
+2021,RN,Santana do Matos,147040
+2021,RN,Santana do Serid�,36354
+2021,RN,Santo Ant�nio,302537
+2021,RN,S�o Bento do Norte,549243
+2021,RN,S�o Bento do Trair�,45624
+2021,RN,S�o Fernando,63598
+2021,RN,S�o Francisco do Oeste,54448
+2021,RN,S�o Gon�alo do Amarante,1905023
+2021,RN,S�o Jo�o do Sabugi,84586
+2021,RN,S�o Jos� de Mipibu,1040964
+2021,RN,S�o Jos� do Campestre,125093
+2021,RN,S�o Jos� do Serid�,83855
+2021,RN,S�o Miguel,319744
+2021,RN,S�o Miguel do Gostoso,492640
+2021,RN,S�o Paulo do Potengi,231555
+2021,RN,S�o Pedro,55801
+2021,RN,S�o Rafael,88676
+2021,RN,S�o Tom�,111776
+2021,RN,S�o Vicente,76922
+2021,RN,Senador El�i de Souza,60476
+2021,RN,Senador Georgino Avelino,116487
+2021,RN,Serra de S�o Bento,57411
+2021,RN,Serra do Mel,858724
+2021,RN,Serra Negra do Norte,118876
+2021,RN,Serrinha,71899
+2021,RN,Serrinha dos Pintos,49787
+2021,RN,Severiano Melo,63100
+2021,RN,S�tio Novo,53784
+2021,RN,Taboleiro Grande,32473
+2021,RN,Taipu,155199
+2021,RN,Tangar�,201785
+2021,RN,Tenente Ananias,113588
+2021,RN,Tenente Laurentino Cruz,107286
+2021,RN,Tibau do Sul,415833
+2021,RN,Timba�ba dos Batistas,43618
+2021,RN,Touros,814845
+2021,RN,Triunfo Potiguar,45831
+2021,RN,Umarizal,151207
+2021,RN,Upanema,214155
+2021,RN,V�rzea,56556
+2021,RN,Venha-Ver,43203
+2021,RN,Vera Cruz,133471
+2021,RN,Vi�osa,23239
+2021,RN,Vila Flor,44404
+2021,PB,�gua Branca,92036
+2021,PB,Aguiar,60096
+2021,PB,Alagoa Grande,300116
+2021,PB,Alagoa Nova,335056
+2021,PB,Alagoinha,138510
+2021,PB,Alcantil,55097
+2021,PB,Algod�o de Janda�ra,28629
+2021,PB,Alhandra,3399775
+2021,PB,S�o Jo�o do Rio do Peixe,225531
+2021,PB,Amparo,29433
+2021,PB,Aparecida,105226
+2021,PB,Ara�agi,185877
+2021,PB,Arara,112308
+2021,PB,Araruna,204298
+2021,PB,Areia,257222
+2021,PB,Areia de Bara�nas,26095
+2021,PB,Areial,62578
+2021,PB,Aroeiras,167985
+2021,PB,Assun��o,48498
+2021,PB,Ba�a da Trai��o,107854
+2021,PB,Bananeiras,278904
+2021,PB,Bara�na,49784
+2021,PB,Barra de Santana,90801
+2021,PB,Barra de Santa Rosa,150845
+2021,PB,Barra de S�o Miguel,84815
+2021,PB,Bayeux,1366842
+2021,PB,Bel�m,218067
+2021,PB,Bel�m do Brejo do Cruz,78557
+2021,PB,Bernardino Batista,40037
+2021,PB,Boa Ventura,51615
+2021,PB,Boa Vista,206387
+2021,PB,Bom Jesus,32051
+2021,PB,Bom Sucesso,54513
+2021,PB,Bonito de Santa F�,96549
+2021,PB,Boqueir�o,256636
+2021,PB,Igaracy,60774
+2021,PB,Borborema,69205
+2021,PB,Brejo do Cruz,147154
+2021,PB,Brejo dos Santos,64311
+2021,PB,Caapor�,467127
+2021,PB,Cabaceiras,116487
+2021,PB,Cabedelo,3152546
+2021,PB,Cachoeira dos �ndios,124811
+2021,PB,Cacimba de Areia,39106
+2021,PB,Cacimba de Dentro,154036
+2021,PB,Cacimbas,67103
+2021,PB,Cai�ara,65661
+2021,PB,Cajazeiras,1231740
+2021,PB,Cajazeirinhas,42009
+2021,PB,Caldas Brand�o,74706
+2021,PB,Camala�,71642
+2021,PB,Campina Grande,10373107
+2021,PB,Capim,75638
+2021,PB,Cara�bas,42197
+2021,PB,Carrapateira,30950
+2021,PB,Casserengue,70018
+2021,PB,Catingueira,52899
+2021,PB,Catol� do Rocha,505607
+2021,PB,Caturit�,61665
+2021,PB,Concei��o,209010
+2021,PB,Condado,90373
+2021,PB,Conde,1286990
+2021,PB,Congo,61704
+2021,PB,Coremas,249601
+2021,PB,Coxixola,24017
+2021,PB,Cruz do Esp�rito Santo,191194
+2021,PB,Cubati,76814
+2021,PB,Cuit�,220439
+2021,PB,Cuitegi,66742
+2021,PB,Cuit� de Mamanguape,74110
+2021,PB,Curral de Cima,55526
+2021,PB,Curral Velho,26783
+2021,PB,Dami�o,50276
+2021,PB,Desterro,72715
+2021,PB,Vista Serrana,39390
+2021,PB,Diamante,59345
+2021,PB,Dona In�s,93830
+2021,PB,Duas Estradas,45025
+2021,PB,Emas,41639
+2021,PB,Esperan�a,507256
+2021,PB,Fagundes,105312
+2021,PB,Frei Martinho,30264
+2021,PB,Gado Bravo,76211
+2021,PB,Guarabira,1790168
+2021,PB,Gurinh�m,150970
+2021,PB,Gurj�o,38324
+2021,PB,Ibiara,57772
+2021,PB,Imaculada,98314
+2021,PB,Ing�,194961
+2021,PB,Itabaiana,335812
+2021,PB,Itaporanga,341235
+2021,PB,Itapororoca,206433
+2021,PB,Itatuba,155216
+2021,PB,Jacara�,165130
+2021,PB,Jeric�,76303
+2021,PB,Jo�o Pessoa,22244284
+2021,PB,Juarez T�vora,73121
+2021,PB,Juazeirinho,210329
+2021,PB,Junco do Serid�,96602
+2021,PB,Juripiranga,117363
+2021,PB,Juru,87266
+2021,PB,Lagoa,51232
+2021,PB,Lagoa de Dentro,83537
+2021,PB,Lagoa Seca,309763
+2021,PB,Lastro,29495
+2021,PB,Livramento,70043
+2021,PB,Logradouro,48651
+2021,PB,Lucena,223066
+2021,PB,M�e d'�gua,38604
+2021,PB,Malta,79659
+2021,PB,Mamanguape,805007
+2021,PB,Mana�ra,101428
+2021,PB,Marca��o,95670
+2021,PB,Mari,241807
+2021,PB,Mariz�polis,81944
+2021,PB,Massaranduba,130381
+2021,PB,Mataraca,240531
+2021,PB,Matinhas,54035
+2021,PB,Mato Grosso,31801
+2021,PB,Matur�ia,61811
+2021,PB,Mogeiro,164372
+2021,PB,Montadas,55245
+2021,PB,Monte Horebe,48074
+2021,PB,Monteiro,635380
+2021,PB,Mulungu,98150
+2021,PB,Natuba,95465
+2021,PB,Nazarezinho,65965
+2021,PB,Nova Floresta,99606
+2021,PB,Nova Olinda,57802
+2021,PB,Nova Palmeira,48983
+2021,PB,Olho d'�gua,61851
+2021,PB,Olivedos,43585
+2021,PB,Ouro Velho,38279
+2021,PB,Parari,21495
+2021,PB,Passagem,28860
+2021,PB,Patos,1993586
+2021,PB,Paulista,157014
+2021,PB,Pedra Branca,37463
+2021,PB,Pedra Lavrada,80075
+2021,PB,Pedras de Fogo,556476
+2021,PB,Pianc�,206302
+2021,PB,Picu�,213192
+2021,PB,Pilar,121700
+2021,PB,Pil�es,95436
+2021,PB,Pil�ezinhos,51216
+2021,PB,Pirpirituba,95103
+2021,PB,Pitimbu,430316
+2021,PB,Pocinhos,284640
+2021,PB,Po�o Dantas,40230
+2021,PB,Po�o de Jos� de Moura,46792
+2021,PB,Pombal,465068
+2021,PB,Prata,64688
+2021,PB,Princesa Isabel,266345
+2021,PB,Puxinan�,137837
+2021,PB,Queimadas,605759
+2021,PB,Quixaba,26746
+2021,PB,Rem�gio,181360
+2021,PB,Pedro R�gis,57186
+2021,PB,Riach�o,36492
+2021,PB,Riach�o do Bacamarte,50101
+2021,PB,Riach�o do Po�o,56187
+2021,PB,Riacho de Santo Ant�nio,30562
+2021,PB,Riacho dos Cavalos,92585
+2021,PB,Rio Tinto,321971
+2021,PB,Salgadinho,33444
+2021,PB,Salgado de S�o F�lix,128636
+2021,PB,Santa Cec�lia,65649
+2021,PB,Santa Cruz,62114
+2021,PB,Santa Helena,62162
+2021,PB,Santa In�s,36756
+2021,PB,Santa Luzia,372292
+2021,PB,Santana de Mangueira,51046
+2021,PB,Santana dos Garrotes,67142
+2021,PB,Joca Claudino,33004
+2021,PB,Santa Rita,2616825
+2021,PB,Santa Teresinha,57191
+2021,PB,Santo Andr�,29350
+2021,PB,S�o Bento,567017
+2021,PB,S�o Bentinho,55030
+2021,PB,S�o Domingos do Cariri,28699
+2021,PB,S�o Domingos,36167
+2021,PB,S�o Francisco,39118
+2021,PB,S�o Jo�o do Cariri,55295
+2021,PB,S�o Jo�o do Tigre,40920
+2021,PB,S�o Jos� da Lagoa Tapada,71954
+2021,PB,S�o Jos� de Caiana,55614
+2021,PB,S�o Jos� de Espinharas,54850
+2021,PB,S�o Jos� dos Ramos,86595
+2021,PB,S�o Jos� de Piranhas,230383
+2021,PB,S�o Jos� de Princesa,34031
+2021,PB,S�o Jos� do Bonfim,32366
+2021,PB,S�o Jos� do Brejo do Cruz,29091
+2021,PB,S�o Jos� do Sabugi,125142
+2021,PB,S�o Jos� dos Cordeiros,36927
+2021,PB,S�o Mamede,82238
+2021,PB,S�o Miguel de Taipu,82626
+2021,PB,S�o Sebasti�o de Lagoa de Ro�a,105791
+2021,PB,S�o Sebasti�o do Umbuzeiro,40405
+2021,PB,Sap�,675778
+2021,PB,S�o Vicente do Serid�,89888
+2021,PB,Serra Branca,147662
+2021,PB,Serra da Raiz,37034
+2021,PB,Serra Grande,33183
+2021,PB,Serra Redonda,71218
+2021,PB,Serraria,67690
+2021,PB,Sert�ozinho,54676
+2021,PB,Sobrado,112659
+2021,PB,Sol�nea,353078
+2021,PB,Soledade,203480
+2021,PB,Soss�go,38719
+2021,PB,Sousa,1318529
+2021,PB,Sum�,200877
+2021,PB,Tacima,91696
+2021,PB,Tapero�,139192
+2021,PB,Tavares,139900
+2021,PB,Teixeira,169085
+2021,PB,Ten�rio,34478
+2021,PB,Triunfo,87468
+2021,PB,Uira�na,192520
+2021,PB,Umbuzeiro,91142
+2021,PB,V�rzea,37561
+2021,PB,Vieir�polis,52689
+2021,PB,Zabel�,26961
+2021,PE,Abreu e Lima,1724258
+2021,PE,Afogados da Ingazeira,541816
+2021,PE,Afr�nio,209815
+2021,PE,Agrestina,352858
+2021,PE,�gua Preta,259866
+2021,PE,�guas Belas,401111
+2021,PE,Alagoinha,144945
+2021,PE,Alian�a,413314
+2021,PE,Altinho,222589
+2021,PE,Amaraji,294407
+2021,PE,Angelim,142260
+2021,PE,Ara�oiaba,161884
+2021,PE,Araripina,1272092
+2021,PE,Arcoverde,1215383
+2021,PE,Barra de Guabiraba,146943
+2021,PE,Barreiros,503988
+2021,PE,Bel�m de Maria,99499
+2021,PE,Bel�m do S�o Francisco,366293
+2021,PE,Belo Jardim,2765036
+2021,PE,Bet�nia,105307
+2021,PE,Bezerros,962826
+2021,PE,Bodoc�,317010
+2021,PE,Bom Conselho,643151
+2021,PE,Bom Jardim,366988
+2021,PE,Bonito,539340
+2021,PE,Brej�o,183679
+2021,PE,Brejinho,83879
+2021,PE,Brejo da Madre de Deus,461357
+2021,PE,Buenos Aires,133152
+2021,PE,Bu�que,549015
+2021,PE,Cabo de Santo Agostinho,13706389
+2021,PE,Cabrob�,440863
+2021,PE,Cachoeirinha,254369
+2021,PE,Caet�s,423727
+2021,PE,Cal�ado,115299
+2021,PE,Calumbi,50300
+2021,PE,Camaragibe,2229680
+2021,PE,Camocim de S�o F�lix,181161
+2021,PE,Camutanga,285369
+2021,PE,Canhotinho,253171
+2021,PE,Capoeiras,244054
+2021,PE,Carna�ba,193546
+2021,PE,Carnaubeira da Penha,83423
+2021,PE,Carpina,1744915
+2021,PE,Caruaru,8663525
+2021,PE,Casinhas,101521
+2021,PE,Catende,360566
+2021,PE,Cedro,125401
+2021,PE,Ch� de Alegria,168758
+2021,PE,Ch� Grande,251193
+2021,PE,Condado,250915
+2021,PE,Correntes,192016
+2021,PE,Cort�s,121502
+2021,PE,Cumaru,109260
+2021,PE,Cupira,283576
+2021,PE,Cust�dia,593880
+2021,PE,Dormentes,246023
+2021,PE,Escada,1306431
+2021,PE,Exu,325117
+2021,PE,Feira Nova,247550
+2021,PE,Fernando de Noronha,229562
+2021,PE,Ferreiros,132503
+2021,PE,Flores,192902
+2021,PE,Floresta,445213
+2021,PE,Frei Miguelinho,131441
+2021,PE,Gameleira,274258
+2021,PE,Garanhuns,3077112
+2021,PE,Gl�ria do Goit�,554616
+2021,PE,Goiana,10662964
+2021,PE,Granito,78432
+2021,PE,Gravat�,1359681
+2021,PE,Iati,195800
+2021,PE,Ibimirim,330119
+2021,PE,Ibirajuba,85527
+2021,PE,Igarassu,3471427
+2021,PE,Iguaracy,112369
+2021,PE,Inaj�,196880
+2021,PE,Ingazeira,50497
+2021,PE,Ipojuca,14929346
+2021,PE,Ipubi,340374
+2021,PE,Itacuruba,71286
+2021,PE,Ita�ba,283413
+2021,PE,Ilha de Itamarac�,299232
+2021,PE,Itamb�,522657
+2021,PE,Itapetim,139873
+2021,PE,Itapissuma,2383641
+2021,PE,Itaquitinga,160857
+2021,PE,Jaboat�o dos Guararapes,16133556
+2021,PE,Jaqueira,111801
+2021,PE,Jata�ba,154862
+2021,PE,Jatob�,153793
+2021,PE,Jo�o Alfredo,316644
+2021,PE,Joaquim Nabuco,181310
+2021,PE,Jucati,129270
+2021,PE,Jupi,214224
+2021,PE,Jurema,132840
+2021,PE,Lagoa do Carro,300635
+2021,PE,Lagoa de Itaenga,482859
+2021,PE,Lagoa do Ouro,139223
+2021,PE,Lagoa dos Gatos,135443
+2021,PE,Lagoa Grande,456844
+2021,PE,Lajedo,585576
+2021,PE,Limoeiro,838343
+2021,PE,Macaparana,283578
+2021,PE,Machados,216295
+2021,PE,Manari,139153
+2021,PE,Maraial,92490
+2021,PE,Mirandiba,163406
+2021,PE,Moreno,892506
+2021,PE,Nazar� da Mata,688468
+2021,PE,Olinda,5788250
+2021,PE,Orob�,398794
+2021,PE,Oroc�,186448
+2021,PE,Ouricuri,780513
+2021,PE,Palmares,924146
+2021,PE,Palmeirina,79959
+2021,PE,Panelas,229556
+2021,PE,Paranatama,285773
+2021,PE,Parnamirim,213190
+2021,PE,Passira,264547
+2021,PE,Paudalho,926328
+2021,PE,Paulista,5591652
+2021,PE,Pedra,306398
+2021,PE,Pesqueira,869651
+2021,PE,Petrol�ndia,1675876
+2021,PE,Petrolina,7994036
+2021,PE,Po��o,102107
+2021,PE,Pombos,532583
+2021,PE,Primavera,291696
+2021,PE,Quipap�,192325
+2021,PE,Quixaba,67064
+2021,PE,Recife,54970305
+2021,PE,Riacho das Almas,260563
+2021,PE,Ribeir�o,576407
+2021,PE,Rio Formoso,379871
+2021,PE,Sair�,176225
+2021,PE,Salgadinho,80938
+2021,PE,Salgueiro,1002105
+2021,PE,Salo�,171051
+2021,PE,Sanhar�,248264
+2021,PE,Santa Cruz,133592
+2021,PE,Santa Cruz da Baixa Verde,113554
+2021,PE,Santa Cruz do Capibaribe,1925734
+2021,PE,Santa Filomena,111830
+2021,PE,Santa Maria da Boa Vista,564000
+2021,PE,Santa Maria do Cambuc�,122262
+2021,PE,Santa Terezinha,114824
+2021,PE,S�o Benedito do Sul,117017
+2021,PE,S�o Bento do Una,1485706
+2021,PE,S�o Caitano,447679
+2021,PE,S�o Jo�o,390211
+2021,PE,S�o Joaquim do Monte,185467
+2021,PE,S�o Jos� da Coroa Grande,291007
+2021,PE,S�o Jos� do Belmonte,341544
+2021,PE,S�o Jos� do Egito,441117
+2021,PE,S�o Louren�o da Mata,1444200
+2021,PE,S�o Vicente F�rrer,209528
+2021,PE,Serra Talhada,1693347
+2021,PE,Serrita,161153
+2021,PE,Sert�nia,367389
+2021,PE,Sirinha�m,722495
+2021,PE,Moreil�ndia,90987
+2021,PE,Solid�o,56661
+2021,PE,Surubim,915558
+2021,PE,Tabira,314903
+2021,PE,Tacaimb�,149159
+2021,PE,Tacaratu,251978
+2021,PE,Tamandar�,395834
+2021,PE,Taquaritinga do Norte,334642
+2021,PE,Terezinha,75618
+2021,PE,Terra Nova,95262
+2021,PE,Timba�ba,746607
+2021,PE,Toritama,764572
+2021,PE,Tracunha�m,176619
+2021,PE,Trindade,419024
+2021,PE,Triunfo,157358
+2021,PE,Tupanatinga,227130
+2021,PE,Tuparetama,89139
+2021,PE,Venturosa,247349
+2021,PE,Verdejante,80931
+2021,PE,Vertente do L�rio,74060
+2021,PE,Vertentes,194511
+2021,PE,Vic�ncia,519426
+2021,PE,Vit�ria de Santo Ant�o,4551843
+2021,PE,Xex�u,141411
+2021,AL,�gua Branca,202655
+2021,AL,Anadia,250457
+2021,AL,Arapiraca,5915938
+2021,AL,Atalaia,1500344
+2021,AL,Barra de Santo Ant�nio,262005
+2021,AL,Barra de S�o Miguel,238431
+2021,AL,Batalha,229933
+2021,AL,Bel�m,191318
+2021,AL,Belo Monte,151387
+2021,AL,Boca da Mata,506028
+2021,AL,Branquinha,775410
+2021,AL,Cacimbinhas,140461
+2021,AL,Cajueiro,207869
+2021,AL,Campestre,87759
+2021,AL,Campo Alegre,734648
+2021,AL,Campo Grande,106114
+2021,AL,Canapi,166475
+2021,AL,Capela,247981
+2021,AL,Carneiros,90775
+2021,AL,Ch� Preta,175471
+2021,AL,Coit� do N�ia,211484
+2021,AL,Col�nia Leopoldina,397369
+2021,AL,Coqueiro Seco,96036
+2021,AL,Coruripe,1782442
+2021,AL,Cra�bas,480702
+2021,AL,Delmiro Gouveia,673800
+2021,AL,Dois Riachos,105248
+2021,AL,Estrela de Alagoas,154329
+2021,AL,Feira Grande,427545
+2021,AL,Feliz Deserto,164023
+2021,AL,Flexeiras,297765
+2021,AL,Girau do Ponciano,549523
+2021,AL,Ibateguara,196463
+2021,AL,Igaci,311914
+2021,AL,Igreja Nova,571817
+2021,AL,Inhapi,174741
+2021,AL,Jacar� dos Homens,74940
+2021,AL,Jacu�pe,194514
+2021,AL,Japaratinga,251980
+2021,AL,Jaramataia,77882
+2021,AL,Jequi� da Praia,381989
+2021,AL,Joaquim Gomes,520955
+2021,AL,Jundi�,54787
+2021,AL,Junqueiro,550024
+2021,AL,Lagoa da Canoa,273016
+2021,AL,Limoeiro de Anadia,685127
+2021,AL,Macei�,27484016
+2021,AL,Major Isidoro,283425
+2021,AL,Maragogi,1118831
+2021,AL,Maravilha,90740
+2021,AL,Marechal Deodoro,3409483
+2021,AL,Maribondo,187982
+2021,AL,Mar Vermelho,50940
+2021,AL,Mata Grande,354594
+2021,AL,Matriz de Camaragibe,385866
+2021,AL,Messias,221090
+2021,AL,Minador do Negr�o,74500
+2021,AL,Monteir�polis,80981
+2021,AL,Murici,588108
+2021,AL,Novo Lino,187226
+2021,AL,Olho d'�gua das Flores,271775
+2021,AL,Olho d'�gua do Casado,92933
+2021,AL,Olho d'�gua Grande,69586
+2021,AL,Oliven�a,108843
+2021,AL,Ouro Branco,110449
+2021,AL,Palestina,45911
+2021,AL,Palmeira dos �ndios,1181478
+2021,AL,P�o de A��car,266596
+2021,AL,Pariconha,144982
+2021,AL,Paripueira,236804
+2021,AL,Passo de Camaragibe,337319
+2021,AL,Paulo Jacinto,109870
+2021,AL,Penedo,983851
+2021,AL,Pia�abu�u,458381
+2021,AL,Pilar,676106
+2021,AL,Pindoba,59434
+2021,AL,Piranhas,344018
+2021,AL,Po�o das Trincheiras,125601
+2021,AL,Porto Calvo,412849
+2021,AL,Porto de Pedras,333198
+2021,AL,Porto Real do Col�gio,268867
+2021,AL,Quebrangulo,189051
+2021,AL,Rio Largo,1422909
+2021,AL,Roteiro,204122
+2021,AL,Santa Luzia do Norte,277385
+2021,AL,Santana do Ipanema,646282
+2021,AL,Santana do Munda�,1408563
+2021,AL,S�o Br�s,129322
+2021,AL,S�o Jos� da Laje,587965
+2021,AL,S�o Jos� da Tapera,332789
+2021,AL,S�o Lu�s do Quitunde,943656
+2021,AL,S�o Miguel dos Campos,1372933
+2021,AL,S�o Miguel dos Milagres,243468
+2021,AL,S�o Sebasti�o,858796
+2021,AL,Satuba,260967
+2021,AL,Senador Rui Palmeira,121169
+2021,AL,Tanque d'Arca,92156
+2021,AL,Taquarana,510804
+2021,AL,Teot�nio Vilela,1357674
+2021,AL,Traipu,296950
+2021,AL,Uni�o dos Palmares,1416031
+2021,AL,Vi�osa,594121
+2021,SE,Amparo do S�o Francisco,37967
+2021,SE,Aquidab�,287874
+2021,SE,Aracaju,18405678
+2021,SE,Arau�,140122
+2021,SE,Areia Branca,252263
+2021,SE,Barra dos Coqueiros,2581592
+2021,SE,Boquim,333080
+2021,SE,Brejo Grande,95886
+2021,SE,Campo do Brito,237677
+2021,SE,Canhoba,84436
+2021,SE,Canind� de S�o Francisco,2895222
+2021,SE,Capela,385290
+2021,SE,Carira,379818
+2021,SE,Carm�polis,422601
+2021,SE,Cedro de S�o Jo�o,64293
+2021,SE,Cristin�polis,250777
+2021,SE,Cumbe,69489
+2021,SE,Divina Pastora,188619
+2021,SE,Est�ncia,2126563
+2021,SE,Feira Nova,114918
+2021,SE,Frei Paulo,324741
+2021,SE,Gararu,179511
+2021,SE,General Maynard,43532
+2021,SE,Gracho Cardoso,100982
+2021,SE,Ilha das Flores,101815
+2021,SE,Indiaroba,229670
+2021,SE,Itabaiana,2213275
+2021,SE,Itabaianinha,535797
+2021,SE,Itabi,81127
+2021,SE,Itaporanga d'Ajuda,880245
+2021,SE,Japaratuba,527939
+2021,SE,Japoat�,210654
+2021,SE,Lagarto,1798319
+2021,SE,Laranjeiras,1162007
+2021,SE,Macambira,89535
+2021,SE,Malhada dos Bois,52760
+2021,SE,Malhador,173218
+2021,SE,Maruim,448414
+2021,SE,Moita Bonita,206468
+2021,SE,Monte Alegre de Sergipe,218953
+2021,SE,Muribeca,96660
+2021,SE,Ne�polis,330966
+2021,SE,Nossa Senhora Aparecida,109900
+2021,SE,Nossa Senhora da Gl�ria,790790
+2021,SE,Nossa Senhora das Dores,415736
+2021,SE,Nossa Senhora de Lourdes,91165
+2021,SE,Nossa Senhora do Socorro,3232698
+2021,SE,Pacatuba,236643
+2021,SE,Pedra Mole,48012
+2021,SE,Pedrinhas,98936
+2021,SE,Pinh�o,91574
+2021,SE,Pirambu,137922
+2021,SE,Po�o Redondo,416245
+2021,SE,Po�o Verde,322302
+2021,SE,Porto da Folha,366553
+2021,SE,Propri�,554299
+2021,SE,Riach�o do Dantas,328904
+2021,SE,Riachuelo,222401
+2021,SE,Ribeir�polis,339443
+2021,SE,Ros�rio do Catete,468956
+2021,SE,Salgado,217519
+2021,SE,Santa Luzia do Itanhy,192690
+2021,SE,Santana do S�o Francisco,106773
+2021,SE,Santa Rosa de Lima,55084
+2021,SE,Santo Amaro das Brotas,167665
+2021,SE,S�o Crist�v�o,1031740
+2021,SE,S�o Domingos,135227
+2021,SE,S�o Francisco,56034
+2021,SE,S�o Miguel do Aleixo,49842
+2021,SE,Sim�o Dias,790408
+2021,SE,Siriri,176736
+2021,SE,Telha,44121
+2021,SE,Tobias Barreto,655791
+2021,SE,Tomar do Geru,146965
+2021,SE,Umba�ba,401569
+2021,BA,Aba�ra,70195
+2021,BA,Abar�,208558
+2021,BA,Acajutiba,144529
+2021,BA,Adustina,240690
+2021,BA,�gua Fria,158468
+2021,BA,�rico Cardoso,78063
+2021,BA,Aiquara,53718
+2021,BA,Alagoinhas,4532743
+2021,BA,Alcoba�a,347478
+2021,BA,Almadina,62876
+2021,BA,Amargosa,463881
+2021,BA,Am�lia Rodrigues,437584
+2021,BA,Am�rica Dourada,167946
+2021,BA,Anag�,224877
+2021,BA,Andara�,134558
+2021,BA,Andorinha,223452
+2021,BA,Angical,190448
+2021,BA,Anguera,78758
+2021,BA,Antas,160798
+2021,BA,Ant�nio Cardoso,124218
+2021,BA,Ant�nio Gon�alves,82702
+2021,BA,Apor�,148644
+2021,BA,Apuarema,74300
+2021,BA,Aracatu,145739
+2021,BA,Ara��s,299165
+2021,BA,Araci,491399
+2021,BA,Aramari,103771
+2021,BA,Arataca,101501
+2021,BA,Aratu�pe,79976
+2021,BA,Aurelino Leal,137001
+2021,BA,Baian�polis,263823
+2021,BA,Baixa Grande,194657
+2021,BA,Banza�,113597
+2021,BA,Barra,430649
+2021,BA,Barra da Estiva,377673
+2021,BA,Barra do Cho�a,573526
+2021,BA,Barra do Mendes,115910
+2021,BA,Barra do Rocha,77901
+2021,BA,Barreiras,7006121
+2021,BA,Barro Alto,112884
+2021,BA,Barrocas,346146
+2021,BA,Barro Preto,79914
+2021,BA,Belmonte,373714
+2021,BA,Belo Campo,169601
+2021,BA,Biritinga,145438
+2021,BA,Boa Nova,111607
+2021,BA,Boa Vista do Tupim,155317
+2021,BA,Bom Jesus da Lapa,1357879
+2021,BA,Bom Jesus da Serra,69959
+2021,BA,Boninal,117992
+2021,BA,Bonito,270741
+2021,BA,Boquira,189091
+2021,BA,Botupor�,110038
+2021,BA,Brej�es,144331
+2021,BA,Brejol�ndia,126261
+2021,BA,Brotas de Maca�bas,96549
+2021,BA,Brumado,1783351
+2021,BA,Buerarema,208933
+2021,BA,Buritirama,154989
+2021,BA,Caatiba,77401
+2021,BA,Cabaceiras do Paragua�u,141199
+2021,BA,Cachoeira,479279
+2021,BA,Cacul�,364286
+2021,BA,Ca�m,92294
+2021,BA,Caetanos,102571
+2021,BA,Caetit�,1098650
+2021,BA,Cafarnaum,217397
+2021,BA,Cairu,1505542
+2021,BA,Caldeir�o Grande,101982
+2021,BA,Camacan,354422
+2021,BA,Cama�ari,33971705
+2021,BA,Camamu,468403
+2021,BA,Campo Alegre de Lourdes,295491
+2021,BA,Campo Formoso,2072637
+2021,BA,Can�polis,84960
+2021,BA,Canarana,258822
+2021,BA,Canavieiras,395602
+2021,BA,Candeal,67793
+2021,BA,Candeias,6819267
+2021,BA,Candiba,140828
+2021,BA,C�ndido Sales,244706
+2021,BA,Cansan��o,352801
+2021,BA,Canudos,153151
+2021,BA,Capela do Alto Alegre,129534
+2021,BA,Capim Grosso,579808
+2021,BA,Cara�bas,86202
+2021,BA,Caravelas,357882
+2021,BA,Cardeal da Silva,117727
+2021,BA,Carinhanha,288562
+2021,BA,Casa Nova,875278
+2021,BA,Castro Alves,317241
+2021,BA,Catol�ndia,80901
+2021,BA,Catu,695391
+2021,BA,Caturama,78262
+2021,BA,Central,154525
+2021,BA,Chorroch�,105494
+2021,BA,C�cero Dantas,400073
+2021,BA,Cip�,155394
+2021,BA,Coaraci,191076
+2021,BA,Cocos,559871
+2021,BA,Concei��o da Feira,376055
+2021,BA,Concei��o do Almeida,200262
+2021,BA,Concei��o do Coit�,884633
+2021,BA,Concei��o do Jacu�pe,2761128
+2021,BA,Conde,288929
+2021,BA,Conde�ba,171066
+2021,BA,Contendas do Sincor�,50778
+2021,BA,Cora��o de Maria,226366
+2021,BA,Cordeiros,70770
+2021,BA,Coribe,169096
+2021,BA,Coronel Jo�o S�,175256
+2021,BA,Correntina,3280079
+2021,BA,Cotegipe,171353
+2021,BA,Cravol�ndia,45909
+2021,BA,Cris�polis,206124
+2021,BA,Crist�polis,157843
+2021,BA,Cruz das Almas,1042406
+2021,BA,Cura��,355221
+2021,BA,D�rio Meira,126141
+2021,BA,Dias d'�vila,3050432
+2021,BA,Dom Bas�lio,142303
+2021,BA,Dom Macedo Costa,43212
+2021,BA,El�sio Medrado,76733
+2021,BA,Encruzilhada,256185
+2021,BA,Entre Rios,681650
+2021,BA,Esplanada,731909
+2021,BA,Euclides da Cunha,795415
+2021,BA,Eun�polis,3203016
+2021,BA,F�tima,280112
+2021,BA,Feira da Mata,63085
+2021,BA,Feira de Santana,17282198
+2021,BA,Filad�lfia,139371
+2021,BA,Firmino Alves,70867
+2021,BA,Floresta Azul,101546
+2021,BA,Formosa do Rio Preto,4608377
+2021,BA,Gandu,461233
+2021,BA,Gavi�o,49919
+2021,BA,Gentio do Ouro,133459
+2021,BA,Gl�ria,254127
+2021,BA,Gongogi,76467
+2021,BA,Governador Mangabeira,221997
+2021,BA,Guajeru,68686
+2021,BA,Guanambi,1654710
+2021,BA,Guaratinga,279481
+2021,BA,Heli�polis,140665
+2021,BA,Ia�u,237150
+2021,BA,Ibiassuc�,98956
+2021,BA,Ibicara�,206801
+2021,BA,Ibicoara,443354
+2021,BA,Ibicu�,196349
+2021,BA,Ibipeba,177793
+2021,BA,Ibipitanga,117480
+2021,BA,Ibiquera,37334
+2021,BA,Ibirapitanga,285846
+2021,BA,Ibirapu�,450707
+2021,BA,Ibirataia,207383
+2021,BA,Ibitiara,113705
+2021,BA,Ibitit�,155482
+2021,BA,Ibotirama,415583
+2021,BA,Ichu,56391
+2021,BA,Igapor�,198335
+2021,BA,Igrapi�na,211145
+2021,BA,Igua�,246443
+2021,BA,Ilh�us,5163623
+2021,BA,Inhambupe,625799
+2021,BA,Ipecaet�,105153
+2021,BA,Ipia�,568817
+2021,BA,Ipir�,664915
+2021,BA,Ipupiara,100551
+2021,BA,Irajuba,77979
+2021,BA,Iramaia,102698
+2021,BA,Iraquara,897366
+2021,BA,Irar�,286137
+2021,BA,Irec�,1532414
+2021,BA,Itabela,514441
+2021,BA,Itaberaba,996855
+2021,BA,Itabuna,4200814
+2021,BA,Itacar�,426484
+2021,BA,Itaet�,126762
+2021,BA,Itagi,128626
+2021,BA,Itagib�,1103084
+2021,BA,Itagimirim,127457
+2021,BA,Itagua�u da Bahia,152685
+2021,BA,Itaju do Col�nia,89528
+2021,BA,Itaju�pe,255563
+2021,BA,Itamaraju,1111051
+2021,BA,Itamari,103382
+2021,BA,Itamb�,294796
+2021,BA,Itanagra,81912
+2021,BA,Itanh�m,293786
+2021,BA,Itaparica,246957
+2021,BA,Itap�,106489
+2021,BA,Itapebi,335646
+2021,BA,Itapetinga,1467062
+2021,BA,Itapicuru,439107
+2021,BA,Itapitanga,94689
+2021,BA,Itaquara,100737
+2021,BA,Itarantim,331171
+2021,BA,Itatim,430100
+2021,BA,Itiru�u,120734
+2021,BA,Iti�ba,351714
+2021,BA,Itoror�,251064
+2021,BA,Itua�u,256803
+2021,BA,Ituber�,367659
+2021,BA,Iuiu,133416
+2021,BA,Jaborandi,1344197
+2021,BA,Jacaraci,122925
+2021,BA,Jacobina,1867866
+2021,BA,Jaguaquara,678165
+2021,BA,Jaguarari,1198205
+2021,BA,Jaguaripe,206756
+2021,BA,Janda�ra,168215
+2021,BA,Jequi�,3176446
+2021,BA,Jeremoabo,501339
+2021,BA,Jiquiri��,150341
+2021,BA,Jita�na,175604
+2021,BA,Jo�o Dourado,297143
+2021,BA,Juazeiro,5181529
+2021,BA,Jucuru�u,127679
+2021,BA,Jussara,113638
+2021,BA,Jussari,71486
+2021,BA,Jussiape,68737
+2021,BA,Lafaiete Coutinho,55267
+2021,BA,Lagoa Real,119609
+2021,BA,Laje,292402
+2021,BA,Lajed�o,113008
+2021,BA,Lajedinho,60886
+2021,BA,Lajedo do Tabocal,78352
+2021,BA,Lamar�o,65028
+2021,BA,Lap�o,302371
+2021,BA,Lauro de Freitas,7322778
+2021,BA,Len��is,169645
+2021,BA,Lic�nio de Almeida,157521
+2021,BA,Livramento de Nossa Senhora,575720
+2021,BA,Lu�s Eduardo Magalh�es,8820648
+2021,BA,Macajuba,90789
+2021,BA,Macarani,227125
+2021,BA,Maca�bas,431374
+2021,BA,Macurur�,67535
+2021,BA,Madre de Deus,515514
+2021,BA,Maetinga,50121
+2021,BA,Maiquinique,204931
+2021,BA,Mairi,158813
+2021,BA,Malhada,188065
+2021,BA,Malhada de Pedras,80639
+2021,BA,Manoel Vitorino,139859
+2021,BA,Mansid�o,93688
+2021,BA,Marac�s,656427
+2021,BA,Maragogipe,402859
+2021,BA,Mara�,341379
+2021,BA,Marcion�lio Souza,94412
+2021,BA,Mascote,161497
+2021,BA,Mata de S�o Jo�o,1328755
+2021,BA,Matina,91738
+2021,BA,Medeiros Neto,514679
+2021,BA,Miguel Calmon,273161
+2021,BA,Milagres,144015
+2021,BA,Mirangaba,141427
+2021,BA,Mirante,78632
+2021,BA,Monte Santo,460032
+2021,BA,Morpar�,78667
+2021,BA,Morro do Chap�u,625934
+2021,BA,Mortugaba,106818
+2021,BA,Mucug�,774940
+2021,BA,Mucuri,2212818
+2021,BA,Mulungu do Morro,212902
+2021,BA,Mundo Novo,199233
+2021,BA,Muniz Ferreira,66810
+2021,BA,Muqu�m do S�o Francisco,210290
+2021,BA,Muritiba,276778
+2021,BA,Mutu�pe,471382
+2021,BA,Nazar�,330753
+2021,BA,Nilo Pe�anha,185997
+2021,BA,Nordestina,160863
+2021,BA,Nova Cana�,174263
+2021,BA,Nova F�tima,95198
+2021,BA,Nova Ibi�,101681
+2021,BA,Nova Itarana,73287
+2021,BA,Nova Reden��o,75597
+2021,BA,Nova Soure,271743
+2021,BA,Nova Vi�osa,576012
+2021,BA,Novo Horizonte,105235
+2021,BA,Novo Triunfo,103932
+2021,BA,Olindina,242182
+2021,BA,Oliveira dos Brejinhos,291928
+2021,BA,Ouri�angas,80644
+2021,BA,Ourol�ndia,280185
+2021,BA,Palmas de Monte Alto,238177
+2021,BA,Palmeiras,107785
+2021,BA,Paramirim,270933
+2021,BA,Paratinga,260593
+2021,BA,Paripiranga,454635
+2021,BA,Pau Brasil,105727
+2021,BA,Paulo Afonso,3965326
+2021,BA,P� de Serra,131455
+2021,BA,Pedr�o,52275
+2021,BA,Pedro Alexandre,119313
+2021,BA,Piat�,242783
+2021,BA,Pil�o Arcado,291383
+2021,BA,Pinda�,296543
+2021,BA,Pindoba�u,157115
+2021,BA,Pintadas,109340
+2021,BA,Pira� do Norte,117016
+2021,BA,Pirip�,79408
+2021,BA,Piritiba,187904
+2021,BA,Planaltino,79205
+2021,BA,Planalto,309885
+2021,BA,Po��es,573506
+2021,BA,Pojuca,1843465
+2021,BA,Ponto Novo,142630
+2021,BA,Porto Seguro,3767887
+2021,BA,Potiragu�,114973
+2021,BA,Prado,624631
+2021,BA,Presidente Dutra,132177
+2021,BA,Presidente J�nio Quadros,100403
+2021,BA,Presidente Tancredo Neves,338356
+2021,BA,Queimadas,257882
+2021,BA,Quijingue,227798
+2021,BA,Quixabeira,77083
+2021,BA,Rafael Jambeiro,396182
+2021,BA,Remanso,486810
+2021,BA,Retirol�ndia,149912
+2021,BA,Riach�o das Neves,1539603
+2021,BA,Riach�o do Jacu�pe,410347
+2021,BA,Riacho de Santana,317672
+2021,BA,Ribeira do Amparo,192342
+2021,BA,Ribeira do Pombal,716571
+2021,BA,Ribeir�o do Largo,111017
+2021,BA,Rio de Contas,155934
+2021,BA,Rio do Ant�nio,115695
+2021,BA,Rio do Pires,100423
+2021,BA,Rio Real,1031585
+2021,BA,Rodelas,143553
+2021,BA,Ruy Barbosa,392811
+2021,BA,Salinas da Margarida,201393
+2021,BA,Salvador,62954487
+2021,BA,Santa B�rbara,180576
+2021,BA,Santa Br�gida,119330
+2021,BA,Santa Cruz Cabr�lia,548442
+2021,BA,Santa Cruz da Vit�ria,71181
+2021,BA,Santa In�s,76184
+2021,BA,Santaluz,522258
+2021,BA,Santa Luzia,124294
+2021,BA,Santa Maria da Vit�ria,600557
+2021,BA,Santana,344033
+2021,BA,Santan�polis,68861
+2021,BA,Santa Rita de C�ssia,286079
+2021,BA,Santa Terezinha,101418
+2021,BA,Santo Amaro,1137909
+2021,BA,Santo Ant�nio de Jesus,2450763
+2021,BA,Santo Est�v�o,914071
+2021,BA,S�o Desid�rio,5845432
+2021,BA,S�o Domingos,88481
+2021,BA,S�o F�lix,172907
+2021,BA,S�o F�lix do Coribe,238411
+2021,BA,S�o Felipe,212344
+2021,BA,S�o Francisco do Conde,13086121
+2021,BA,S�o Gabriel,152905
+2021,BA,S�o Gon�alo dos Campos,1155355
+2021,BA,S�o Jos� da Vit�ria,67085
+2021,BA,S�o Jos� do Jacu�pe,126708
+2021,BA,S�o Miguel das Matas,176536
+2021,BA,S�o Sebasti�o do Pass�,850111
+2021,BA,Sapea�u,213356
+2021,BA,S�tiro Dias,257850
+2021,BA,Saubara,146345
+2021,BA,Sa�de,103098
+2021,BA,Seabra,625789
+2021,BA,Sebasti�o Laranjeiras,107243
+2021,BA,Senhor do Bonfim,998686
+2021,BA,Serra do Ramalho,411522
+2021,BA,Sento S�,1714786
+2021,BA,Serra Dourada,200071
+2021,BA,Serra Preta,138135
+2021,BA,Serrinha,1086778
+2021,BA,Serrol�ndia,118466
+2021,BA,Sim�es Filho,6334359
+2021,BA,S�tio do Mato,119993
+2021,BA,S�tio do Quinto,103331
+2021,BA,Sobradinho,843210
+2021,BA,Souto Soares,135994
+2021,BA,Tabocas do Brejo Velho,268317
+2021,BA,Tanha�u,253394
+2021,BA,Tanque Novo,182934
+2021,BA,Tanquinho,66686
+2021,BA,Tapero�,221755
+2021,BA,Tapiramut�,148893
+2021,BA,Teixeira de Freitas,2875867
+2021,BA,Teodoro Sampaio,177355
+2021,BA,Teofil�ndia,191165
+2021,BA,Teol�ndia,216766
+2021,BA,Terra Nova,170404
+2021,BA,Tremedal,133737
+2021,BA,Tucano,544966
+2021,BA,Uau�,235072
+2021,BA,Uba�ra,229271
+2021,BA,Ubaitaba,244969
+2021,BA,Ubat�,223942
+2021,BA,Uiba�,175893
+2021,BA,Umburanas,262961
+2021,BA,Una,336909
+2021,BA,Urandi,199853
+2021,BA,Uru�uca,296049
+2021,BA,Utinga,185966
+2021,BA,Valen�a,1740635
+2021,BA,Valente,268908
+2021,BA,V�rzea da Ro�a,112201
+2021,BA,V�rzea do Po�o,116187
+2021,BA,V�rzea Nova,231908
+2021,BA,Varzedo,135267
+2021,BA,Vera Cruz,602735
+2021,BA,Vereda,92715
+2021,BA,Vit�ria da Conquista,8215793
+2021,BA,Wagner,89606
+2021,BA,Wanderley,167757
+2021,BA,Wenceslau Guimar�es,331642
+2021,BA,Xique-Xique,461160
+2021,MG,Abadia dos Dourados,176774
+2021,MG,Abaet�,541239
+2021,MG,Abre Campo,262687
+2021,MG,Acaiaca,64907
+2021,MG,A�ucena,165824
+2021,MG,�gua Boa,192074
+2021,MG,�gua Comprida,229831
+2021,MG,Aguanil,94615
+2021,MG,�guas Formosas,287599
+2021,MG,�guas Vermelhas,236649
+2021,MG,Aimor�s,638010
+2021,MG,Aiuruoca,128549
+2021,MG,Alagoa,47717
+2021,MG,Albertina,153961
+2021,MG,Al�m Para�ba,971810
+2021,MG,Alfenas,3485867
+2021,MG,Alfredo Vasconcelos,150663
+2021,MG,Almenara,674900
+2021,MG,Alpercata,94597
+2021,MG,Alpin�polis,524218
+2021,MG,Alterosa,296525
+2021,MG,Alto Capara�,97111
+2021,MG,Alto Rio Doce,180132
+2021,MG,Alvarenga,54648
+2021,MG,Alvin�polis,340215
+2021,MG,Alvorada de Minas,64855
+2021,MG,Amparo do Serra,55926
+2021,MG,Andradas,1183812
+2021,MG,Cachoeira de Paje�,125598
+2021,MG,Andrel�ndia,291937
+2021,MG,Angel�ndia,144541
+2021,MG,Ant�nio Carlos,241904
+2021,MG,Ant�nio Dias,894624
+2021,MG,Ant�nio Prado de Minas,28571
+2021,MG,Ara�a�,59998
+2021,MG,Aracitaba,31362
+2021,MG,Ara�ua�,520019
+2021,MG,Araguari,5837823
+2021,MG,Arantina,88542
+2021,MG,Araponga,122296
+2021,MG,Arapor�,1294616
+2021,MG,Arapu�,172816
+2021,MG,Ara�jos,474337
+2021,MG,Arax�,8950863
+2021,MG,Arceburgo,346704
+2021,MG,Arcos,2346520
+2021,MG,Areado,309348
+2021,MG,Argirita,40092
+2021,MG,Aricanduva,67084
+2021,MG,Arinos,318620
+2021,MG,Astolfo Dutra,292035
+2021,MG,Atal�ia,199016
+2021,MG,Augusto de Lima,89041
+2021,MG,Baependi,381042
+2021,MG,Baldim,201277
+2021,MG,Bambu�,780013
+2021,MG,Bandeira,59116
+2021,MG,Bandeira do Sul,86583
+2021,MG,Bar�o de Cocais,2439013
+2021,MG,Bar�o de Monte Alto,63115
+2021,MG,Barbacena,3523135
+2021,MG,Barra Longa,81927
+2021,MG,Barroso,608921
+2021,MG,Bela Vista de Minas,568260
+2021,MG,Belmiro Braga,61571
+2021,MG,Belo Horizonte,105829675
+2021,MG,Belo Oriente,2114722
+2021,MG,Belo Vale,279906
+2021,MG,Berilo,112832
+2021,MG,Bert�polis,53792
+2021,MG,Berizal,61026
+2021,MG,Betim,33132919
+2021,MG,Bias Fortes,41578
+2021,MG,Bicas,277609
+2021,MG,Biquinhas,64479
+2021,MG,Boa Esperan�a,1058550
+2021,MG,Bocaina de Minas,80221
+2021,MG,Bocai�va,1225284
+2021,MG,Bom Despacho,1814096
+2021,MG,Bom Jardim de Minas,127774
+2021,MG,Bom Jesus da Penha,196096
+2021,MG,Bom Jesus do Amparo,160334
+2021,MG,Bom Jesus do Galho,171128
+2021,MG,Bom Repouso,160232
+2021,MG,Bom Sucesso,445078
+2021,MG,Bonfim,135482
+2021,MG,Bonfin�polis de Minas,458719
+2021,MG,Bonito de Minas,101039
+2021,MG,Borda da Mata,374865
+2021,MG,Botelhos,325926
+2021,MG,Botumirim,75753
+2021,MG,Brasil�ndia de Minas,415095
+2021,MG,Bras�lia de Minas,377425
+2021,MG,Br�s Pires,50032
+2021,MG,Bra�nas,213084
+2021,MG,Braz�polis,198032
+2021,MG,Brumadinho,4624938
+2021,MG,Bueno Brand�o,240738
+2021,MG,Buen�polis,180725
+2021,MG,Bugre,47558
+2021,MG,Buritis,1164015
+2021,MG,Buritizeiro,736130
+2021,MG,Cabeceira Grande,477388
+2021,MG,Cabo Verde,290843
+2021,MG,Cachoeira da Prata,51864
+2021,MG,Cachoeira de Minas,537009
+2021,MG,Cachoeira Dourada,269619
+2021,MG,Caetan�polis,315264
+2021,MG,Caet�,1074938
+2021,MG,Caiana,88656
+2021,MG,Cajuri,97321
+2021,MG,Caldas,337663
+2021,MG,Camacho,70874
+2021,MG,Camanducaia,990373
+2021,MG,Cambu�,1865719
+2021,MG,Cambuquira,370862
+2021,MG,Campan�rio,53464
+2021,MG,Campanha,439877
+2021,MG,Campestre,486392
+2021,MG,Campina Verde,536834
+2021,MG,Campo Azul,40662
+2021,MG,Campo Belo,1244647
+2021,MG,Campo do Meio,231132
+2021,MG,Campo Florido,710907
+2021,MG,Campos Altos,434286
+2021,MG,Campos Gerais,704550
+2021,MG,Cana�,77460
+2021,MG,Can�polis,678012
+2021,MG,Cana Verde,80138
+2021,MG,Candeias,371149
+2021,MG,Cantagalo,56761
+2021,MG,Capara�,97624
+2021,MG,Capela Nova,62476
+2021,MG,Capelinha,888063
+2021,MG,Capetinga,207280
+2021,MG,Capim Branco,123379
+2021,MG,Capin�polis,666601
+2021,MG,Capit�o Andrade,60813
+2021,MG,Capit�o En�as,501518
+2021,MG,Capit�lio,328449
+2021,MG,Caputira,143751
+2021,MG,Cara�,210428
+2021,MG,Carana�ba,41483
+2021,MG,Caranda�,751899
+2021,MG,Carangola,639260
+2021,MG,Caratinga,2283288
+2021,MG,Carbonita,220682
+2021,MG,Carea�u,174197
+2021,MG,Carlos Chagas,474792
+2021,MG,Carm�sia,39788
+2021,MG,Carmo da Cachoeira,321643
+2021,MG,Carmo da Mata,265730
+2021,MG,Carmo de Minas,290443
+2021,MG,Carmo do Cajuru,629040
+2021,MG,Carmo do Parana�ba,1060224
+2021,MG,Carmo do Rio Claro,694617
+2021,MG,Carm�polis de Minas,461604
+2021,MG,Carneirinho,407481
+2021,MG,Carrancas,177651
+2021,MG,Carvalh�polis,71387
+2021,MG,Carvalhos,80638
+2021,MG,Casa Grande,69241
+2021,MG,Cascalho Rico,80004
+2021,MG,C�ssia,436435
+2021,MG,Concei��o da Barra de Minas,68733
+2021,MG,Cataguases,1651609
+2021,MG,Catas Altas,5032358
+2021,MG,Catas Altas da Noruega,40793
+2021,MG,Catuji,83289
+2021,MG,Catuti,56844
+2021,MG,Caxambu,371035
+2021,MG,Cedro do Abaet�,22406
+2021,MG,Central de Minas,87071
+2021,MG,Centralina,351070
+2021,MG,Ch�cara,47151
+2021,MG,Chal�,114181
+2021,MG,Chapada do Norte,111127
+2021,MG,Chapada Ga�cha,403118
+2021,MG,Chiador,37253
+2021,MG,Cipot�nea,73306
+2021,MG,Claraval,182017
+2021,MG,Claro dos Po��es,83730
+2021,MG,Cl�udio,1118680
+2021,MG,Coimbra,139845
+2021,MG,Coluna,121196
+2021,MG,Comendador Gomes,154809
+2021,MG,Comercinho,68129
+2021,MG,Concei��o da Aparecida,274177
+2021,MG,Concei��o das Pedras,61043
+2021,MG,Concei��o das Alagoas,1318367
+2021,MG,Concei��o de Ipanema,81016
+2021,MG,Concei��o do Mato Dentro,9051036
+2021,MG,Concei��o do Par�,494122
+2021,MG,Concei��o do Rio Verde,343578
+2021,MG,Concei��o dos Ouros,225127
+2021,MG,C�nego Marinho,63480
+2021,MG,Confins,485732
+2021,MG,Congonhal,220411
+2021,MG,Congonhas,4115644
+2021,MG,Congonhas do Norte,49300
+2021,MG,Conquista,490137
+2021,MG,Conselheiro Lafaiete,3118549
+2021,MG,Conselheiro Pena,383878
+2021,MG,Consola��o,31451
+2021,MG,Contagem,36479765
+2021,MG,Coqueiral,234166
+2021,MG,Cora��o de Jesus,272891
+2021,MG,Cordisburgo,146187
+2021,MG,Cordisl�ndia,113770
+2021,MG,Corinto,612295
+2021,MG,Coroaci,125593
+2021,MG,Coromandel,1535205
+2021,MG,Coronel Fabriciano,1996019
+2021,MG,Coronel Murta,119865
+2021,MG,Coronel Pacheco,60102
+2021,MG,Coronel Xavier Chaves,90916
+2021,MG,C�rrego Danta,165603
+2021,MG,C�rrego do Bom Jesus,45638
+2021,MG,C�rrego Fundo,320637
+2021,MG,C�rrego Novo,38526
+2021,MG,Couto de Magalh�es de Minas,63270
+2021,MG,Cris�lita,76419
+2021,MG,Cristais,295530
+2021,MG,Crist�lia,59171
+2021,MG,Cristiano Otoni,123694
+2021,MG,Cristina,233896
+2021,MG,Crucil�ndia,83098
+2021,MG,Cruzeiro da Fortaleza,184043
+2021,MG,Cruz�lia,317748
+2021,MG,Cuparaque,74054
+2021,MG,Curral de Dentro,80453
+2021,MG,Curvelo,2230617
+2021,MG,Datas,73964
+2021,MG,Delfim Moreira,125715
+2021,MG,Delfin�polis,247245
+2021,MG,Delta,466767
+2021,MG,Descoberto,81745
+2021,MG,Desterro de Entre Rios,261204
+2021,MG,Desterro do Melo,50625
+2021,MG,Diamantina,984259
+2021,MG,Diogo de Vasconcelos,42942
+2021,MG,Dion�sio,90883
+2021,MG,Divin�sia,63715
+2021,MG,Divino,319462
+2021,MG,Divino das Laranjeiras,61695
+2021,MG,Divinol�ndia de Minas,82295
+2021,MG,Divin�polis,8331346
+2021,MG,Divisa Alegre,178208
+2021,MG,Divisa Nova,129555
+2021,MG,Divis�polis,93202
+2021,MG,Dom Bosco,69302
+2021,MG,Dom Cavati,69648
+2021,MG,Dom Joaquim,67823
+2021,MG,Dom Silv�rio,107932
+2021,MG,Dom Vi�oso,39052
+2021,MG,Dona Euz�bia,109905
+2021,MG,Dores de Campos,320215
+2021,MG,Dores de Guanh�es,190683
+2021,MG,Dores do Indai�,352232
+2021,MG,Dores do Turvo,66847
+2021,MG,Dores�polis,84134
+2021,MG,Douradoquara,79333
+2021,MG,Durand�,122893
+2021,MG,El�i Mendes,705930
+2021,MG,Engenheiro Caldas,157033
+2021,MG,Engenheiro Navarro,92061
+2021,MG,Entre Folhas,64926
+2021,MG,Entre Rios de Minas,270226
+2021,MG,Erv�lia,409477
+2021,MG,Esmeraldas,973105
+2021,MG,Espera Feliz,411020
+2021,MG,Espinosa,363982
+2021,MG,Esp�rito Santo do Dourado,122239
+2021,MG,Estiva,601894
+2021,MG,Estrela Dalva,42898
+2021,MG,Estrela do Indai�,165292
+2021,MG,Estrela do Sul,351924
+2021,MG,Eugen�polis,221830
+2021,MG,Ewbank da C�mara,54364
+2021,MG,Extrema,13651225
+2021,MG,Fama,58635
+2021,MG,Faria Lemos,64378
+2021,MG,Fel�cio dos Santos,73739
+2021,MG,S�o Gon�alo do Rio Preto,48754
+2021,MG,Felisburgo,75707
+2021,MG,Felixl�ndia,281155
+2021,MG,Fernandes Tourinho,45856
+2021,MG,Ferros,147924
+2021,MG,Fervedouro,156889
+2021,MG,Florestal,142809
+2021,MG,Formiga,2214110
+2021,MG,Formoso,314917
+2021,MG,Fortaleza de Minas,111306
+2021,MG,Fortuna de Minas,51272
+2021,MG,Francisco Badar�,77814
+2021,MG,Francisco Dumont,75609
+2021,MG,Francisco S�,451860
+2021,MG,Francisc�polis,102828
+2021,MG,Frei Gaspar,80106
+2021,MG,Frei Inoc�ncio,150490
+2021,MG,Frei Lagonegro,35559
+2021,MG,Fronteira,935152
+2021,MG,Fronteira dos Vales,48953
+2021,MG,Fruta de Leite,47086
+2021,MG,Frutal,2473118
+2021,MG,Funil�ndia,83333
+2021,MG,Galil�ia,113734
+2021,MG,Gameleiras,57339
+2021,MG,Glaucil�ndia,41129
+2021,MG,Goiabeira,49908
+2021,MG,Goian�,62270
+2021,MG,Gon�alves,94285
+2021,MG,Gonzaga,68973
+2021,MG,Gouveia,198923
+2021,MG,Governador Valadares,7382837
+2021,MG,Gr�o Mogol,770889
+2021,MG,Grupiara,44200
+2021,MG,Guanh�es,996965
+2021,MG,Guap�,390784
+2021,MG,Guaraciaba,115228
+2021,MG,Guaraciama,78027
+2021,MG,Guaran�sia,549336
+2021,MG,Guarani,173714
+2021,MG,Guarar�,57636
+2021,MG,Guarda-Mor,750723
+2021,MG,Guaxup�,2806366
+2021,MG,Guidoval,123659
+2021,MG,Guimar�nia,327236
+2021,MG,Guiricema,114431
+2021,MG,Gurinhat�,180809
+2021,MG,Heliodora,133454
+2021,MG,Iapu,176419
+2021,MG,Ibertioga,103561
+2021,MG,Ibi�,1534749
+2021,MG,Ibia�,114963
+2021,MG,Ibiracatu,51265
+2021,MG,Ibiraci,728305
+2021,MG,Ibirit�,3203506
+2021,MG,Ibiti�ra de Minas,77638
+2021,MG,Ibituruna,59358
+2021,MG,Icara� de Minas,111447
+2021,MG,Igarap�,967312
+2021,MG,Igaratinga,578190
+2021,MG,Iguatama,587430
+2021,MG,Ijaci,494882
+2021,MG,Ilic�nea,265384
+2021,MG,Imb� de Minas,101174
+2021,MG,Inconfidentes,132576
+2021,MG,Indaiabira,87312
+2021,MG,Indian�polis,875663
+2021,MG,Inga�,115702
+2021,MG,Inhapim,404796
+2021,MG,Inha�ma,145789
+2021,MG,Inimutaba,90737
+2021,MG,Ipaba,180315
+2021,MG,Ipanema,344577
+2021,MG,Ipatinga,17609177
+2021,MG,Ipia�u,183084
+2021,MG,Ipui�na,188530
+2021,MG,Ira� de Minas,301551
+2021,MG,Itabira,14971929
+2021,MG,Itabirinha,136423
+2021,MG,Itabirito,13139828
+2021,MG,Itacambira,61721
+2021,MG,Itacarambi,226363
+2021,MG,Itaguara,402464
+2021,MG,Itaip�,121602
+2021,MG,Itajub�,3288441
+2021,MG,Itamarandiba,647509
+2021,MG,Itamarati de Minas,67336
+2021,MG,Itambacuri,341052
+2021,MG,Itamb� do Mato Dentro,35922
+2021,MG,Itamogi,236365
+2021,MG,Itamonte,1182177
+2021,MG,Itanhandu,470229
+2021,MG,Itanhomi,151296
+2021,MG,Itaobim,308690
+2021,MG,Itapagipe,514269
+2021,MG,Itapecerica,629195
+2021,MG,Itapeva,848636
+2021,MG,Itatiaiu�u,6934792
+2021,MG,Ita� de Minas,724266
+2021,MG,Ita�na,5084952
+2021,MG,Itaverava,71363
+2021,MG,Itinga,148258
+2021,MG,Itueta,122207
+2021,MG,Ituiutaba,3797932
+2021,MG,Itumirim,91622
+2021,MG,Iturama,2017455
+2021,MG,Itutinga,172515
+2021,MG,Jaboticatubas,297901
+2021,MG,Jacinto,131584
+2021,MG,Jacu�,150968
+2021,MG,Jacutinga,1143965
+2021,MG,Jaguara�u,109845
+2021,MG,Ja�ba,849210
+2021,MG,Jampruca,82540
+2021,MG,Jana�ba,1603651
+2021,MG,Janu�ria,824599
+2021,MG,Japara�ba,101337
+2021,MG,Japonvar,77423
+2021,MG,Jeceaba,1953259
+2021,MG,Jenipapo de Minas,79480
+2021,MG,Jequeri,193981
+2021,MG,Jequita�,130474
+2021,MG,Jequitib�,126191
+2021,MG,Jequitinhonha,274832
+2021,MG,Jesu�nia,104204
+2021,MG,Joa�ma,162644
+2021,MG,Joan�sia,110227
+2021,MG,Jo�o Monlevade,4851241
+2021,MG,Jo�o Pinheiro,2156171
+2021,MG,Joaquim Fel�cio,72335
+2021,MG,Jord�nia,107172
+2021,MG,Jos� Gon�alves de Minas,51745
+2021,MG,Jos� Raydan,72338
+2021,MG,Josen�polis,58028
+2021,MG,Nova Uni�o,107518
+2021,MG,Juatuba,1437155
+2021,MG,Juiz de Fora,20297559
+2021,MG,Juramento,51609
+2021,MG,Juruaia,274109
+2021,MG,Juven�lia,65633
+2021,MG,Ladainha,147330
+2021,MG,Lagamar,242527
+2021,MG,Lagoa da Prata,1986274
+2021,MG,Lagoa dos Patos,59611
+2021,MG,Lagoa Dourada,345418
+2021,MG,Lagoa Formosa,565583
+2021,MG,Lagoa Grande,292506
+2021,MG,Lagoa Santa,2189391
+2021,MG,Lajinha,399673
+2021,MG,Lambari,405064
+2021,MG,Lamim,52131
+2021,MG,Laranjal,95788
+2021,MG,Lassance,192541
+2021,MG,Lavras,2941931
+2021,MG,Leandro Ferreira,55510
+2021,MG,Leme do Prado,66205
+2021,MG,Leopoldina,1113027
+2021,MG,Liberdade,107638
+2021,MG,Lima Duarte,339660
+2021,MG,Limeira do Oeste,462851
+2021,MG,Lontra,93858
+2021,MG,Luisburgo,132789
+2021,MG,Luisl�ndia,65474
+2021,MG,Lumin�rias,149070
+2021,MG,Luz,657025
+2021,MG,Machacalis,112451
+2021,MG,Machado,1373850
+2021,MG,Madre de Deus de Minas,301988
+2021,MG,Malacacheta,235819
+2021,MG,Mamonas,60107
+2021,MG,Manga,243371
+2021,MG,Manhua�u,3278527
+2021,MG,Manhumirim,563494
+2021,MG,Mantena,476940
+2021,MG,Maravilhas,233154
+2021,MG,Mar de Espanha,227578
+2021,MG,Maria da F�,203136
+2021,MG,Mariana,7367378
+2021,MG,Marilac,57719
+2021,MG,M�rio Campos,198000
+2021,MG,Marip� de Minas,74979
+2021,MG,Marli�ria,60450
+2021,MG,Marmel�polis,42794
+2021,MG,Martinho Campos,474772
+2021,MG,Martins Soares,215681
+2021,MG,Mata Verde,91577
+2021,MG,Materl�ndia,60534
+2021,MG,Mateus Leme,1079651
+2021,MG,Matias Barbosa,628205
+2021,MG,Matias Cardoso,158638
+2021,MG,Matip�,425322
+2021,MG,Mato Verde,157578
+2021,MG,Matozinhos,1506154
+2021,MG,Matutina,97194
+2021,MG,Medeiros,247330
+2021,MG,Medina,253051
+2021,MG,Mendes Pimentel,77396
+2021,MG,Merc�s,151768
+2021,MG,Mesquita,59463
+2021,MG,Minas Novas,350142
+2021,MG,Minduri,163786
+2021,MG,Mirabela,163017
+2021,MG,Miradouro,174006
+2021,MG,Mira�,334110
+2021,MG,Mirav�nia,46808
+2021,MG,Moeda,76842
+2021,MG,Moema,152615
+2021,MG,Monjolos,46811
+2021,MG,Monsenhor Paulo,228158
+2021,MG,Montalv�nia,165416
+2021,MG,Monte Alegre de Minas,757892
+2021,MG,Monte Azul,256132
+2021,MG,Monte Belo,365890
+2021,MG,Monte Carmelo,1558716
+2021,MG,Monte Formoso,44055
+2021,MG,Monte Santo de Minas,483352
+2021,MG,Montes Claros,10800251
+2021,MG,Monte Si�o,606448
+2021,MG,Montezuma,91071
+2021,MG,Morada Nova de Minas,541171
+2021,MG,Morro da Gar�a,51051
+2021,MG,Morro do Pilar,44118
+2021,MG,Munhoz,128563
+2021,MG,Muria�,2655056
+2021,MG,Mutum,508583
+2021,MG,Muzambinho,535441
+2021,MG,Nacip Raydan,37386
+2021,MG,Nanuque,808599
+2021,MG,Naque,90048
+2021,MG,Natal�ndia,75129
+2021,MG,Nat�rcia,115354
+2021,MG,Nazareno,668882
+2021,MG,Nepomuceno,618502
+2021,MG,Ninheira,126384
+2021,MG,Nova Bel�m,83428
+2021,MG,Nova Era,432891
+2021,MG,Nova Lima,21042646
+2021,MG,Nova M�dica,58650
+2021,MG,Nova Ponte,1116305
+2021,MG,Nova Porteirinha,116257
+2021,MG,Nova Resende,385669
+2021,MG,Nova Serrana,2635892
+2021,MG,Novo Cruzeiro,330447
+2021,MG,Novo Oriente de Minas,121571
+2021,MG,Novorizonte,70417
+2021,MG,Olaria,31909
+2021,MG,Olhos-d'�gua,211931
+2021,MG,Ol�mpio Noronha,43929
+2021,MG,Oliveira,1105051
+2021,MG,Oliveira Fortes,40532
+2021,MG,On�a de Pitangui,64915
+2021,MG,Orat�rios,70864
+2021,MG,Oriz�nia,122059
+2021,MG,Ouro Branco,8842769
+2021,MG,Ouro Fino,934189
+2021,MG,Ouro Preto,9520035
+2021,MG,Ouro Verde de Minas,67814
+2021,MG,Padre Carvalho,58192
+2021,MG,Padre Para�so,213919
+2021,MG,Paineiras,82825
+2021,MG,Pains,531428
+2021,MG,Pai Pedro,58645
+2021,MG,Paiva,27301
+2021,MG,Palma,103673
+2021,MG,Palm�polis,63874
+2021,MG,Papagaios,374343
+2021,MG,Paracatu,7198617
+2021,MG,Par� de Minas,4025297
+2021,MG,Paragua�u,650754
+2021,MG,Parais�polis,592590
+2021,MG,Paraopeba,918487
+2021,MG,Passab�m,23595
+2021,MG,Passa Quatro,472423
+2021,MG,Passa Tempo,480322
+2021,MG,Passa Vinte,42087
+2021,MG,Passos,3024709
+2021,MG,Patis,55018
+2021,MG,Patos de Minas,6145130
+2021,MG,Patroc�nio,3678404
+2021,MG,Patroc�nio do Muria�,116065
+2021,MG,Paula C�ndido,136815
+2021,MG,Paulistas,67350
+2021,MG,Pav�o,93078
+2021,MG,Pe�anha,270148
+2021,MG,Pedra Azul,401448
+2021,MG,Pedra Bonita,96477
+2021,MG,Pedra do Anta,57727
+2021,MG,Pedra do Indai�,116154
+2021,MG,Pedra Dourada,42293
+2021,MG,Pedralva,182678
+2021,MG,Pedras de Maria da Cruz,109590
+2021,MG,Pedrin�polis,204115
+2021,MG,Pedro Leopoldo,1939056
+2021,MG,Pedro Teixeira,30268
+2021,MG,Pequeri,62540
+2021,MG,Pequi,85506
+2021,MG,Perdig�o,227190
+2021,MG,Perdizes,1629092
+2021,MG,Perd�es,627041
+2021,MG,Periquito,111678
+2021,MG,Pescador,47101
+2021,MG,Piau,92672
+2021,MG,Piedade de Caratinga,140778
+2021,MG,Piedade de Ponte Nova,62735
+2021,MG,Piedade do Rio Grande,110401
+2021,MG,Piedade dos Gerais,89821
+2021,MG,Pimenta,281722
+2021,MG,Pingo-d'�gua,52720
+2021,MG,Pint�polis,71219
+2021,MG,Piracema,303200
+2021,MG,Pirajuba,403824
+2021,MG,Piranga,200178
+2021,MG,Pirangu�u,78368
+2021,MG,Piranguinho,136079
+2021,MG,Pirapetinga,639090
+2021,MG,Pirapora,2875259
+2021,MG,Pira�ba,200665
+2021,MG,Pitangui,741338
+2021,MG,Piumhi,1280835
+2021,MG,Planura,574328
+2021,MG,Po�o Fundo,403867
+2021,MG,Po�os de Caldas,8531692
+2021,MG,Pocrane,121719
+2021,MG,Pomp�u,1170187
+2021,MG,Ponte Nova,2144994
+2021,MG,Ponto Chique,52076
+2021,MG,Ponto dos Volantes,122556
+2021,MG,Porteirinha,526939
+2021,MG,Porto Firme,130247
+2021,MG,Pot�,168795
+2021,MG,Pouso Alegre,10720093
+2021,MG,Pouso Alto,277468
+2021,MG,Prados,229201
+2021,MG,Prata,1293341
+2021,MG,Prat�polis,228649
+2021,MG,Pratinha,154731
+2021,MG,Presidente Bernardes,67716
+2021,MG,Presidente Juscelino,49095
+2021,MG,Presidente Kubitschek,36194
+2021,MG,Presidente Oleg�rio,731489
+2021,MG,Alto Jequitib�,125604
+2021,MG,Prudente de Morais,203136
+2021,MG,Quartel Geral,77631
+2021,MG,Queluzito,40046
+2021,MG,Raposos,193699
+2021,MG,Raul Soares,423415
+2021,MG,Recreio,123322
+2021,MG,Reduto,121225
+2021,MG,Resende Costa,207535
+2021,MG,Resplendor,277857
+2021,MG,Ressaquinha,373035
+2021,MG,Riachinho,157263
+2021,MG,Riacho dos Machados,532748
+2021,MG,Ribeir�o das Neves,5181711
+2021,MG,Ribeir�o Vermelho,105348
+2021,MG,Rio Acima,472471
+2021,MG,Rio Casca,237367
+2021,MG,Rio Doce,51873
+2021,MG,Rio do Prado,52673
+2021,MG,Rio Espera,59610
+2021,MG,Rio Manso,113745
+2021,MG,Rio Novo,120108
+2021,MG,Rio Parana�ba,906353
+2021,MG,Rio Pardo de Minas,345467
+2021,MG,Rio Piracicaba,1339301
+2021,MG,Rio Pomba,417439
+2021,MG,Rio Preto,69182
+2021,MG,Rio Vermelho,140768
+2021,MG,Rit�polis,90357
+2021,MG,Rochedo de Minas,114736
+2021,MG,Rodeiro,550096
+2021,MG,Romaria,271547
+2021,MG,Ros�rio da Limeira,67739
+2021,MG,Rubelita,80085
+2021,MG,Rubim,111720
+2021,MG,Sabar�,4201730
+2021,MG,Sabin�polis,334745
+2021,MG,Sacramento,2090987
+2021,MG,Salinas,667409
+2021,MG,Salto da Divisa,132072
+2021,MG,Santa B�rbara,1628493
+2021,MG,Santa B�rbara do Leste,111650
+2021,MG,Santa B�rbara do Monte Verde,56244
+2021,MG,Santa B�rbara do Tug�rio,70594
+2021,MG,Santa Cruz de Minas,103519
+2021,MG,Santa Cruz de Salinas,49009
+2021,MG,Santa Cruz do Escalvado,76965
+2021,MG,Santa Efig�nia de Minas,51019
+2021,MG,Santa F� de Minas,59942
+2021,MG,Santa Helena de Minas,57951
+2021,MG,Santa Juliana,860482
+2021,MG,Santa Luzia,5290589
+2021,MG,Santa Margarida,354063
+2021,MG,Santa Maria de Itabira,269043
+2021,MG,Santa Maria do Salto,49995
+2021,MG,Santa Maria do Sua�u�,170840
+2021,MG,Santana da Vargem,242910
+2021,MG,Santana de Cataguases,49933
+2021,MG,Santana de Pirapama,116685
+2021,MG,Santana do Deserto,47378
+2021,MG,Santana do Garamb�u,39157
+2021,MG,Santana do Jacar�,105993
+2021,MG,Santana do Manhua�u,189846
+2021,MG,Santana do Para�so,750463
+2021,MG,Santana do Riacho,103786
+2021,MG,Santana dos Montes,49866
+2021,MG,Santa Rita de Caldas,227955
+2021,MG,Santa Rita de Jacutinga,74817
+2021,MG,Santa Rita de Minas,151813
+2021,MG,Santa Rita de Ibitipoca,61761
+2021,MG,Santa Rita do Itueto,179081
+2021,MG,Santa Rita do Sapuca�,1944614
+2021,MG,Santa Rosa da Serra,102034
+2021,MG,Santa Vit�ria,802690
+2021,MG,Santo Ant�nio do Amparo,354432
+2021,MG,Santo Ant�nio do Aventureiro,67920
+2021,MG,Santo Ant�nio do Grama,85672
+2021,MG,Santo Ant�nio do Itamb�,44707
+2021,MG,Santo Ant�nio do Jacinto,114554
+2021,MG,Santo Ant�nio do Monte,843029
+2021,MG,Santo Ant�nio do Retiro,70750
+2021,MG,Santo Ant�nio do Rio Abaixo,28497
+2021,MG,Santo Hip�lito,50200
+2021,MG,Santos Dumont,1102977
+2021,MG,S�o Bento Abade,89310
+2021,MG,S�o Br�s do Sua�u�,80505
+2021,MG,S�o Domingos das Dores,91417
+2021,MG,S�o Domingos do Prata,313491
+2021,MG,S�o F�lix de Minas,43895
+2021,MG,S�o Francisco,648148
+2021,MG,S�o Francisco de Paula,150481
+2021,MG,S�o Francisco de Sales,194087
+2021,MG,S�o Francisco do Gl�ria,72567
+2021,MG,S�o Geraldo,264434
+2021,MG,S�o Geraldo da Piedade,44821
+2021,MG,S�o Geraldo do Baixio,49944
+2021,MG,S�o Gon�alo do Abaet�,325580
+2021,MG,S�o Gon�alo do Par�,311248
+2021,MG,S�o Gon�alo do Rio Abaixo,7603851
+2021,MG,S�o Gon�alo do Sapuca�,987545
+2021,MG,S�o Gotardo,1189360
+2021,MG,S�o Jo�o Batista do Gl�ria,268158
+2021,MG,S�o Jo�o da Lagoa,60418
+2021,MG,S�o Jo�o da Mata,55082
+2021,MG,S�o Jo�o da Ponte,268895
+2021,MG,S�o Jo�o das Miss�es,92400
+2021,MG,S�o Jo�o del Rei,3005052
+2021,MG,S�o Jo�o do Manhua�u,183099
+2021,MG,S�o Jo�o do Manteninha,81243
+2021,MG,S�o Jo�o do Oriente,101877
+2021,MG,S�o Jo�o do Pacu�,44646
+2021,MG,S�o Jo�o do Para�so,285080
+2021,MG,S�o Jo�o Evangelista,253108
+2021,MG,S�o Jo�o Nepomuceno,506309
+2021,MG,S�o Joaquim de Bicas,1083354
+2021,MG,S�o Jos� da Barra,891476
+2021,MG,S�o Jos� da Lapa,625195
+2021,MG,S�o Jos� da Safira,49560
+2021,MG,S�o Jos� da Varginha,114407
+2021,MG,S�o Jos� do Alegre,57940
+2021,MG,S�o Jos� do Divino,53046
+2021,MG,S�o Jos� do Goiabal,67388
+2021,MG,S�o Jos� do Jacuri,99911
+2021,MG,S�o Jos� do Mantimento,44175
+2021,MG,S�o Louren�o,1177922
+2021,MG,S�o Miguel do Anta,105089
+2021,MG,S�o Pedro da Uni�o,148166
+2021,MG,S�o Pedro dos Ferros,134410
+2021,MG,S�o Pedro do Sua�u�,81787
+2021,MG,S�o Rom�o,243121
+2021,MG,S�o Roque de Minas,323185
+2021,MG,S�o Sebasti�o da Bela Vista,443000
+2021,MG,S�o Sebasti�o da Vargem Alegre,66816
+2021,MG,S�o Sebasti�o do Anta,104241
+2021,MG,S�o Sebasti�o do Maranh�o,100816
+2021,MG,S�o Sebasti�o do Oeste,597003
+2021,MG,S�o Sebasti�o do Para�so,2236521
+2021,MG,S�o Sebasti�o do Rio Preto,25970
+2021,MG,S�o Sebasti�o do Rio Verde,35692
+2021,MG,S�o Tiago,246094
+2021,MG,S�o Tom�s de Aquino,195273
+2021,MG,S�o Tom� das Letras,137362
+2021,MG,S�o Vicente de Minas,206110
+2021,MG,Sapuca�-Mirim,110272
+2021,MG,Sardo�,68802
+2021,MG,Sarzedo,2190992
+2021,MG,Setubinha,122686
+2021,MG,Sem-Peixe,36665
+2021,MG,Senador Amaral,89448
+2021,MG,Senador Cortes,38035
+2021,MG,Senador Firmino,106777
+2021,MG,Senador Jos� Bento,35496
+2021,MG,Senador Modestino Gon�alves,92207
+2021,MG,Senhora de Oliveira,81083
+2021,MG,Senhora do Porto,49778
+2021,MG,Senhora dos Rem�dios,115769
+2021,MG,Sericita,104985
+2021,MG,Seritinga,45232
+2021,MG,Serra Azul de Minas,45066
+2021,MG,Serra da Saudade,21891
+2021,MG,Serra dos Aimor�s,91034
+2021,MG,Serra do Salitre,983222
+2021,MG,Serrania,161647
+2021,MG,Serran�polis de Minas,47456
+2021,MG,Serranos,38562
+2021,MG,Serro,292440
+2021,MG,Sete Lagoas,12659740
+2021,MG,Silveir�nia,35150
+2021,MG,Silvian�polis,141556
+2021,MG,Sim�o Pereira,104072
+2021,MG,Simon�sia,285287
+2021,MG,Sobr�lia,67373
+2021,MG,Soledade de Minas,81877
+2021,MG,Tabuleiro,65731
+2021,MG,Taiobeiras,557419
+2021,MG,Taparuba,49070
+2021,MG,Tapira,689238
+2021,MG,Tapira�,56041
+2021,MG,Taquara�u de Minas,65923
+2021,MG,Tarumirim,188341
+2021,MG,Teixeiras,191322
+2021,MG,Te�filo Otoni,2951670
+2021,MG,Tim�teo,5611339
+2021,MG,Tiradentes,205707
+2021,MG,Tiros,379859
+2021,MG,Tocantins,349691
+2021,MG,Tocos do Moji,70719
+2021,MG,Toledo,107161
+2021,MG,Tombos,130979
+2021,MG,Tr�s Cora��es,2959361
+2021,MG,Tr�s Marias,3151633
+2021,MG,Tr�s Pontas,1879264
+2021,MG,Tumiritinga,82915
+2021,MG,Tupaciguara,946559
+2021,MG,Turmalina,443706
+2021,MG,Turvol�ndia,139820
+2021,MG,Ub�,3573940
+2021,MG,Uba�,117219
+2021,MG,Ubaporanga,167991
+2021,MG,Uberaba,20397519
+2021,MG,Uberl�ndia,43129285
+2021,MG,Umburatiba,44172
+2021,MG,Una�,4319563
+2021,MG,Uni�o de Minas,130424
+2021,MG,Uruana de Minas,97097
+2021,MG,Uruc�nia,239997
+2021,MG,Urucuia,193242
+2021,MG,Vargem Alegre,77331
+2021,MG,Vargem Bonita,87637
+2021,MG,Vargem Grande do Rio Pardo,68130
+2021,MG,Varginha,8093810
+2021,MG,Varj�o de Minas,316199
+2021,MG,V�rzea da Palma,1067613
+2021,MG,Varzel�ndia,187206
+2021,MG,Vazante,1168648
+2021,MG,Verdel�ndia,115451
+2021,MG,Veredinha,133052
+2021,MG,Ver�ssimo,170434
+2021,MG,Vermelho Novo,64216
+2021,MG,Vespasiano,3020537
+2021,MG,Vi�osa,1811859
+2021,MG,Vieiras,53459
+2021,MG,Mathias Lobato,43931
+2021,MG,Virgem da Lapa,131604
+2021,MG,Virg�nia,180446
+2021,MG,Virgin�polis,183953
+2021,MG,Virgol�ndia,62674
+2021,MG,Visconde do Rio Branco,1351679
+2021,MG,Volta Grande,140361
+2021,MG,Wenceslau Braz,33088
+2021,ES,Afonso Cl�udio,569771
+2021,ES,�guia Branca,246004
+2021,ES,�gua Doce do Norte,184402
+2021,ES,Alegre,575138
+2021,ES,Alfredo Chaves,457719
+2021,ES,Alto Rio Novo,113034
+2021,ES,Anchieta,5764148
+2021,ES,Apiac�,118193
+2021,ES,Aracruz,5313106
+2021,ES,At�lio Viv�cqua,360866
+2021,ES,Baixo Guandu,928265
+2021,ES,Barra de S�o Francisco,1165006
+2021,ES,Boa Esperan�a,271044
+2021,ES,Bom Jesus do Norte,186832
+2021,ES,Brejetuba,294750
+2021,ES,Cachoeiro de Itapemirim,6146964
+2021,ES,Cariacica,13698973
+2021,ES,Castelo,1170595
+2021,ES,Colatina,4378306
+2021,ES,Concei��o da Barra,607069
+2021,ES,Concei��o do Castelo,279078
+2021,ES,Divino de S�o Louren�o,82578
+2021,ES,Domingos Martins,957684
+2021,ES,Dores do Rio Preto,159782
+2021,ES,Ecoporanga,411089
+2021,ES,Fund�o,468479
+2021,ES,Governador Lindenberg,334329
+2021,ES,Gua�u�,612495
+2021,ES,Guarapari,2537472
+2021,ES,Ibatiba,450090
+2021,ES,Ibira�u,289514
+2021,ES,Ibitirama,171983
+2021,ES,Iconha,314849
+2021,ES,Irupi,236224
+2021,ES,Itagua�u,325867
+2021,ES,Itapemirim,5744186
+2021,ES,Itarana,266030
+2021,ES,I�na,538444
+2021,ES,Jaguar�,963635
+2021,ES,Jer�nimo Monteiro,172125
+2021,ES,Jo�o Neiva,646255
+2021,ES,Laranja da Terra,187688
+2021,ES,Linhares,8036008
+2021,ES,Manten�polis,203075
+2021,ES,Marata�zes,6659696
+2021,ES,Marechal Floriano,516906
+2021,ES,Maril�ndia,312886
+2021,ES,Mimoso do Sul,607415
+2021,ES,Montanha,410506
+2021,ES,Mucurici,96748
+2021,ES,Muniz Freire,383338
+2021,ES,Muqui,234321
+2021,ES,Nova Ven�cia,1339644
+2021,ES,Pancas,358499
+2021,ES,Pedro Can�rio,401437
+2021,ES,Pinheiros,861702
+2021,ES,Pi�ma,876050
+2021,ES,Ponto Belo,107548
+2021,ES,Presidente Kennedy,6811825
+2021,ES,Rio Bananal,525682
+2021,ES,Rio Novo do Sul,229883
+2021,ES,Santa Leopoldina,330158
+2021,ES,Santa Maria de Jetib�,1631424
+2021,ES,Santa Teresa,577185
+2021,ES,S�o Domingos do Norte,331339
+2021,ES,S�o Gabriel da Palha,762065
+2021,ES,S�o Jos� do Cal�ado,203596
+2021,ES,S�o Mateus,2947644
+2021,ES,S�o Roque do Cana�,228984
+2021,ES,Serra,37279406
+2021,ES,Sooretama,667529
+2021,ES,Vargem Alta,430100
+2021,ES,Venda Nova do Imigrante,702153
+2021,ES,Viana,4227568
+2021,ES,Vila Pav�o,180643
+2021,ES,Vila Val�rio,434064
+2021,ES,Vila Velha,16305842
+2021,ES,Vit�ria,31423573
+2021,RJ,Angra dos Reis,11194244
+2021,RJ,Aperib�,249125
+2021,RJ,Araruama,4234265
+2021,RJ,Areal,427444
+2021,RJ,Arma��o dos B�zios,2970333
+2021,RJ,Arraial do Cabo,2705477
+2021,RJ,Barra do Pira�,2713911
+2021,RJ,Barra Mansa,6449309
+2021,RJ,Belford Roxo,8839808
+2021,RJ,Bom Jardim,887304
+2021,RJ,Bom Jesus do Itabapoana,908167
+2021,RJ,Cabo Frio,12359627
+2021,RJ,Cachoeiras de Macacu,1305514
+2021,RJ,Cambuci,400563
+2021,RJ,Carapebus,726769
+2021,RJ,Comendador Levy Gasparian,603975
+2021,RJ,Campos dos Goytacazes,37179860
+2021,RJ,Cantagalo,841421
+2021,RJ,Cardoso Moreira,395482
+2021,RJ,Carmo,561153
+2021,RJ,Casimiro de Abreu,2352168
+2021,RJ,Concei��o de Macabu,434144
+2021,RJ,Cordeiro,456176
+2021,RJ,Duas Barras,249220
+2021,RJ,Duque de Caxias,53136666
+2021,RJ,Engenheiro Paulo de Frontin,406744
+2021,RJ,Guapimirim,1364014
+2021,RJ,Iguaba Grande,631409
+2021,RJ,Itabora�,5640738
+2021,RJ,Itagua�,10502749
+2021,RJ,Italva,418766
+2021,RJ,Itaocara,635896
+2021,RJ,Itaperuna,3394972
+2021,RJ,Itatiaia,6893431
+2021,RJ,Japeri,1530205
+2021,RJ,Laje do Muria�,184165
+2021,RJ,Maca�,17747016
+2021,RJ,Macuco,214875
+2021,RJ,Mag�,4765844
+2021,RJ,Mangaratiba,3211900
+2021,RJ,Maric�,85814296
+2021,RJ,Mendes,357694
+2021,RJ,Mesquita,2619229
+2021,RJ,Miguel Pereira,632510
+2021,RJ,Miracema,662192
+2021,RJ,Natividade,324266
+2021,RJ,Nil�polis,3059486
+2021,RJ,Niter�i,66345730
+2021,RJ,Nova Friburgo,6324935
+2021,RJ,Nova Igua�u,17794593
+2021,RJ,Paracambi,1162885
+2021,RJ,Para�ba do Sul,1253032
+2021,RJ,Paraty,1955303
+2021,RJ,Paty do Alferes,684863
+2021,RJ,Petr�polis,15665448
+2021,RJ,Pinheiral,1452647
+2021,RJ,Pira�,2449990
+2021,RJ,Porci�ncula,415950
+2021,RJ,Porto Real,4245742
+2021,RJ,Quatis,305015
+2021,RJ,Queimados,4361718
+2021,RJ,Quissam�,5996913
+2021,RJ,Resende,10754410
+2021,RJ,Rio Bonito,1831415
+2021,RJ,Rio Claro,435971
+2021,RJ,Rio das Flores,294391
+2021,RJ,Rio das Ostras,8949070
+2021,RJ,Rio de Janeiro,359634753
+2021,RJ,Santa Maria Madalena,234582
+2021,RJ,Santo Ant�nio de P�dua,1284644
+2021,RJ,S�o Francisco de Itabapoana,1184531
+2021,RJ,S�o Fid�lis,845192
+2021,RJ,S�o Gon�alo,20324883
+2021,RJ,S�o Jo�o da Barra,9886875
+2021,RJ,S�o Jo�o de Meriti,8963782
+2021,RJ,S�o Jos� de Ub�,196862
+2021,RJ,S�o Jos� do Vale do Rio Preto,738568
+2021,RJ,S�o Pedro da Aldeia,2743661
+2021,RJ,S�o Sebasti�o do Alto,241289
+2021,RJ,Sapucaia,1000575
+2021,RJ,Saquarema,42178208
+2021,RJ,Serop�dica,4777037
+2021,RJ,Silva Jardim,602644
+2021,RJ,Sumidouro,600127
+2021,RJ,Tangu�,694549
+2021,RJ,Teres�polis,5923947
+2021,RJ,Trajano de Moraes,242020
+2021,RJ,Tr�s Rios,6348173
+2021,RJ,Valen�a,3122612
+2021,RJ,Varre-Sai,264154
+2021,RJ,Vassouras,1321272
+2021,RJ,Volta Redonda,19671281
+2021,SP,Adamantina,1370866
+2021,SP,Adolfo,115490
+2021,SP,Agua�,1314737
+2021,SP,�guas da Prata,209004
+2021,SP,�guas de Lind�ia,585604
+2021,SP,�guas de Santa B�rbara,217296
+2021,SP,�guas de S�o Pedro,147855
+2021,SP,Agudos,2638623
+2021,SP,Alambari,129390
+2021,SP,Alfredo Marcondes,120355
+2021,SP,Altair,112274
+2021,SP,Altin�polis,833396
+2021,SP,Alto Alegre,113585
+2021,SP,Alum�nio,3982313
+2021,SP,�lvares Florence,124351
+2021,SP,�lvares Machado,709876
+2021,SP,�lvaro de Carvalho,58586
+2021,SP,Alvinl�ndia,58405
+2021,SP,Americana,15217280
+2021,SP,Am�rico Brasiliense,1230444
+2021,SP,Am�rico de Campos,126802
+2021,SP,Amparo,5152156
+2021,SP,Anal�ndia,208314
+2021,SP,Andradina,2845285
+2021,SP,Angatuba,1474152
+2021,SP,Anhembi,169558
+2021,SP,Anhumas,105621
+2021,SP,Aparecida,1041067
+2021,SP,Aparecida d'Oeste,151540
+2021,SP,Apia�,897713
+2021,SP,Ara�ariguama,4814504
+2021,SP,Ara�atuba,9017958
+2021,SP,Ara�oiaba da Serra,1205884
+2021,SP,Aramina,150277
+2021,SP,Arandu,194818
+2021,SP,Arape�,45568
+2021,SP,Araraquara,11953237
+2021,SP,Araras,6942567
+2021,SP,Arco-�ris,62096
+2021,SP,Arealva,227083
+2021,SP,Areias,58113
+2021,SP,Arei�polis,163060
+2021,SP,Ariranha,1136911
+2021,SP,Artur Nogueira,1721737
+2021,SP,Aruj�,8293370
+2021,SP,Asp�sia,39546
+2021,SP,Assis,4082516
+2021,SP,Atibaia,8361032
+2021,SP,Auriflama,358544
+2021,SP,Ava�,376094
+2021,SP,Avanhandava,199389
+2021,SP,Avar�,3278922
+2021,SP,Bady Bassitt,551849
+2021,SP,Balbinos,65400
+2021,SP,B�lsamo,278642
+2021,SP,Bananal,216018
+2021,SP,Bar�o de Antonina,74956
+2021,SP,Barbosa,109125
+2021,SP,Bariri,1623406
+2021,SP,Barra Bonita,1515653
+2021,SP,Barra do Chap�u,133738
+2021,SP,Barra do Turvo,125821
+2021,SP,Barretos,5903516
+2021,SP,Barrinha,624816
+2021,SP,Barueri,58027667
+2021,SP,Bastos,1067217
+2021,SP,Batatais,2416803
+2021,SP,Bauru,16721368
+2021,SP,Bebedouro,4080485
+2021,SP,Bento de Abreu,210460
+2021,SP,Bernardino de Campos,377950
+2021,SP,Bertioga,2067677
+2021,SP,Bilac,292577
+2021,SP,Birigui,3947388
+2021,SP,Biritiba Mirim,971016
+2021,SP,Boa Esperan�a do Sul,380753
+2021,SP,Bocaina,281964
+2021,SP,Bofete,212434
+2021,SP,Boituva,3393229
+2021,SP,Bom Jesus dos Perd�es,1463036
+2021,SP,Bom Sucesso de Itarar�,63857
+2021,SP,Bor�,74195
+2021,SP,Borac�ia,519153
+2021,SP,Borborema,518182
+2021,SP,Borebi,73943
+2021,SP,Botucatu,5979359
+2021,SP,Bragan�a Paulista,7954300
+2021,SP,Bra�na,120687
+2021,SP,Brejo Alegre,75675
+2021,SP,Brodowski,894831
+2021,SP,Brotas,1123987
+2021,SP,Buri,684130
+2021,SP,Buritama,627565
+2021,SP,Buritizal,244488
+2021,SP,Cabr�lia Paulista,102882
+2021,SP,Cabre�va,5961333
+2021,SP,Ca�apava,5214553
+2021,SP,Cachoeira Paulista,673632
+2021,SP,Caconde,574395
+2021,SP,Cafel�ndia,682544
+2021,SP,Caiabu,69806
+2021,SP,Caieiras,4858858
+2021,SP,Caiu�,96255
+2021,SP,Cajamar,22713160
+2021,SP,Cajati,1755226
+2021,SP,Cajobi,170916
+2021,SP,Cajuru,761749
+2021,SP,Campina do Monte Alegre,151087
+2021,SP,Campinas,72946775
+2021,SP,Campo Limpo Paulista,2530950
+2021,SP,Campos do Jord�o,1449808
+2021,SP,Campos Novos Paulista,194705
+2021,SP,Canan�ia,264410
+2021,SP,Canas,130060
+2021,SP,C�ndido Mota,1518347
+2021,SP,C�ndido Rodrigues,107108
+2021,SP,Canitar,164319
+2021,SP,Cap�o Bonito,1269097
+2021,SP,Capela do Alto,392354
+2021,SP,Capivari,2990810
+2021,SP,Caraguatatuba,4532236
+2021,SP,Carapicu�ba,6854706
+2021,SP,Cardoso,321120
+2021,SP,Casa Branca,1179142
+2021,SP,C�ssia dos Coqueiros,293111
+2021,SP,Castilho,1388287
+2021,SP,Catanduva,5218361
+2021,SP,Catigu�,152902
+2021,SP,Cedral,533104
+2021,SP,Cerqueira C�sar,956914
+2021,SP,Cerquilho,2343906
+2021,SP,Ces�rio Lange,740569
+2021,SP,Charqueada,515123
+2021,SP,Clementina,186411
+2021,SP,Colina,1541673
+2021,SP,Col�mbia,373219
+2021,SP,Conchal,859274
+2021,SP,Conchas,432993
+2021,SP,Cordeir�polis,4107826
+2021,SP,Coroados,218777
+2021,SP,Coronel Macedo,141158
+2021,SP,Corumbata�,345026
+2021,SP,Cosm�polis,2109640
+2021,SP,Cosmorama,506809
+2021,SP,Cotia,16114165
+2021,SP,Cravinhos,1753137
+2021,SP,Cristais Paulista,346566
+2021,SP,Cruz�lia,137664
+2021,SP,Cruzeiro,3182373
+2021,SP,Cubat�o,21946472
+2021,SP,Cunha,326362
+2021,SP,Descalvado,2081162
+2021,SP,Diadema,18484356
+2021,SP,Dirce Reis,69827
+2021,SP,Divinol�ndia,491457
+2021,SP,Dobrada,138927
+2021,SP,Dois C�rregos,835299
+2021,SP,Dolcin�polis,58947
+2021,SP,Dourado,802299
+2021,SP,Dracena,1444978
+2021,SP,Duartina,252626
+2021,SP,Dumont,342332
+2021,SP,Echapor�,152432
+2021,SP,Eldorado,329349
+2021,SP,Elias Fausto,1004655
+2021,SP,Elisi�rio,76051
+2021,SP,Emba�ba,57200
+2021,SP,Embu das Artes,14314754
+2021,SP,Embu-Gua�u,1456125
+2021,SP,Emilian�polis,79175
+2021,SP,Engenheiro Coelho,661053
+2021,SP,Esp�rito Santo do Pinhal,2065824
+2021,SP,Esp�rito Santo do Turvo,91772
+2021,SP,Estrela d'Oeste,753257
+2021,SP,Estrela do Norte,62446
+2021,SP,Euclides da Cunha Paulista,136498
+2021,SP,Fartura,473712
+2021,SP,Fernand�polis,2468766
+2021,SP,Fernando Prestes,205594
+2021,SP,Fern�o,80954
+2021,SP,Ferraz de Vasconcelos,4740673
+2021,SP,Flora Rica,42156
+2021,SP,Floreal,81886
+2021,SP,Fl�rida Paulista,264841
+2021,SP,Flor�nea,171949
+2021,SP,Franca,11276086
+2021,SP,Francisco Morato,1872467
+2021,SP,Franco da Rocha,4297871
+2021,SP,Gabriel Monteiro,93705
+2021,SP,G�lia,172719
+2021,SP,Gar�a,1725228
+2021,SP,Gast�o Vidigal,85828
+2021,SP,Gavi�o Peixoto,1184185
+2021,SP,General Salgado,275099
+2021,SP,Getulina,215988
+2021,SP,Glic�rio,125314
+2021,SP,Guai�ara,232241
+2021,SP,Guaimb�,442962
+2021,SP,Gua�ra,2704845
+2021,SP,Guapia�u,896415
+2021,SP,Guapiara,439112
+2021,SP,Guar�,618205
+2021,SP,Guara�a�,326572
+2021,SP,Guaraci,375453
+2021,SP,Guarani d'Oeste,37040
+2021,SP,Guarant�,196319
+2021,SP,Guararapes,1199678
+2021,SP,Guararema,1546741
+2021,SP,Guaratinguet�,7877882
+2021,SP,Guare�,313681
+2021,SP,Guariba,1135134
+2021,SP,Guaruj�,10494252
+2021,SP,Guarulhos,77376467
+2021,SP,Guatapar�,245363
+2021,SP,Guzol�ndia,93585
+2021,SP,Hercul�ndia,355955
+2021,SP,Holambra,1463401
+2021,SP,Hortol�ndia,18377822
+2021,SP,Iacanga,658010
+2021,SP,Iacri,316795
+2021,SP,Iaras,168922
+2021,SP,Ibat�,1159253
+2021,SP,Ibir�,318126
+2021,SP,Ibirarema,244614
+2021,SP,Ibitinga,1965223
+2021,SP,Ibi�na,2370586
+2021,SP,Ic�m,209289
+2021,SP,Iep�,434356
+2021,SP,Igara�u do Tiet�,381185
+2021,SP,Igarapava,1299637
+2021,SP,Igarat�,240165
+2021,SP,Iguape,1588620
+2021,SP,Ilhabela,13956618
+2021,SP,Ilha Comprida,1363561
+2021,SP,Ilha Solteira,706075
+2021,SP,Indaiatuba,22817117
+2021,SP,Indiana,86968
+2021,SP,Indiapor�,111103
+2021,SP,In�bia Paulista,136681
+2021,SP,Ipaussu,499099
+2021,SP,Iper�,969694
+2021,SP,Ipe�na,947912
+2021,SP,Ipigu�,124259
+2021,SP,Iporanga,63459
+2021,SP,Ipu�,442715
+2021,SP,Iracem�polis,2127925
+2021,SP,Irapu�,186223
+2021,SP,Irapuru,109595
+2021,SP,Itaber�,1016119
+2021,SP,Ita�,924897
+2021,SP,Itajobi,935220
+2021,SP,Itaju,232257
+2021,SP,Itanha�m,2369275
+2021,SP,Itaoca,53345
+2021,SP,Itapecerica da Serra,4909299
+2021,SP,Itapetininga,6359723
+2021,SP,Itapeva,3788992
+2021,SP,Itapevi,12854995
+2021,SP,Itapira,4756331
+2021,SP,Itapirapu� Paulista,52590
+2021,SP,It�polis,1630820
+2021,SP,Itaporanga,305514
+2021,SP,Itapu�,1003729
+2021,SP,Itapura,104628
+2021,SP,Itaquaquecetuba,9519618
+2021,SP,Itarar�,1182424
+2021,SP,Itariri,438980
+2021,SP,Itatiba,8245498
+2021,SP,Itatinga,396660
+2021,SP,Itirapina,1273184
+2021,SP,Itirapu�,161835
+2021,SP,Itobi,198366
+2021,SP,Itu,10540813
+2021,SP,Itupeva,8423279
+2021,SP,Ituverava,1907193
+2021,SP,Jaborandi,153278
+2021,SP,Jaboticabal,3601183
+2021,SP,Jacare�,16094435
+2021,SP,Jaci,676808
+2021,SP,Jacupiranga,531089
+2021,SP,Jaguari�na,13981302
+2021,SP,Jales,1982125
+2021,SP,Jambeiro,352904
+2021,SP,Jandira,4908360
+2021,SP,Jardin�polis,1580760
+2021,SP,Jarinu,2997400
+2021,SP,Ja�,5582395
+2021,SP,Jeriquara,168937
+2021,SP,Joan�polis,261558
+2021,SP,Jo�o Ramalho,148675
+2021,SP,Jos� Bonif�cio,1381751
+2021,SP,J�lio Mesquita,58843
+2021,SP,Jumirim,214000
+2021,SP,Jundia�,57670893
+2021,SP,Junqueir�polis,807879
+2021,SP,Juqui�,366459
+2021,SP,Juquitiba,573997
+2021,SP,Lagoinha,73967
+2021,SP,Laranjal Paulista,1411101
+2021,SP,Lav�nia,184896
+2021,SP,Lavrinhas,133317
+2021,SP,Leme,4101867
+2021,SP,Len��is Paulista,4924228
+2021,SP,Limeira,16060739
+2021,SP,Lind�ia,246179
+2021,SP,Lins,6763890
+2021,SP,Lorena,3876663
+2021,SP,Lourdes,43489
+2021,SP,Louveira,19677151
+2021,SP,Luc�lia,584271
+2021,SP,Lucian�polis,70465
+2021,SP,Lu�s Ant�nio,1556607
+2021,SP,Luizi�nia,93809
+2021,SP,Lup�rcio,98337
+2021,SP,Lut�cia,101173
+2021,SP,Macatuba,643783
+2021,SP,Macaubal,196952
+2021,SP,Maced�nia,90931
+2021,SP,Magda,104128
+2021,SP,Mairinque,2695116
+2021,SP,Mairipor�,2288092
+2021,SP,Manduri,291908
+2021,SP,Marab� Paulista,157011
+2021,SP,Maraca�,517398
+2021,SP,Marapoama,119694
+2021,SP,Mari�polis,76482
+2021,SP,Mar�lia,9755960
+2021,SP,Marin�polis,40067
+2021,SP,Martin�polis,754950
+2021,SP,Mat�o,5356571
+2021,SP,Mau�,20776213
+2021,SP,Mendon�a,374785
+2021,SP,Meridiano,393842
+2021,SP,Mes�polis,81615
+2021,SP,Miguel�polis,1016137
+2021,SP,Mineiros do Tiet�,226257
+2021,SP,Miracatu,456953
+2021,SP,Mira Estrela,70362
+2021,SP,Mirand�polis,738742
+2021,SP,Mirante do Paranapanema,606917
+2021,SP,Mirassol,2660334
+2021,SP,Mirassol�ndia,213295
+2021,SP,Mococa,3043692
+2021,SP,Mogi das Cruzes,19604517
+2021,SP,Mogi Gua�u,6865386
+2021,SP,Mogi Mirim,6313564
+2021,SP,Mombuca,124517
+2021,SP,Mon��es,58262
+2021,SP,Mongagu�,1254605
+2021,SP,Monte Alegre do Sul,252218
+2021,SP,Monte Alto,2435240
+2021,SP,Monte Apraz�vel,766600
+2021,SP,Monte Azul Paulista,639162
+2021,SP,Monte Castelo,128088
+2021,SP,Monteiro Lobato,83030
+2021,SP,Monte Mor,4317764
+2021,SP,Morro Agudo,1225918
+2021,SP,Morungaba,633324
+2021,SP,Motuca,120696
+2021,SP,Murutinga do Sul,88027
+2021,SP,Nantes,142301
+2021,SP,Narandiba,639076
+2021,SP,Natividade da Serra,93391
+2021,SP,Nazar� Paulista,465371
+2021,SP,Neves Paulista,276248
+2021,SP,Nhandeara,367777
+2021,SP,Nipo�,95892
+2021,SP,Nova Alian�a,325933
+2021,SP,Nova Campina,221079
+2021,SP,Nova Cana� Paulista,46305
+2021,SP,Nova Castilho,60665
+2021,SP,Nova Europa,377461
+2021,SP,Nova Granada,512829
+2021,SP,Nova Guataporanga,36775
+2021,SP,Nova Independ�ncia,213155
+2021,SP,Novais,78660
+2021,SP,Nova Luzit�nia,60214
+2021,SP,Nova Odessa,4020494
+2021,SP,Novo Horizonte,1585955
+2021,SP,Nuporanga,868092
+2021,SP,Ocau�u,141366
+2021,SP,�leo,128272
+2021,SP,Ol�mpia,2551145
+2021,SP,Onda Verde,205636
+2021,SP,Oriente,129763
+2021,SP,Orindi�va,640841
+2021,SP,Orl�ndia,2579406
+2021,SP,Osasco,86111260
+2021,SP,Oscar Bressane,112882
+2021,SP,Osvaldo Cruz,1087490
+2021,SP,Ourinhos,3961571
+2021,SP,Ouroeste,548740
+2021,SP,Ouro Verde,134986
+2021,SP,Pacaembu,217695
+2021,SP,Palestina,420420
+2021,SP,Palmares Paulista,136419
+2021,SP,Palmeira d'Oeste,215050
+2021,SP,Palmital,900627
+2021,SP,Panorama,317826
+2021,SP,Paragua�u Paulista,1801748
+2021,SP,Paraibuna,351772
+2021,SP,Para�so,275313
+2021,SP,Paranapanema,945145
+2021,SP,Paranapu�,133065
+2021,SP,Parapu�,741786
+2021,SP,Pardinho,368271
+2021,SP,Pariquera-A�u,586024
+2021,SP,Parisi,53620
+2021,SP,Patroc�nio Paulista,1360809
+2021,SP,Paulic�ia,200145
+2021,SP,Paul�nia,52389437
+2021,SP,Paulist�nia,48637
+2021,SP,Paulo de Faria,269675
+2021,SP,Pederneiras,3066261
+2021,SP,Pedra Bela,118076
+2021,SP,Pedran�polis,79887
+2021,SP,Pedregulho,1731364
+2021,SP,Pedreira,1502008
+2021,SP,Pedrinhas Paulista,176652
+2021,SP,Pedro de Toledo,178609
+2021,SP,Pen�polis,2082458
+2021,SP,Pereira Barreto,1087485
+2021,SP,Pereiras,317964
+2021,SP,Peru�be,1966247
+2021,SP,Piacatu,119025
+2021,SP,Piedade,1597083
+2021,SP,Pilar do Sul,1276180
+2021,SP,Pindamonhangaba,13742498
+2021,SP,Pindorama,498801
+2021,SP,Pinhalzinho,314651
+2021,SP,Piquerobi,67093
+2021,SP,Piquete,197854
+2021,SP,Piracaia,661696
+2021,SP,Piracicaba,34555724
+2021,SP,Piraju,926203
+2021,SP,Piraju�,540058
+2021,SP,Pirangi,364798
+2021,SP,Pirapora do Bom Jesus,826672
+2021,SP,Pirapozinho,927781
+2021,SP,Pirassununga,3312332
+2021,SP,Piratininga,278467
+2021,SP,Pitangueiras,1389561
+2021,SP,Planalto,193762
+2021,SP,Platina,120019
+2021,SP,Po�,3769347
+2021,SP,Poloni,154423
+2021,SP,Pomp�ia,1951861
+2021,SP,Ponga�,94399
+2021,SP,Pontal,1462865
+2021,SP,Pontalinda,98030
+2021,SP,Pontes Gestal,126663
+2021,SP,Populina,117260
+2021,SP,Porangaba,233734
+2021,SP,Porto Feliz,3754666
+2021,SP,Porto Ferreira,2495873
+2021,SP,Potim,308459
+2021,SP,Potirendaba,620169
+2021,SP,Pracinha,40969
+2021,SP,Prad�polis,1096526
+2021,SP,Praia Grande,8727831
+2021,SP,Prat�nia,126367
+2021,SP,Presidente Alves,77333
+2021,SP,Presidente Bernardes,331914
+2021,SP,Presidente Epit�cio,1325522
+2021,SP,Presidente Prudente,9242192
+2021,SP,Presidente Venceslau,823130
+2021,SP,Promiss�o,2115365
+2021,SP,Quadra,144523
+2021,SP,Quat�,821159
+2021,SP,Queiroz,684733
+2021,SP,Queluz,388523
+2021,SP,Quintana,276284
+2021,SP,Rafard,442883
+2021,SP,Rancharia,1381836
+2021,SP,Reden��o da Serra,66825
+2021,SP,Regente Feij�,983725
+2021,SP,Regin�polis,184875
+2021,SP,Registro,2357409
+2021,SP,Restinga,211752
+2021,SP,Ribeira,62081
+2021,SP,Ribeir�o Bonito,371778
+2021,SP,Ribeir�o Branco,595499
+2021,SP,Ribeir�o Corrente,319058
+2021,SP,Ribeir�o do Sul,224363
+2021,SP,Ribeir�o dos �ndios,47001
+2021,SP,Ribeir�o Grande,116992
+2021,SP,Ribeir�o Pires,3891003
+2021,SP,Ribeir�o Preto,39955572
+2021,SP,Riversul,92796
+2021,SP,Rifaina,191158
+2021,SP,Rinc�o,226043
+2021,SP,Rin�polis,349026
+2021,SP,Rio Claro,13245336
+2021,SP,Rio das Pedras,1787681
+2021,SP,Rio Grande da Serra,960727
+2021,SP,Riol�ndia,268963
+2021,SP,Rosana,1928456
+2021,SP,Roseira,374786
+2021,SP,Rubi�cea,78950
+2021,SP,Rubin�ia,102857
+2021,SP,Sabino,175476
+2021,SP,Sagres,54769
+2021,SP,Sales,169480
+2021,SP,Sales Oliveira,417237
+2021,SP,Sales�polis,251752
+2021,SP,Salmour�o,96895
+2021,SP,Saltinho,377871
+2021,SP,Salto,9303487
+2021,SP,Salto de Pirapora,2221477
+2021,SP,Salto Grande,273943
+2021,SP,Sandovalina,318810
+2021,SP,Santa Ad�lia,382546
+2021,SP,Santa Albertina,214791
+2021,SP,Santa B�rbara d'Oeste,7825507
+2021,SP,Santa Branca,312819
+2021,SP,Santa Clara d'Oeste,96783
+2021,SP,Santa Cruz da Concei��o,161651
+2021,SP,Santa Cruz da Esperan�a,63457
+2021,SP,Santa Cruz das Palmeiras,655974
+2021,SP,Santa Cruz do Rio Pardo,2786906
+2021,SP,Santa Ernestina,104373
+2021,SP,Santa F� do Sul,1344881
+2021,SP,Santa Gertrudes,3895818
+2021,SP,Santa Isabel,1658733
+2021,SP,Santa L�cia,131128
+2021,SP,Santa Maria da Serra,153024
+2021,SP,Santa Mercedes,69068
+2021,SP,Santana da Ponte Pensa,39913
+2021,SP,Santana de Parna�ba,11544903
+2021,SP,Santa Rita d'Oeste,68135
+2021,SP,Santa Rita do Passa Quatro,825835
+2021,SP,Santa Rosa de Viterbo,833444
+2021,SP,Santa Salete,42106
+2021,SP,Santo Anast�cio,555801
+2021,SP,Santo Andr�,32620295
+2021,SP,Santo Ant�nio da Alegria,211522
+2021,SP,Santo Ant�nio de Posse,1870734
+2021,SP,Santo Ant�nio do Aracangu�,289678
+2021,SP,Santo Ant�nio do Jardim,222833
+2021,SP,Santo Ant�nio do Pinhal,148429
+2021,SP,Santo Expedito,47273
+2021,SP,Sant�polis do Aguape�,80653
+2021,SP,Santos,24090173
+2021,SP,S�o Bento do Sapuca�,406647
+2021,SP,S�o Bernardo do Campo,58277014
+2021,SP,S�o Caetano do Sul,15566768
+2021,SP,S�o Carlos,14141854
+2021,SP,S�o Francisco,51168
+2021,SP,S�o Jo�o da Boa Vista,4135190
+2021,SP,S�o Jo�o das Duas Pontes,52612
+2021,SP,S�o Jo�o de Iracema,51478
+2021,SP,S�o Jo�o do Pau d'Alho,58493
+2021,SP,S�o Joaquim da Barra,2191086
+2021,SP,S�o Jos� da Bela Vista,231517
+2021,SP,S�o Jos� do Barreiro,63347
+2021,SP,S�o Jos� do Rio Pardo,2375167
+2021,SP,S�o Jos� do Rio Preto,20962617
+2021,SP,S�o Jos� dos Campos,45208808
+2021,SP,S�o Louren�o da Serra,285412
+2021,SP,S�o Luiz do Paraitinga,204219
+2021,SP,S�o Manuel,1340317
+2021,SP,S�o Miguel Arcanjo,954225
+2021,SP,S�o Paulo,828980608
+2021,SP,S�o Pedro,886336
+2021,SP,S�o Pedro do Turvo,234365
+2021,SP,S�o Roque,3450779
+2021,SP,S�o Sebasti�o,16008645
+2021,SP,S�o Sebasti�o da Grama,428492
+2021,SP,S�o Sim�o,501327
+2021,SP,S�o Vicente,6121259
+2021,SP,Sarapu�,203911
+2021,SP,Sarutai�,96558
+2021,SP,Sebastian�polis do Sul,417499
+2021,SP,Serra Azul,195523
+2021,SP,Serrana,1349050
+2021,SP,Serra Negra,845122
+2021,SP,Sert�ozinho,7109022
+2021,SP,Sete Barras,379170
+2021,SP,Sever�nia,271912
+2021,SP,Silveiras,92559
+2021,SP,Socorro,1120219
+2021,SP,Sorocaba,44533398
+2021,SP,Sud Mennucci,226784
+2021,SP,Sumar�,16179892
+2021,SP,Suzano,14811514
+2021,SP,Suzan�polis,341981
+2021,SP,Tabapu�,287137
+2021,SP,Tabatinga,340423
+2021,SP,Tabo�o da Serra,10291072
+2021,SP,Taciba,186412
+2021,SP,Tagua�,343428
+2021,SP,Taia�u,109907
+2021,SP,Tai�va,139651
+2021,SP,Tamba�,700419
+2021,SP,Tanabi,1323570
+2021,SP,Tapira�,185138
+2021,SP,Tapiratiba,301185
+2021,SP,Taquaral,46862
+2021,SP,Taquaritinga,1660014
+2021,SP,Taquarituba,988152
+2021,SP,Taquariva�,367324
+2021,SP,Tarabai,168350
+2021,SP,Tarum�,897036
+2021,SP,Tatu�,5076193
+2021,SP,Taubat�,16199986
+2021,SP,Tejup�,138116
+2021,SP,Teodoro Sampaio,627028
+2021,SP,Terra Roxa,174935
+2021,SP,Tiet�,2158402
+2021,SP,Timburi,66301
+2021,SP,Torre de Pedra,37757
+2021,SP,Torrinha,284592
+2021,SP,Trabiju,44920
+2021,SP,Trememb�,896634
+2021,SP,Tr�s Fronteiras,122036
+2021,SP,Tuiuti,181790
+2021,SP,Tup�,2213337
+2021,SP,Tupi Paulista,340357
+2021,SP,Turi�ba,56425
+2021,SP,Turmalina,73692
+2021,SP,Ubarana,212639
+2021,SP,Ubatuba,2705941
+2021,SP,Ubirajara,114468
+2021,SP,Uchoa,401841
+2021,SP,Uni�o Paulista,57595
+2021,SP,Ur�nia,286014
+2021,SP,Uru,46392
+2021,SP,Urup�s,483325
+2021,SP,Valentim Gentil,437546
+2021,SP,Valinhos,7969200
+2021,SP,Valpara�so,1236297
+2021,SP,Vargem,153401
+2021,SP,Vargem Grande do Sul,1287339
+2021,SP,Vargem Grande Paulista,2898203
+2021,SP,V�rzea Paulista,3965839
+2021,SP,Vera Cruz,240193
+2021,SP,Vinhedo,12557909
+2021,SP,Viradouro,443704
+2021,SP,Vista Alegre do Alto,425058
+2021,SP,Vit�ria Brasil,45179
+2021,SP,Votorantim,3919236
+2021,SP,Votuporanga,3862540
+2021,SP,Zacarias,130189
+2021,SP,Chavantes,266345
+2021,SP,Estiva Gerbi,389432
+2021,PR,Abati�,221834
+2021,PR,Adrian�polis,368871
+2021,PR,Agudos do Sul,216923
+2021,PR,Almirante Tamandar�,1936374
+2021,PR,Altamira do Paran�,96218
+2021,PR,Alt�nia,462528
+2021,PR,Alto Paran�,436289
+2021,PR,Alto Piquiri,409225
+2021,PR,Alvorada do Sul,338388
+2021,PR,Amapor�,121128
+2021,PR,Amp�re,750402
+2021,PR,Anahy,115054
+2021,PR,Andir�,816548
+2021,PR,�ngulo,154209
+2021,PR,Antonina,700920
+2021,PR,Ant�nio Olinto,233359
+2021,PR,Apucarana,3874314
+2021,PR,Arapongas,4954206
+2021,PR,Arapoti,1447486
+2021,PR,Arapu�,152158
+2021,PR,Araruna,547385
+2021,PR,Arauc�ria,25267382
+2021,PR,Ariranha do Iva�,128985
+2021,PR,Assa�,539585
+2021,PR,Assis Chateaubriand,1633334
+2021,PR,Astorga,882969
+2021,PR,Atalaia,177317
+2021,PR,Balsa Nova,926222
+2021,PR,Bandeirantes,1033526
+2021,PR,Barbosa Ferraz,299387
+2021,PR,Barrac�o,264248
+2021,PR,Barra do Jacar�,150159
+2021,PR,Bela Vista da Caroba,106934
+2021,PR,Bela Vista do Para�so,523816
+2021,PR,Bituruna,552373
+2021,PR,Boa Esperan�a,285705
+2021,PR,Boa Esperan�a do Igua�u,142618
+2021,PR,Boa Ventura de S�o Roque,361509
+2021,PR,Boa Vista da Aparecida,185336
+2021,PR,Bocai�va do Sul,280353
+2021,PR,Bom Jesus do Sul,115683
+2021,PR,Bom Sucesso,157283
+2021,PR,Bom Sucesso do Sul,300070
+2021,PR,Borraz�polis,245692
+2021,PR,Braganey,241541
+2021,PR,Brasil�ndia do Sul,275962
+2021,PR,Cafeara,114059
+2021,PR,Cafel�ndia,1949275
+2021,PR,Cafezal do Sul,148995
+2021,PR,Calif�rnia,253222
+2021,PR,Cambar�,819083
+2021,PR,Camb�,5030074
+2021,PR,Cambira,280229
+2021,PR,Campina da Lagoa,578399
+2021,PR,Campina do Sim�o,150383
+2021,PR,Campina Grande do Sul,2176118
+2021,PR,Campo Bonito,224674
+2021,PR,Campo do Tenente,261285
+2021,PR,Campo Largo,5733422
+2021,PR,Campo Magro,541662
+2021,PR,Campo Mour�o,5147486
+2021,PR,C�ndido de Abreu,421666
+2021,PR,Cand�i,850089
+2021,PR,Cantagalo,335966
+2021,PR,Capanema,1106732
+2021,PR,Capit�o Le�nidas Marques,1255562
+2021,PR,Carambe�,1578894
+2021,PR,Carl�polis,458663
+2021,PR,Cascavel,15787528
+2021,PR,Castro,3631342
+2021,PR,Catanduvas,355970
+2021,PR,Centen�rio do Sul,438437
+2021,PR,Cerro Azul,405117
+2021,PR,C�u Azul,942787
+2021,PR,Chopinzinho,909328
+2021,PR,Cianorte,3039868
+2021,PR,Cidade Ga�cha,431504
+2021,PR,Clevel�ndia,838016
+2021,PR,Colombo,5694200
+2021,PR,Colorado,796317
+2021,PR,Congonhinhas,285636
+2021,PR,Conselheiro Mairinck,152437
+2021,PR,Contenda,557615
+2021,PR,Corb�lia,1064215
+2021,PR,Corn�lio Proc�pio,1812311
+2021,PR,Coronel Domingos Soares,323739
+2021,PR,Coronel Vivida,887353
+2021,PR,Corumbata� do Sul,87695
+2021,PR,Cruzeiro do Igua�u,177188
+2021,PR,Cruzeiro do Oeste,859412
+2021,PR,Cruzeiro do Sul,205363
+2021,PR,Cruz Machado,505101
+2021,PR,Cruzmaltina,151175
+2021,PR,Curitiba,98003704
+2021,PR,Curi�va,276053
+2021,PR,Diamante do Norte,298223
+2021,PR,Diamante do Sul,74746
+2021,PR,Diamante D'Oeste,128046
+2021,PR,Dois Vizinhos,2026540
+2021,PR,Douradina,841251
+2021,PR,Doutor Camargo,200380
+2021,PR,En�as Marques,311338
+2021,PR,Engenheiro Beltr�o,566636
+2021,PR,Esperan�a Nova,65246
+2021,PR,Entre Rios do Oeste,313169
+2021,PR,Espig�o Alto do Igua�u,162826
+2021,PR,Farol,215745
+2021,PR,Faxinal,500157
+2021,PR,Fazenda Rio Grande,3312466
+2021,PR,F�nix,212876
+2021,PR,Fernandes Pinheiro,253856
+2021,PR,Figueira,161509
+2021,PR,Flora�,239271
+2021,PR,Flor da Serra do Sul,182658
+2021,PR,Floresta,271143
+2021,PR,Florest�polis,400311
+2021,PR,Fl�rida,80584
+2021,PR,Formosa do Oeste,370785
+2021,PR,Foz do Igua�u,18969765
+2021,PR,Francisco Alves,290560
+2021,PR,Francisco Beltr�o,3694721
+2021,PR,Foz do Jord�o,184060
+2021,PR,General Carneiro,445500
+2021,PR,Godoy Moreira,72437
+2021,PR,Goioer�,1074430
+2021,PR,Goioxim,309159
+2021,PR,Grandes Rios,172742
+2021,PR,Gua�ra,1140009
+2021,PR,Guaira��,272089
+2021,PR,Guamiranga,295082
+2021,PR,Guapirama,176967
+2021,PR,Guaporema,78150
+2021,PR,Guaraci,223881
+2021,PR,Guarania�u,512045
+2021,PR,Guarapuava,8309342
+2021,PR,Guaraque�aba,118169
+2021,PR,Guaratuba,982249
+2021,PR,Hon�rio Serpa,298563
+2021,PR,Ibaiti,878479
+2021,PR,Ibema,182357
+2021,PR,Ibipor�,3313526
+2021,PR,Icara�ma,247415
+2021,PR,Iguara�u,212524
+2021,PR,Iguatu,84007
+2021,PR,Imba�,276180
+2021,PR,Imbituva,1290841
+2021,PR,In�cio Martins,265731
+2021,PR,Inaj�,58322
+2021,PR,Indian�polis,507458
+2021,PR,Ipiranga,615220
+2021,PR,Ipor�,597094
+2021,PR,Iracema do Oeste,194377
+2021,PR,Irati,2286299
+2021,PR,Iretama,354191
+2021,PR,Itaguaj�,121793
+2021,PR,Itaipul�ndia,524842
+2021,PR,Itambarac�,223636
+2021,PR,Itamb�,228349
+2021,PR,Itapejara d'Oeste,753038
+2021,PR,Itaperu�u,626972
+2021,PR,Ita�na do Sul,87760
+2021,PR,Iva�,497726
+2021,PR,Ivaipor�,947878
+2021,PR,Ivat�,203948
+2021,PR,Ivatuba,143604
+2021,PR,Jaboti,160064
+2021,PR,Jacarezinho,1598109
+2021,PR,Jaguapit�,1049416
+2021,PR,Jaguaria�va,1788929
+2021,PR,Jandaia do Sul,790200
+2021,PR,Jani�polis,241952
+2021,PR,Japira,163432
+2021,PR,Japur�,321196
+2021,PR,Jardim Alegre,374123
+2021,PR,Jardim Olinda,57052
+2021,PR,Jataizinho,282709
+2021,PR,Jesu�tas,441993
+2021,PR,Joaquim T�vora,679170
+2021,PR,Jundia� do Sul,128071
+2021,PR,Juranda,440947
+2021,PR,Jussara,405156
+2021,PR,Kalor�,165663
+2021,PR,Lapa,2841274
+2021,PR,Laranjal,113028
+2021,PR,Laranjeiras do Sul,1027784
+2021,PR,Le�polis,227387
+2021,PR,Lidian�polis,125693
+2021,PR,Lindoeste,200888
+2021,PR,Loanda,697990
+2021,PR,Lobato,215579
+2021,PR,Londrina,23604749
+2021,PR,Luiziana,546880
+2021,PR,Lunardelli,142223
+2021,PR,Lupion�polis,131512
+2021,PR,Mallet,758426
+2021,PR,Mambor�,793216
+2021,PR,Mandagua�u,687776
+2021,PR,Mandaguari,1835782
+2021,PR,Mandirituba,665070
+2021,PR,Manfrin�polis,81482
+2021,PR,Mangueirinha,1773320
+2021,PR,Manoel Ribas,531516
+2021,PR,Marechal C�ndido Rondon,2923901
+2021,PR,Maria Helena,134456
+2021,PR,Marialva,2654520
+2021,PR,Maril�ndia do Sul,466452
+2021,PR,Marilena,174505
+2021,PR,Mariluz,284378
+2021,PR,Maring�,22656733
+2021,PR,Mari�polis,439929
+2021,PR,Marip�,478133
+2021,PR,Marmeleiro,635140
+2021,PR,Marquinho,111465
+2021,PR,Marumbi,103464
+2021,PR,Matel�ndia,1096411
+2021,PR,Matinhos,892346
+2021,PR,Mato Rico,123201
+2021,PR,Mau� da Serra,373721
+2021,PR,Medianeira,2442131
+2021,PR,Mercedes,278237
+2021,PR,Mirador,126646
+2021,PR,Miraselva,52334
+2021,PR,Missal,466464
+2021,PR,Moreira Sales,306173
+2021,PR,Morretes,389250
+2021,PR,Munhoz de Melo,136941
+2021,PR,Nossa Senhora das Gra�as,99528
+2021,PR,Nova Alian�a do Iva�,51936
+2021,PR,Nova Am�rica da Colina,97609
+2021,PR,Nova Aurora,819786
+2021,PR,Nova Cantu,348106
+2021,PR,Nova Esperan�a,943235
+2021,PR,Nova Esperan�a do Sudoeste,164808
+2021,PR,Nova F�tima,314948
+2021,PR,Nova Laranjeiras,308307
+2021,PR,Nova Londrina,442964
+2021,PR,Nova Ol�mpia,109220
+2021,PR,Nova Santa B�rbara,110755
+2021,PR,Nova Santa Rosa,439769
+2021,PR,Nova Prata do Igua�u,492530
+2021,PR,Nova Tebas,189809
+2021,PR,Novo Itacolomi,91418
+2021,PR,Ortigueira,2726495
+2021,PR,Ourizona,166707
+2021,PR,Ouro Verde do Oeste,318639
+2021,PR,Pai�andu,1057772
+2021,PR,Palmas,1616606
+2021,PR,Palmeira,1642097
+2021,PR,Palmital,330862
+2021,PR,Palotina,2815892
+2021,PR,Para�so do Norte,377265
+2021,PR,Paranacity,325544
+2021,PR,Paranagu�,13647352
+2021,PR,Paranapoema,92029
+2021,PR,Paranava�,3179966
+2021,PR,Pato Bragado,243510
+2021,PR,Pato Branco,4548297
+2021,PR,Paula Freitas,439977
+2021,PR,Paulo Frontin,396743
+2021,PR,Peabiru,454257
+2021,PR,Perobal,281901
+2021,PR,P�rola,359711
+2021,PR,P�rola d'Oeste,237966
+2021,PR,Pi�n,916954
+2021,PR,Pinhais,7963215
+2021,PR,Pinhal�o,251490
+2021,PR,Pinhal de S�o Bento,80255
+2021,PR,Pinh�o,1794837
+2021,PR,Pira� do Sul,1191737
+2021,PR,Piraquara,1544009
+2021,PR,Pitanga,1140848
+2021,PR,Pitangueiras,121855
+2021,PR,Planaltina do Paran�,103927
+2021,PR,Planalto,425350
+2021,PR,Ponta Grossa,19490853
+2021,PR,Pontal do Paran�,653407
+2021,PR,Porecatu,554224
+2021,PR,Porto Amazonas,163145
+2021,PR,Porto Barreiro,170025
+2021,PR,Porto Rico,108627
+2021,PR,Porto Vit�ria,98750
+2021,PR,Prado Ferreira,170941
+2021,PR,Pranchita,329462
+2021,PR,Presidente Castelo Branco,147413
+2021,PR,Primeiro de Maio,371288
+2021,PR,Prudent�polis,1571806
+2021,PR,Quarto Centen�rio,363020
+2021,PR,Quatigu�,212134
+2021,PR,Quatro Barras,1941191
+2021,PR,Quatro Pontes,253583
+2021,PR,Quedas do Igua�u,1466577
+2021,PR,Quer�ncia do Norte,263173
+2021,PR,Quinta do Sol,257483
+2021,PR,Quitandinha,509173
+2021,PR,Ramil�ndia,113787
+2021,PR,Rancho Alegre,185664
+2021,PR,Rancho Alegre D'Oeste,234820
+2021,PR,Realeza,743115
+2021,PR,Rebou�as,536464
+2021,PR,Renascen�a,422539
+2021,PR,Reserva,757420
+2021,PR,Reserva do Igua�u,260049
+2021,PR,Ribeir�o Claro,383725
+2021,PR,Ribeir�o do Pinhal,338068
+2021,PR,Rio Azul,729595
+2021,PR,Rio Bom,104373
+2021,PR,Rio Bonito do Igua�u,441543
+2021,PR,Rio Branco do Iva�,115567
+2021,PR,Rio Branco do Sul,1375683
+2021,PR,Rio Negro,1298417
+2021,PR,Rol�ndia,3575090
+2021,PR,Roncador,598117
+2021,PR,Rondon,350084
+2021,PR,Ros�rio do Iva�,129882
+2021,PR,Sab�udia,705340
+2021,PR,Salgado Filho,124352
+2021,PR,Salto do Itarar�,103668
+2021,PR,Salto do Lontra,529918
+2021,PR,Santa Am�lia,100867
+2021,PR,Santa Cec�lia do Pav�o,153522
+2021,PR,Santa Cruz de Monte Castelo,375115
+2021,PR,Santa F�,319694
+2021,PR,Santa Helena,1465283
+2021,PR,Santa In�s,51495
+2021,PR,Santa Isabel do Iva�,253141
+2021,PR,Santa Izabel do Oeste,467018
+2021,PR,Santa L�cia,140120
+2021,PR,Santa Maria do Oeste,267331
+2021,PR,Santa Mariana,493092
+2021,PR,Santa M�nica,91022
+2021,PR,Santana do Itarar�,171616
+2021,PR,Santa Tereza do Oeste,582124
+2021,PR,Santa Terezinha de Itaipu,687387
+2021,PR,Santo Ant�nio da Platina,1505671
+2021,PR,Santo Ant�nio do Caiu�,54067
+2021,PR,Santo Ant�nio do Para�so,105831
+2021,PR,Santo Ant�nio do Sudoeste,648327
+2021,PR,Santo In�cio,532130
+2021,PR,S�o Carlos do Iva�,396044
+2021,PR,S�o Jer�nimo da Serra,322913
+2021,PR,S�o Jo�o,890646
+2021,PR,S�o Jo�o do Caiu�,154606
+2021,PR,S�o Jo�o do Iva�,361220
+2021,PR,S�o Jo�o do Triunfo,579585
+2021,PR,S�o Jorge d'Oeste,473364
+2021,PR,S�o Jorge do Iva�,401331
+2021,PR,S�o Jorge do Patroc�nio,145387
+2021,PR,S�o Jos� da Boa Vista,229801
+2021,PR,S�o Jos� das Palmeiras,99036
+2021,PR,S�o Jos� dos Pinhais,27009658
+2021,PR,S�o Manoel do Paran�,62351
+2021,PR,S�o Mateus do Sul,1516927
+2021,PR,S�o Miguel do Igua�u,1470178
+2021,PR,S�o Pedro do Igua�u,247170
+2021,PR,S�o Pedro do Iva�,370140
+2021,PR,S�o Pedro do Paran�,90334
+2021,PR,S�o Sebasti�o da Amoreira,300170
+2021,PR,S�o Tom�,163480
+2021,PR,Sapopema,153897
+2021,PR,Sarandi,2072897
+2021,PR,Saudade do Igua�u,786348
+2021,PR,Seng�s,664822
+2021,PR,Serran�polis do Igua�u,291349
+2021,PR,Sertaneja,416473
+2021,PR,Sertan�polis,690824
+2021,PR,Siqueira Campos,706595
+2021,PR,Sulina,158533
+2021,PR,Tamarana,391610
+2021,PR,Tamboara,126328
+2021,PR,Tapejara,496687
+2021,PR,Tapira,153437
+2021,PR,Teixeira Soares,616427
+2021,PR,Tel�maco Borba,4913583
+2021,PR,Terra Boa,569457
+2021,PR,Terra Rica,376189
+2021,PR,Terra Roxa,893579
+2021,PR,Tibagi,1440119
+2021,PR,Tijucas do Sul,576417
+2021,PR,Toledo,7482485
+2021,PR,Tomazina,324174
+2021,PR,Tr�s Barras do Paran�,435987
+2021,PR,Tunas do Paran�,144145
+2021,PR,Tuneiras do Oeste,233741
+2021,PR,Tup�ssi,431452
+2021,PR,Turvo,601652
+2021,PR,Ubirat�,1714000
+2021,PR,Umuarama,4103804
+2021,PR,Uni�o da Vit�ria,1959262
+2021,PR,Uniflor,99889
+2021,PR,Ura�,367868
+2021,PR,Wenceslau Braz,711254
+2021,PR,Ventania,347628
+2021,PR,Vera Cruz do Oeste,341127
+2021,PR,Ver�,499747
+2021,PR,Alto Para�so,113679
+2021,PR,Doutor Ulysses,99222
+2021,PR,Virmond,189741
+2021,PR,Vitorino,498350
+2021,PR,Xambr�,119646
+2021,SC,Abdon Batista,75124
+2021,SC,Abelardo Luz,785840
+2021,SC,Agrol�ndia,396094
+2021,SC,Agron�mica,232870
+2021,SC,�gua Doce,651064
+2021,SC,�guas de Chapec�,137688
+2021,SC,�guas Frias,163064
+2021,SC,�guas Mornas,199557
+2021,SC,Alfredo Wagner,336432
+2021,SC,Alto Bela Vista,78990
+2021,SC,Anchieta,203784
+2021,SC,Angelina,174544
+2021,SC,Anita Garibaldi,231485
+2021,SC,Anit�polis,84556
+2021,SC,Ant�nio Carlos,796471
+2021,SC,Api�na,442404
+2021,SC,Arabut�,284398
+2021,SC,Araquari,7487636
+2021,SC,Ararangu�,2384838
+2021,SC,Armaz�m,272041
+2021,SC,Arroio Trinta,125939
+2021,SC,Arvoredo,203863
+2021,SC,Ascurra,244941
+2021,SC,Atalanta,125964
+2021,SC,Aurora,406893
+2021,SC,Balne�rio Arroio do Silva,221814
+2021,SC,Balne�rio Cambori�,7357101
+2021,SC,Balne�rio Barra do Sul,254540
+2021,SC,Balne�rio Gaivota,216920
+2021,SC,Bandeirante,102204
+2021,SC,Barra Bonita,52278
+2021,SC,Barra Velha,2372107
+2021,SC,Bela Vista do Toldo,196838
+2021,SC,Belmonte,57645
+2021,SC,Benedito Novo,470066
+2021,SC,Bigua�u,2669788
+2021,SC,Blumenau,20576440
+2021,SC,Bocaina do Sul,135891
+2021,SC,Bombinhas,877306
+2021,SC,Bom Jardim da Serra,371641
+2021,SC,Bom Jesus,160196
+2021,SC,Bom Jesus do Oeste,73695
+2021,SC,Bom Retiro,422319
+2021,SC,Botuver�,430570
+2021,SC,Bra�o do Norte,1744713
+2021,SC,Bra�o do Trombudo,250118
+2021,SC,Brun�polis,137952
+2021,SC,Brusque,8723259
+2021,SC,Ca�ador,4702908
+2021,SC,Caibi,316744
+2021,SC,Calmon,97685
+2021,SC,Cambori�,2242100
+2021,SC,Cap�o Alto,235012
+2021,SC,Campo Alegre,699636
+2021,SC,Campo Belo do Sul,333003
+2021,SC,Campo Er�,437780
+2021,SC,Campos Novos,2610111
+2021,SC,Canelinha,295596
+2021,SC,Canoinhas,2202873
+2021,SC,Capinzal,1070601
+2021,SC,Capivari de Baixo,1348473
+2021,SC,Catanduvas,530828
+2021,SC,Caxambu do Sul,164133
+2021,SC,Celso Ramos,65897
+2021,SC,Cerro Negro,141410
+2021,SC,Chapad�o do Lageado,97926
+2021,SC,Chapec�,13693104
+2021,SC,Cocal do Sul,885040
+2021,SC,Conc�rdia,4559276
+2021,SC,Cordilheira Alta,434564
+2021,SC,Coronel Freitas,381539
+2021,SC,Coronel Martins,57373
+2021,SC,Corup�,797518
+2021,SC,Correia Pinto,591259
+2021,SC,Crici�ma,10063805
+2021,SC,Cunha Por�,927504
+2021,SC,Cunhata�,66618
+2021,SC,Curitibanos,1875114
+2021,SC,Descanso,298972
+2021,SC,Dion�sio Cerqueira,636238
+2021,SC,Dona Emma,165716
+2021,SC,Doutor Pedrinho,175696
+2021,SC,Entre Rios,61375
+2021,SC,Ermo,176541
+2021,SC,Erval Velho,183128
+2021,SC,Faxinal dos Guedes,758314
+2021,SC,Flor do Sert�o,64273
+2021,SC,Florian�polis,23555034
+2021,SC,Formosa do Sul,78629
+2021,SC,Forquilhinha,1224362
+2021,SC,Fraiburgo,1273454
+2021,SC,Frei Rog�rio,102093
+2021,SC,Galv�o,99952
+2021,SC,Garopaba,773131
+2021,SC,Garuva,2033119
+2021,SC,Gaspar,4156791
+2021,SC,Governador Celso Ramos,449622
+2021,SC,Gr�o-Par�,329139
+2021,SC,Gravatal,387231
+2021,SC,Guabiruba,1262670
+2021,SC,Guaraciaba,454591
+2021,SC,Guaramirim,2514108
+2021,SC,Guaruj� do Sul,202542
+2021,SC,Guatamb�,354963
+2021,SC,Herval d'Oeste,623924
+2021,SC,Ibiam,75603
+2021,SC,Ibicar�,145406
+2021,SC,Ibirama,599101
+2021,SC,I�ara,3521296
+2021,SC,Ilhota,1215153
+2021,SC,Imaru�,252788
+2021,SC,Imbituba,2502431
+2021,SC,Imbuia,260667
+2021,SC,Indaial,3675475
+2021,SC,Iomer�,227766
+2021,SC,Ipira,107120
+2021,SC,Ipor� do Oeste,381272
+2021,SC,Ipua�u,321467
+2021,SC,Ipumirim,465687
+2021,SC,Iraceminha,133794
+2021,SC,Irani,282643
+2021,SC,Irati,56613
+2021,SC,Irine�polis,458947
+2021,SC,It�,404686
+2021,SC,Itai�polis,1047601
+2021,SC,Itaja�,47754802
+2021,SC,Itapema,2888726
+2021,SC,Itapiranga,1064726
+2021,SC,Itapo�,1688632
+2021,SC,Ituporanga,1399577
+2021,SC,Jabor�,181338
+2021,SC,Jacinto Machado,529737
+2021,SC,Jaguaruna,851847
+2021,SC,Jaragu� do Sul,12052185
+2021,SC,Jardin�polis,67316
+2021,SC,Joa�aba,2380992
+2021,SC,Joinville,45069864
+2021,SC,Jos� Boiteux,130462
+2021,SC,Jupi�,88232
+2021,SC,Lacerd�polis,137752
+2021,SC,Lages,6576476
+2021,SC,Laguna,1093598
+2021,SC,Lajeado Grande,59651
+2021,SC,Laurentino,444761
+2021,SC,Lauro M�ller,418742
+2021,SC,Lebon R�gis,416768
+2021,SC,Leoberto Leal,119777
+2021,SC,Lind�ia do Sul,151906
+2021,SC,Lontras,466155
+2021,SC,Luiz Alves,792697
+2021,SC,Luzerna,292962
+2021,SC,Macieira,59143
+2021,SC,Mafra,2489951
+2021,SC,Major Gercino,62134
+2021,SC,Major Vieira,300299
+2021,SC,Maracaj�,273037
+2021,SC,Maravilha,1793997
+2021,SC,Marema,98097
+2021,SC,Massaranduba,751784
+2021,SC,Matos Costa,62584
+2021,SC,Meleiro,340346
+2021,SC,Mirim Doce,89435
+2021,SC,Modelo,170286
+2021,SC,Monda�,1089117
+2021,SC,Monte Carlo,233394
+2021,SC,Monte Castelo,237410
+2021,SC,Morro da Fuma�a,922021
+2021,SC,Morro Grande,145118
+2021,SC,Navegantes,6142276
+2021,SC,Nova Erechim,247026
+2021,SC,Nova Itaberaba,189424
+2021,SC,Nova Trento,691466
+2021,SC,Nova Veneza,1074495
+2021,SC,Novo Horizonte,119837
+2021,SC,Orleans,1188072
+2021,SC,Otac�lio Costa,997982
+2021,SC,Ouro,252604
+2021,SC,Ouro Verde,137259
+2021,SC,Paial,58309
+2021,SC,Painel,84935
+2021,SC,Palho�a,8208640
+2021,SC,Palma Sola,332257
+2021,SC,Palmeira,187888
+2021,SC,Palmitos,913735
+2021,SC,Papanduva,853750
+2021,SC,Para�so,143288
+2021,SC,Passo de Torres,237289
+2021,SC,Passos Maia,175174
+2021,SC,Paulo Lopes,250013
+2021,SC,Pedras Grandes,243418
+2021,SC,Penha,1036821
+2021,SC,Peritiba,120945
+2021,SC,Pescaria Brava,119429
+2021,SC,Petrol�ndia,223543
+2021,SC,Balne�rio Pi�arras,1513736
+2021,SC,Pinhalzinho,1514076
+2021,SC,Pinheiro Preto,227240
+2021,SC,Piratuba,801118
+2021,SC,Planalto Alegre,141926
+2021,SC,Pomerode,2806204
+2021,SC,Ponte Alta,175760
+2021,SC,Ponte Alta do Norte,166629
+2021,SC,Ponte Serrada,291031
+2021,SC,Porto Belo,1471880
+2021,SC,Porto Uni�o,1149800
+2021,SC,Pouso Redondo,718985
+2021,SC,Praia Grande,223238
+2021,SC,Presidente Castello Branco,75919
+2021,SC,Presidente Get�lio,985009
+2021,SC,Presidente Nereu,62737
+2021,SC,Princesa,135903
+2021,SC,Quilombo,462582
+2021,SC,Rancho Queimado,165728
+2021,SC,Rio das Antas,288065
+2021,SC,Rio do Campo,212919
+2021,SC,Rio do Oeste,276105
+2021,SC,Rio dos Cedros,474936
+2021,SC,Rio do Sul,3689822
+2021,SC,Rio Fortuna,302761
+2021,SC,Rio Negrinho,1614436
+2021,SC,Rio Rufino,70061
+2021,SC,Riqueza,147649
+2021,SC,Rodeio,390008
+2021,SC,Romel�ndia,111320
+2021,SC,Salete,318139
+2021,SC,Saltinho,93621
+2021,SC,Salto Veloso,266902
+2021,SC,Sang�o,466595
+2021,SC,Santa Cec�lia,661992
+2021,SC,Santa Helena,103604
+2021,SC,Santa Rosa de Lima,72823
+2021,SC,Santa Rosa do Sul,199062
+2021,SC,Santa Terezinha,268973
+2021,SC,Santa Terezinha do Progresso,65114
+2021,SC,Santiago do Sul,48477
+2021,SC,Santo Amaro da Imperatriz,1256347
+2021,SC,S�o Bernardino,88157
+2021,SC,S�o Bento do Sul,4697015
+2021,SC,S�o Bonif�cio,112418
+2021,SC,S�o Carlos,520775
+2021,SC,S�o Crist�v�o do Sul,219792
+2021,SC,S�o Domingos,449963
+2021,SC,S�o Francisco do Sul,8516095
+2021,SC,S�o Jo�o do Oeste,353201
+2021,SC,S�o Jo�o Batista,1029641
+2021,SC,S�o Jo�o do Itaperi�,338133
+2021,SC,S�o Jo�o do Sul,282886
+2021,SC,S�o Joaquim,1133168
+2021,SC,S�o Jos�,13838193
+2021,SC,S�o Jos� do Cedro,568132
+2021,SC,S�o Jos� do Cerrito,318807
+2021,SC,S�o Louren�o do Oeste,1389396
+2021,SC,S�o Ludgero,929134
+2021,SC,S�o Martinho,109250
+2021,SC,S�o Miguel da Boa Vista,50296
+2021,SC,S�o Miguel do Oeste,2174143
+2021,SC,S�o Pedro de Alc�ntara,101122
+2021,SC,Saudades,527126
+2021,SC,Schroeder,759385
+2021,SC,Seara,1178536
+2021,SC,Serra Alta,118024
+2021,SC,Sider�polis,679481
+2021,SC,Sombrio,910229
+2021,SC,Sul Brasil,83386
+2021,SC,Tai�,844581
+2021,SC,Tangar�,600820
+2021,SC,Tigrinhos,65548
+2021,SC,Tijucas,2437804
+2021,SC,Timb� do Sul,154862
+2021,SC,Timb�,2534387
+2021,SC,Timb� Grande,303272
+2021,SC,Tr�s Barras,1522652
+2021,SC,Treviso,232220
+2021,SC,Treze de Maio,199700
+2021,SC,Treze T�lias,829463
+2021,SC,Trombudo Central,437924
+2021,SC,Tubar�o,4816733
+2021,SC,Tun�polis,182298
+2021,SC,Turvo,737826
+2021,SC,Uni�o do Oeste,85123
+2021,SC,Urubici,356265
+2021,SC,Urupema,88451
+2021,SC,Urussanga,1086622
+2021,SC,Varge�o,200991
+2021,SC,Vargem,116140
+2021,SC,Vargem Bonita,539876
+2021,SC,Vidal Ramos,354799
+2021,SC,Videira,3455717
+2021,SC,Vitor Meireles,142269
+2021,SC,Witmarsum,175188
+2021,SC,Xanxer�,2676948
+2021,SC,Xavantina,211868
+2021,SC,Xaxim,1491017
+2021,SC,Zort�a,103643
+2021,SC,Balne�rio Rinc�o,294616
+2021,RS,Acegu�,458224
+2021,RS,�gua Santa,547412
+2021,RS,Agudo,667873
+2021,RS,Ajuricaba,521059
+2021,RS,Alecrim,162072
+2021,RS,Alegrete,3079871
+2021,RS,Alegria,156622
+2021,RS,Almirante Tamandar� do Sul,276411
+2021,RS,Alpestre,196381
+2021,RS,Alto Alegre,106141
+2021,RS,Alto Feliz,161548
+2021,RS,Alvorada,3302248
+2021,RS,Amaral Ferrador,147632
+2021,RS,Ametista do Sul,177770
+2021,RS,Andr� da Rocha,193089
+2021,RS,Anta Gorda,322292
+2021,RS,Ant�nio Prado,797510
+2021,RS,Arambar�,285088
+2021,RS,Araric�,236430
+2021,RS,Aratiba,946969
+2021,RS,Arroio do Meio,1536556
+2021,RS,Arroio do Sal,285577
+2021,RS,Arroio do Padre,76784
+2021,RS,Arroio dos Ratos,357345
+2021,RS,Arroio do Tigre,429271
+2021,RS,Arroio Grande,1131508
+2021,RS,Arvorezinha,336246
+2021,RS,Augusto Pestana,504183
+2021,RS,�urea,163438
+2021,RS,Bag�,3748409
+2021,RS,Balne�rio Pinhal,312091
+2021,RS,Bar�o,308101
+2021,RS,Bar�o de Cotegipe,341672
+2021,RS,Bar�o do Triunfo,142318
+2021,RS,Barrac�o,317083
+2021,RS,Barra do Guarita,56811
+2021,RS,Barra do Quara�,386181
+2021,RS,Barra do Ribeiro,505591
+2021,RS,Barra do Rio Azul,80747
+2021,RS,Barra Funda,165029
+2021,RS,Barros Cassal,244512
+2021,RS,Benjamin Constant do Sul,49313
+2021,RS,Bento Gon�alves,7498499
+2021,RS,Boa Vista das Miss�es,238521
+2021,RS,Boa Vista do Buric�,326885
+2021,RS,Boa Vista do Cadeado,468750
+2021,RS,Boa Vista do Incra,384172
+2021,RS,Boa Vista do Sul,120127
+2021,RS,Bom Jesus,613622
+2021,RS,Bom Princ�pio,906593
+2021,RS,Bom Progresso,86279
+2021,RS,Bom Retiro do Sul,403054
+2021,RS,Boqueir�o do Le�o,150393
+2021,RS,Bossoroca,490597
+2021,RS,Bozano,227409
+2021,RS,Braga,130948
+2021,RS,Brochier,117700
+2021,RS,Buti�,543347
+2021,RS,Ca�apava do Sul,1122667
+2021,RS,Cacequi,623085
+2021,RS,Cachoeira do Sul,3542693
+2021,RS,Cachoeirinha,6458476
+2021,RS,Cacique Doble,169235
+2021,RS,Caibat�,264915
+2021,RS,Cai�ara,152840
+2021,RS,Camaqu�,2723662
+2021,RS,Camargo,520481
+2021,RS,Cambar� do Sul,242576
+2021,RS,Campestre da Serra,204702
+2021,RS,Campina das Miss�es,239168
+2021,RS,Campinas do Sul,399402
+2021,RS,Campo Bom,3600068
+2021,RS,Campo Novo,325738
+2021,RS,Campos Borges,150033
+2021,RS,Candel�ria,1078186
+2021,RS,C�ndido God�i,358436
+2021,RS,Candiota,2744006
+2021,RS,Canela,1595255
+2021,RS,Cangu�u,1660002
+2021,RS,Canoas,21995362
+2021,RS,Canudos do Vale,67987
+2021,RS,Cap�o Bonito do Sul,342052
+2021,RS,Cap�o da Canoa,1966012
+2021,RS,Cap�o do Cip�,644964
+2021,RS,Cap�o do Le�o,830082
+2021,RS,Capivari do Sul,386832
+2021,RS,Capela de Santana,298585
+2021,RS,Capit�o,95378
+2021,RS,Carazinho,3846847
+2021,RS,Cara�,165659
+2021,RS,Carlos Barbosa,3529578
+2021,RS,Carlos Gomes,70447
+2021,RS,Casca,717919
+2021,RS,Caseiros,199196
+2021,RS,Catu�pe,638109
+2021,RS,Caxias do Sul,31688460
+2021,RS,Centen�rio,120778
+2021,RS,Cerrito,161327
+2021,RS,Cerro Branco,90158
+2021,RS,Cerro Grande,74561
+2021,RS,Cerro Grande do Sul,203183
+2021,RS,Cerro Largo,796775
+2021,RS,Chapada,741826
+2021,RS,Charqueadas,1736974
+2021,RS,Charrua,149351
+2021,RS,Chiapetta,388835
+2021,RS,Chu�,370301
+2021,RS,Chuvisca,129739
+2021,RS,Cidreira,362059
+2021,RS,Cir�aco,264360
+2021,RS,Colinas,87209
+2021,RS,Colorado,338157
+2021,RS,Condor,624705
+2021,RS,Constantina,432348
+2021,RS,Coqueiro Baixo,52163
+2021,RS,Coqueiros do Sul,190144
+2021,RS,Coronel Barros,226125
+2021,RS,Coronel Bicaco,515152
+2021,RS,Coronel Pilar,49059
+2021,RS,Cotipor�,167928
+2021,RS,Coxilha,422464
+2021,RS,Crissiumal,508976
+2021,RS,Cristal,308906
+2021,RS,Cristal do Sul,94740
+2021,RS,Cruz Alta,4609384
+2021,RS,Cruzaltense,144763
+2021,RS,Cruzeiro do Sul,533002
+2021,RS,David Canabarro,229362
+2021,RS,Derrubadas,148407
+2021,RS,Dezesseis de Novembro,57174
+2021,RS,Dilermando de Aguiar,267901
+2021,RS,Dois Irm�os,2188540
+2021,RS,Dois Irm�os das Miss�es,199194
+2021,RS,Dois Lajeados,172601
+2021,RS,Dom Feliciano,356857
+2021,RS,Dom Pedro de Alc�ntara,65533
+2021,RS,Dom Pedrito,2210941
+2021,RS,Dona Francisca,106596
+2021,RS,Doutor Maur�cio Cardoso,260796
+2021,RS,Doutor Ricardo,78890
+2021,RS,Eldorado do Sul,2120258
+2021,RS,Encantado,1168355
+2021,RS,Encruzilhada do Sul,1080943
+2021,RS,Engenho Velho,73213
+2021,RS,Entre-Iju�s,687576
+2021,RS,Entre Rios do Sul,207516
+2021,RS,Erebango,180478
+2021,RS,Erechim,6882611
+2021,RS,Ernestina,265548
+2021,RS,Herval,253606
+2021,RS,Erval Grande,150882
+2021,RS,Erval Seco,353967
+2021,RS,Esmeralda,392859
+2021,RS,Esperan�a do Sul,116730
+2021,RS,Espumoso,1113102
+2021,RS,Esta��o,350706
+2021,RS,Est�ncia Velha,1875488
+2021,RS,Esteio,3749878
+2021,RS,Estrela,2171441
+2021,RS,Estrela Velha,197414
+2021,RS,Eug�nio de Castro,405443
+2021,RS,Fagundes Varela,197918
+2021,RS,Farroupilha,4398447
+2021,RS,Faxinal do Soturno,270105
+2021,RS,Faxinalzinho,103166
+2021,RS,Fazenda Vilanova,140822
+2021,RS,Feliz,589352
+2021,RS,Flores da Cunha,2538136
+2021,RS,Floriano Peixoto,103058
+2021,RS,Fontoura Xavier,227468
+2021,RS,Formigueiro,302799
+2021,RS,Forquetinha,58939
+2021,RS,Fortaleza dos Valos,564771
+2021,RS,Frederico Westphalen,1430606
+2021,RS,Garibaldi,2997963
+2021,RS,Garruchos,200966
+2021,RS,Gaurama,282771
+2021,RS,General C�mara,276372
+2021,RS,Gentil,190647
+2021,RS,Get�lio Vargas,793661
+2021,RS,Giru�,1202941
+2021,RS,Glorinha,461885
+2021,RS,Gramado,2658018
+2021,RS,Gramado dos Loureiros,94579
+2021,RS,Gramado Xavier,109481
+2021,RS,Gravata�,10261618
+2021,RS,Guabiju,132787
+2021,RS,Gua�ba,8284804
+2021,RS,Guapor�,1149050
+2021,RS,Guarani das Miss�es,362623
+2021,RS,Harmonia,245496
+2021,RS,Herveiras,71142
+2021,RS,Horizontina,2608192
+2021,RS,Hulha Negra,314486
+2021,RS,Humait�,229248
+2021,RS,Ibarama,112226
+2021,RS,Ibia��,367294
+2021,RS,Ibiraiaras,399691
+2021,RS,Ibirapuit�,213521
+2021,RS,Ibirub�,1722053
+2021,RS,Igrejinha,1888880
+2021,RS,Iju�,5190378
+2021,RS,Il�polis,140569
+2021,RS,Imb�,626814
+2021,RS,Imigrante,519189
+2021,RS,Independ�ncia,494164
+2021,RS,Inhacor�,110556
+2021,RS,Ip�,298581
+2021,RS,Ipiranga do Sul,177628
+2021,RS,Ira�,254491
+2021,RS,Itaara,286658
+2021,RS,Itacurubi,246285
+2021,RS,Itapuca,94234
+2021,RS,Itaqui,2186921
+2021,RS,Itati,86738
+2021,RS,Itatiba do Sul,81706
+2021,RS,Ivor�,71910
+2021,RS,Ivoti,1180383
+2021,RS,Jaboticaba,136729
+2021,RS,Jacuizinho,224026
+2021,RS,Jacutinga,232300
+2021,RS,Jaguar�o,1059392
+2021,RS,Jaguari,378018
+2021,RS,Jaquirana,94041
+2021,RS,Jari,469005
+2021,RS,J�ia,975407
+2021,RS,J�lio de Castilhos,1925171
+2021,RS,Lagoa Bonita do Sul,68915
+2021,RS,Lago�o,154689
+2021,RS,Lagoa dos Tr�s Cantos,157139
+2021,RS,Lagoa Vermelha,1513400
+2021,RS,Lajeado,5596169
+2021,RS,Lajeado do Bugre,74874
+2021,RS,Lavras do Sul,497626
+2021,RS,Liberato Salzano,172442
+2021,RS,Lindolfo Collor,365848
+2021,RS,Linha Nova,65579
+2021,RS,Machadinho,272823
+2021,RS,Ma�ambar�,582041
+2021,RS,Mampituba,70213
+2021,RS,Manoel Viana,546970
+2021,RS,Maquin�,190483
+2021,RS,Marat�,80816
+2021,RS,Marau,3060013
+2021,RS,Marcelino Ramos,167824
+2021,RS,Mariana Pimentel,104495
+2021,RS,Mariano Moro,72887
+2021,RS,Marques de Souza,124134
+2021,RS,Mata,169005
+2021,RS,Mato Castelhano,168254
+2021,RS,Mato Leit�o,180535
+2021,RS,Mato Queimado,88446
+2021,RS,Maximiliano de Almeida,161122
+2021,RS,Minas do Le�o,279176
+2021,RS,Miragua�,190385
+2021,RS,Montauri,98137
+2021,RS,Monte Alegre dos Campos,109729
+2021,RS,Monte Belo do Sul,94434
+2021,RS,Montenegro,5752330
+2021,RS,Morma�o,153333
+2021,RS,Morrinhos do Sul,81465
+2021,RS,Morro Redondo,132443
+2021,RS,Morro Reuter,274166
+2021,RS,Mostardas,643323
+2021,RS,Mu�um,301851
+2021,RS,Muitos Cap�es,1122084
+2021,RS,Muliterno,91988
+2021,RS,N�o-Me-Toque,2207531
+2021,RS,Nicolau Vergueiro,146251
+2021,RS,Nonoai,525504
+2021,RS,Nova Alvorada,236574
+2021,RS,Nova Ara��,327225
+2021,RS,Nova Bassano,802206
+2021,RS,Nova Boa Vista,145342
+2021,RS,Nova Br�scia,141143
+2021,RS,Nova Candel�ria,229430
+2021,RS,Nova Esperan�a do Sul,172365
+2021,RS,Nova Hartz,805694
+2021,RS,Nova P�dua,100211
+2021,RS,Nova Palma,382687
+2021,RS,Nova Petr�polis,972684
+2021,RS,Nova Prata,1730037
+2021,RS,Nova Ramada,304677
+2021,RS,Nova Roma do Sul,169304
+2021,RS,Nova Santa Rita,2487515
+2021,RS,Novo Cabrais,133170
+2021,RS,Novo Hamburgo,10037889
+2021,RS,Novo Machado,186353
+2021,RS,Novo Tiradentes,74728
+2021,RS,Novo Xingu,75033
+2021,RS,Novo Barreiro,135199
+2021,RS,Os�rio,1819024
+2021,RS,Paim Filho,167644
+2021,RS,Palmares do Sul,735603
+2021,RS,Palmeira das Miss�es,2215050
+2021,RS,Palmitinho,271641
+2021,RS,Panambi,3167743
+2021,RS,Pantano Grande,533687
+2021,RS,Para�,424445
+2021,RS,Para�so do Sul,207384
+2021,RS,Pareci Novo,136434
+2021,RS,Parob�,1390312
+2021,RS,Passa Sete,132982
+2021,RS,Passo do Sobrado,229640
+2021,RS,Passo Fundo,12552833
+2021,RS,Paulo Bento,195869
+2021,RS,Paverama,242456
+2021,RS,Pedras Altas,386189
+2021,RS,Pedro Os�rio,270650
+2021,RS,Peju�ara,464211
+2021,RS,Pelotas,10778119
+2021,RS,Picada Caf�,386451
+2021,RS,Pinhal,123341
+2021,RS,Pinhal da Serra,304723
+2021,RS,Pinhal Grande,931832
+2021,RS,Pinheirinho do Vale,131547
+2021,RS,Pinheiro Machado,397723
+2021,RS,Pinto Bandeira,74285
+2021,RS,Pirap�,94670
+2021,RS,Piratini,880273
+2021,RS,Planalto,252506
+2021,RS,Po�o das Antas,131756
+2021,RS,Pont�o,403316
+2021,RS,Ponte Preta,96048
+2021,RS,Port�o,1662398
+2021,RS,Porto Alegre,81562848
+2021,RS,Porto Lucena,135661
+2021,RS,Porto Mau�,89349
+2021,RS,Porto Vera Cruz,45211
+2021,RS,Porto Xavier,210925
+2021,RS,Pouso Novo,61419
+2021,RS,Presidente Lucena,213812
+2021,RS,Progresso,166516
+2021,RS,Prot�sio Alves,93263
+2021,RS,Putinga,133442
+2021,RS,Quara�,625749
+2021,RS,Quatro Irm�os,185962
+2021,RS,Quevedos,299302
+2021,RS,Quinze de Novembro,255120
+2021,RS,Redentora,232903
+2021,RS,Relvado,82687
+2021,RS,Restinga S�ca,673420
+2021,RS,Rio dos �ndios,136484
+2021,RS,Rio Grande,13282154
+2021,RS,Rio Pardo,1390518
+2021,RS,Riozinho,155848
+2021,RS,Roca Sales,576081
+2021,RS,Rodeio Bonito,279278
+2021,RS,Rolador,161912
+2021,RS,Rolante,731607
+2021,RS,Ronda Alta,471552
+2021,RS,Rondinha,268873
+2021,RS,Roque Gonzales,437025
+2021,RS,Ros�rio do Sul,1381969
+2021,RS,Sagrada Fam�lia,82615
+2021,RS,Saldanha Marinho,254247
+2021,RS,Salto do Jacu�,1213455
+2021,RS,Salvador das Miss�es,178468
+2021,RS,Salvador do Sul,337661
+2021,RS,Sananduva,843823
+2021,RS,Santa B�rbara do Sul,1336027
+2021,RS,Santa Cec�lia do Sul,143879
+2021,RS,Santa Clara do Sul,339105
+2021,RS,Santa Cruz do Sul,9815170
+2021,RS,Santa Maria,9562027
+2021,RS,Santa Maria do Herval,279408
+2021,RS,Santa Margarida do Sul,361014
+2021,RS,Santana da Boa Vista,364899
+2021,RS,Sant'Ana do Livramento,2823913
+2021,RS,Santa Rosa,3732037
+2021,RS,Santa Tereza,49850
+2021,RS,Santa Vit�ria do Palmar,1755622
+2021,RS,Santiago,2021444
+2021,RS,Santo �ngelo,3180262
+2021,RS,Santo Ant�nio do Palma,119796
+2021,RS,Santo Ant�nio da Patrulha,1680497
+2021,RS,Santo Ant�nio das Miss�es,673944
+2021,RS,Santo Ant�nio do Planalto,189468
+2021,RS,Santo Augusto,848436
+2021,RS,Santo Cristo,784068
+2021,RS,Santo Expedito do Sul,128952
+2021,RS,S�o Borja,2570755
+2021,RS,S�o Domingos do Sul,123435
+2021,RS,S�o Francisco de Assis,804119
+2021,RS,S�o Francisco de Paula,1026513
+2021,RS,S�o Gabriel,2723183
+2021,RS,S�o Jer�nimo,667010
+2021,RS,S�o Jo�o da Urtiga,184148
+2021,RS,S�o Jo�o do Pol�sine,104817
+2021,RS,S�o Jorge,133331
+2021,RS,S�o Jos� das Miss�es,93350
+2021,RS,S�o Jos� do Herval,59112
+2021,RS,S�o Jos� do Hort�ncio,117865
+2021,RS,S�o Jos� do Inhacor�,183793
+2021,RS,S�o Jos� do Norte,792698
+2021,RS,S�o Jos� do Ouro,463017
+2021,RS,S�o Jos� do Sul,94018
+2021,RS,S�o Jos� dos Ausentes,155631
+2021,RS,S�o Leopoldo,10855366
+2021,RS,S�o Louren�o do Sul,1701063
+2021,RS,S�o Luiz Gonzaga,1903777
+2021,RS,S�o Marcos,1145389
+2021,RS,S�o Martinho,354028
+2021,RS,S�o Martinho da Serra,336098
+2021,RS,S�o Miguel das Miss�es,867928
+2021,RS,S�o Nicolau,228045
+2021,RS,S�o Paulo das Miss�es,200547
+2021,RS,S�o Pedro da Serra,113227
+2021,RS,S�o Pedro das Miss�es,114177
+2021,RS,S�o Pedro do Buti�,161663
+2021,RS,S�o Pedro do Sul,532255
+2021,RS,S�o Sebasti�o do Ca�,899457
+2021,RS,S�o Sep�,1331316
+2021,RS,S�o Valentim,135540
+2021,RS,S�o Valentim do Sul,95575
+2021,RS,S�o Val�rio do Sul,90429
+2021,RS,S�o Vendelino,95747
+2021,RS,S�o Vicente do Sul,730553
+2021,RS,Sapiranga,3615584
+2021,RS,Sapucaia do Sul,4204060
+2021,RS,Sarandi,1299134
+2021,RS,Seberi,617243
+2021,RS,Sede Nova,157534
+2021,RS,Segredo,163087
+2021,RS,Selbach,375173
+2021,RS,Senador Salgado Filho,149058
+2021,RS,Sentinela do Sul,136266
+2021,RS,Serafina Corr�a,782299
+2021,RS,S�rio,59571
+2021,RS,Sert�o,534501
+2021,RS,Sert�o Santana,314766
+2021,RS,Sete de Setembro,105651
+2021,RS,Severiano de Almeida,149412
+2021,RS,Silveira Martins,86630
+2021,RS,Sinimbu,213480
+2021,RS,Sobradinho,438641
+2021,RS,Soledade,1405191
+2021,RS,Taba�,142085
+2021,RS,Tapejara,1644543
+2021,RS,Tapera,640273
+2021,RS,Tapes,603911
+2021,RS,Taquara,1568872
+2021,RS,Taquari,1094080
+2021,RS,Taquaru�u do Sul,188857
+2021,RS,Tavares,124253
+2021,RS,Tenente Portela,579213
+2021,RS,Terra de Areia,291338
+2021,RS,Teut�nia,1576004
+2021,RS,Tio Hugo,174783
+2021,RS,Tiradentes do Sul,196241
+2021,RS,Toropi,101333
+2021,RS,Torres,1382097
+2021,RS,Tramanda�,1234544
+2021,RS,Travesseiro,78087
+2021,RS,Tr�s Arroios,141196
+2021,RS,Tr�s Cachoeiras,308568
+2021,RS,Tr�s Coroas,805145
+2021,RS,Tr�s de Maio,1353671
+2021,RS,Tr�s Forquilhas,64218
+2021,RS,Tr�s Palmeiras,178529
+2021,RS,Tr�s Passos,1033028
+2021,RS,Trindade do Sul,351369
+2021,RS,Triunfo,12982386
+2021,RS,Tucunduva,259330
+2021,RS,Tunas,120844
+2021,RS,Tupanci do Sul,94727
+2021,RS,Tupanciret�,2052009
+2021,RS,Tupandi,533592
+2021,RS,Tuparendi,383533
+2021,RS,Turu�u,163726
+2021,RS,Ubiretama,110732
+2021,RS,Uni�o da Serra,91173
+2021,RS,Unistalda,149066
+2021,RS,Uruguaiana,3717091
+2021,RS,Vacaria,3245665
+2021,RS,Vale Verde,130452
+2021,RS,Vale do Sol,272712
+2021,RS,Vale Real,198293
+2021,RS,Vanini,94775
+2021,RS,Ven�ncio Aires,3732030
+2021,RS,Vera Cruz,826716
+2021,RS,Veran�polis,1738702
+2021,RS,Vespasiano Corr�a,119439
+2021,RS,Viadutos,204581
+2021,RS,Viam�o,4335050
+2021,RS,Vicente Dutra,126513
+2021,RS,Victor Graeff,295870
+2021,RS,Vila Flores,297552
+2021,RS,Vila L�ngaro,168931
+2021,RS,Vila Maria,389405
+2021,RS,Vila Nova do Sul,195941
+2021,RS,Vista Alegre,137063
+2021,RS,Vista Alegre do Prata,85228
+2021,RS,Vista Ga�cha,103512
+2021,RS,Vit�ria das Miss�es,159527
+2021,RS,Westf�lia,264839
+2021,RS,Xangri-l�,733151
+2021,MS,�gua Clara,1235229
+2021,MS,Alcin�polis,237740
+2021,MS,Amambai,1766207
+2021,MS,Anast�cio,696967
+2021,MS,Anauril�ndia,416841
+2021,MS,Ang�lica,1184828
+2021,MS,Ant�nio Jo�o,727455
+2021,MS,Aparecida do Taboado,1393783
+2021,MS,Aquidauana,1204977
+2021,MS,Aral Moreira,1021642
+2021,MS,Bandeirantes,759094
+2021,MS,Bataguassu,1049030
+2021,MS,Bataypor�,603207
+2021,MS,Bela Vista,976922
+2021,MS,Bodoquena,351966
+2021,MS,Bonito,1204313
+2021,MS,Brasil�ndia,861259
+2021,MS,Caarap�,2098085
+2021,MS,Camapu�,637046
+2021,MS,Campo Grande,34731151
+2021,MS,Caracol,179621
+2021,MS,Cassil�ndia,782983
+2021,MS,Chapad�o do Sul,2430147
+2021,MS,Corguinho,150318
+2021,MS,Coronel Sapucaia,354012
+2021,MS,Corumb�,3907866
+2021,MS,Costa Rica,2096742
+2021,MS,Coxim,1117659
+2021,MS,Deod�polis,494378
+2021,MS,Dois Irm�os do Buriti,332159
+2021,MS,Douradina,200982
+2021,MS,Dourados,12595690
+2021,MS,Eldorado,557523
+2021,MS,F�tima do Sul,648925
+2021,MS,Figueir�o,143408
+2021,MS,Gl�ria de Dourados,306052
+2021,MS,Guia Lopes da Laguna,364269
+2021,MS,Iguatemi,811297
+2021,MS,Inoc�ncia,406233
+2021,MS,Itapor�,1181095
+2021,MS,Itaquira�,1245196
+2021,MS,Ivinhema,1721113
+2021,MS,Japor�,167493
+2021,MS,Jaraguari,378029
+2021,MS,Jardim,826472
+2021,MS,Jate�,478439
+2021,MS,Juti,464266
+2021,MS,Lad�rio,383759
+2021,MS,Laguna Carap�,1017180
+2021,MS,Maracaju,4048673
+2021,MS,Miranda,661176
+2021,MS,Mundo Novo,778607
+2021,MS,Navira�,3013280
+2021,MS,Nioaque,472626
+2021,MS,Nova Alvorada do Sul,1963622
+2021,MS,Nova Andradina,3084594
+2021,MS,Novo Horizonte do Sul,281446
+2021,MS,Para�so das �guas,1064299
+2021,MS,Parana�ba,1647937
+2021,MS,Paranhos,294548
+2021,MS,Pedro Gomes,279518
+2021,MS,Ponta Por�,5024604
+2021,MS,Porto Murtinho,476904
+2021,MS,Ribas do Rio Pardo,1895304
+2021,MS,Rio Brilhante,3731046
+2021,MS,Rio Negro,134317
+2021,MS,Rio Verde de Mato Grosso,633234
+2021,MS,Rochedo,280438
+2021,MS,Santa Rita do Pardo,472670
+2021,MS,S�o Gabriel do Oeste,2231788
+2021,MS,Sete Quedas,384673
+2021,MS,Selv�ria,1723194
+2021,MS,Sidrol�ndia,3207170
+2021,MS,Sonora,881057
+2021,MS,Tacuru,320138
+2021,MS,Taquarussu,182235
+2021,MS,Terenos,761171
+2021,MS,Tr�s Lagoas,13058332
+2021,MS,Vicentina,314115
+2021,MT,Acorizal,109162
+2021,MT,�gua Boa,2000669
+2021,MT,Alta Floresta,2111882
+2021,MT,Alto Araguaia,1172926
+2021,MT,Alto Boa Vista,264046
+2021,MT,Alto Gar�as,1197646
+2021,MT,Alto Paraguai,166648
+2021,MT,Alto Taquari,1295818
+2021,MT,Apiac�s,233848
+2021,MT,Araguaiana,126594
+2021,MT,Araguainha,28039
+2021,MT,Araputanga,655137
+2021,MT,Aren�polis,232263
+2021,MT,Aripuan�,1446102
+2021,MT,Bar�o de Melga�o,124620
+2021,MT,Barra do Bugres,1568905
+2021,MT,Barra do Gar�as,2567246
+2021,MT,Bom Jesus do Araguaia,769151
+2021,MT,Brasnorte,2087179
+2021,MT,C�ceres,2264674
+2021,MT,Campin�polis,437344
+2021,MT,Campo Novo do Parecis,6910453
+2021,MT,Campo Verde,4993082
+2021,MT,Campos de J�lio,3302547
+2021,MT,Canabrava do Norte,267192
+2021,MT,Canarana,2931502
+2021,MT,Carlinda,299375
+2021,MT,Castanheira,215114
+2021,MT,Chapada dos Guimar�es,1214583
+2021,MT,Cl�udia,1068396
+2021,MT,Cocalinho,297685
+2021,MT,Col�der,1269414
+2021,MT,Colniza,849114
+2021,MT,Comodoro,1258222
+2021,MT,Confresa,1530707
+2021,MT,Conquista D'Oeste,143205
+2021,MT,Cotrigua�u,326770
+2021,MT,Cuiab�,29746934
+2021,MT,Curvel�ndia,123845
+2021,MT,Denise,529608
+2021,MT,Diamantino,5746922
+2021,MT,Dom Aquino,673329
+2021,MT,Feliz Natal,1044898
+2021,MT,Figueir�polis D'Oeste,83626
+2021,MT,Ga�cha do Norte,1290912
+2021,MT,General Carneiro,481737
+2021,MT,Gl�ria D'Oeste,89234
+2021,MT,Guarant� do Norte,1099235
+2021,MT,Guiratinga,727167
+2021,MT,Indiava�,103601
+2021,MT,Ipiranga do Norte,1924887
+2021,MT,Itanhang�,721462
+2021,MT,Ita�ba,419030
+2021,MT,Itiquira,2144803
+2021,MT,Jaciara,1197871
+2021,MT,Jangada,188785
+2021,MT,Jauru,348817
+2021,MT,Juara,1365628
+2021,MT,Ju�na,1332958
+2021,MT,Juruena,297909
+2021,MT,Juscimeira,528664
+2021,MT,Lambari D'Oeste,244980
+2021,MT,Lucas do Rio Verde,6891564
+2021,MT,Luciara,41177
+2021,MT,Vila Bela da Sant�ssima Trindade,639124
+2021,MT,Marcel�ndia,674579
+2021,MT,Matup�,1282894
+2021,MT,Mirassol d'Oeste,835683
+2021,MT,Nobres,1114914
+2021,MT,Nortel�ndia,325663
+2021,MT,Nossa Senhora do Livramento,387845
+2021,MT,Nova Bandeirantes,343374
+2021,MT,Nova Nazar�,140597
+2021,MT,Nova Lacerda,445610
+2021,MT,Nova Santa Helena,333258
+2021,MT,Nova Brasil�ndia,109136
+2021,MT,Nova Cana� do Norte,909160
+2021,MT,Nova Mutum,6036784
+2021,MT,Nova Ol�mpia,732123
+2021,MT,Nova Ubirat�,3270201
+2021,MT,Nova Xavantina,1033278
+2021,MT,Novo Mundo,486277
+2021,MT,Novo Horizonte do Norte,101499
+2021,MT,Novo S�o Joaquim,863038
+2021,MT,Parana�ta,796220
+2021,MT,Paranatinga,2135914
+2021,MT,Novo Santo Ant�nio,56651
+2021,MT,Pedra Preta,1575822
+2021,MT,Peixoto de Azevedo,918582
+2021,MT,Planalto da Serra,231895
+2021,MT,Pocon�,709536
+2021,MT,Pontal do Araguaia,123228
+2021,MT,Ponte Branca,31235
+2021,MT,Pontes e Lacerda,2436222
+2021,MT,Porto Alegre do Norte,568701
+2021,MT,Porto dos Ga�chos,1318804
+2021,MT,Porto Esperidi�o,308624
+2021,MT,Porto Estrela,83561
+2021,MT,Poxor�u,1077754
+2021,MT,Primavera do Leste,6965242
+2021,MT,Quer�ncia,4259440
+2021,MT,S�o Jos� dos Quatro Marcos,448527
+2021,MT,Reserva do Caba�al,47466
+2021,MT,Ribeir�o Cascalheira,756831
+2021,MT,Ribeir�ozinho,188990
+2021,MT,Rio Branco,107214
+2021,MT,Santa Carmem,1032326
+2021,MT,Santo Afonso,161564
+2021,MT,S�o Jos� do Povo,58964
+2021,MT,S�o Jos� do Rio Claro,1465623
+2021,MT,S�o Jos� do Xingu,934694
+2021,MT,S�o Pedro da Cipa,69288
+2021,MT,Rondol�ndia,114382
+2021,MT,Rondon�polis,17295644
+2021,MT,Ros�rio Oeste,535073
+2021,MT,Santa Cruz do Xingu,320574
+2021,MT,Salto do C�u,94322
+2021,MT,Santa Rita do Trivelato,1236067
+2021,MT,Santa Terezinha,300591
+2021,MT,Santo Ant�nio do Leste,1019978
+2021,MT,Santo Ant�nio do Leverger,819097
+2021,MT,S�o F�lix do Araguaia,1622921
+2021,MT,Sapezal,6978731
+2021,MT,Serra Nova Dourada,74485
+2021,MT,Sinop,9623877
+2021,MT,Sorriso,12522633
+2021,MT,Tabapor�,1319830
+2021,MT,Tangar� da Serra,5585259
+2021,MT,Tapurah,2007700
+2021,MT,Terra Nova do Norte,502308
+2021,MT,Tesouro,312784
+2021,MT,Torixor�u,211360
+2021,MT,Uni�o do Sul,504232
+2021,MT,Vale de S�o Domingos,77155
+2021,MT,V�rzea Grande,9916991
+2021,MT,Vera,1291936
+2021,MT,Vila Rica,879190
+2021,MT,Nova Guarita,167439
+2021,MT,Nova Maril�ndia,422855
+2021,MT,Nova Maring�,1204757
+2021,MT,Nova Monte Verde,367237
+2021,GO,Abadia de Goi�s,353700
+2021,GO,Abadi�nia,445324
+2021,GO,Acre�na,1051834
+2021,GO,Adel�ndia,48793
+2021,GO,�gua Fria de Goi�s,533233
+2021,GO,�gua Limpa,63847
+2021,GO,�guas Lindas de Goi�s,2463152
+2021,GO,Alex�nia,1128054
+2021,GO,Alo�ndia,63728
+2021,GO,Alto Horizonte,1280223
+2021,GO,Alto Para�so de Goi�s,297011
+2021,GO,Alvorada do Norte,169008
+2021,GO,Amaralina,109077
+2021,GO,Americano do Brasil,91400
+2021,GO,Amorin�polis,118903
+2021,GO,An�polis,17788289
+2021,GO,Anhanguera,21691
+2021,GO,Anicuns,512555
+2021,GO,Aparecida de Goi�nia,16979984
+2021,GO,Aparecida do Rio Doce,110072
+2021,GO,Apor�,395713
+2021,GO,Ara�u,73496
+2021,GO,Aragar�as,277710
+2021,GO,Aragoi�nia,174315
+2021,GO,Araguapaz,180123
+2021,GO,Aren�polis,222580
+2021,GO,Aruan�,291962
+2021,GO,Auril�ndia,81573
+2021,GO,Avelin�polis,68050
+2021,GO,Baliza,123238
+2021,GO,Barro Alto,1573567
+2021,GO,Bela Vista de Goi�s,1480966
+2021,GO,Bom Jardim de Goi�s,257660
+2021,GO,Bom Jesus de Goi�s,1229633
+2021,GO,Bonfin�polis,121138
+2021,GO,Bon�polis,156630
+2021,GO,Brazabrantes,93833
+2021,GO,Brit�nia,198101
+2021,GO,Buriti Alegre,467717
+2021,GO,Buriti de Goi�s,56916
+2021,GO,Buritin�polis,88900
+2021,GO,Cabeceiras,475939
+2021,GO,Cachoeira Alta,281679
+2021,GO,Cachoeira de Goi�s,38869
+2021,GO,Cachoeira Dourada,69455
+2021,GO,Ca�u,904592
+2021,GO,Caiap�nia,821653
+2021,GO,Caldas Novas,3000886
+2021,GO,Caldazinha,84638
+2021,GO,Campestre de Goi�s,72737
+2021,GO,Campina�u,110500
+2021,GO,Campinorte,333013
+2021,GO,Campo Alegre de Goi�s,846728
+2021,GO,Campo Limpo de Goi�s,165099
+2021,GO,Campos Belos,315295
+2021,GO,Campos Verdes,56347
+2021,GO,Carmo do Rio Verde,488084
+2021,GO,Castel�ndia,91614
+2021,GO,Catal�o,9916468
+2021,GO,Catura�,100768
+2021,GO,Cavalcante,383000
+2021,GO,Ceres,734660
+2021,GO,Cezarina,384996
+2021,GO,Chapad�o do C�u,2188716
+2021,GO,Cidade Ocidental,1006150
+2021,GO,Cocalzinho de Goi�s,436319
+2021,GO,Colinas do Sul,70439
+2021,GO,C�rrego do Ouro,74372
+2021,GO,Corumb� de Goi�s,260241
+2021,GO,Corumba�ba,709241
+2021,GO,Cristalina,4602318
+2021,GO,Cristian�polis,120103
+2021,GO,Crix�s,699319
+2021,GO,Crom�nia,99558
+2021,GO,Cumari,96867
+2021,GO,Damian�polis,44977
+2021,GO,Damol�ndia,52496
+2021,GO,Davin�polis,583084
+2021,GO,Diorama,96842
+2021,GO,Doverl�ndia,400869
+2021,GO,Edealina,405203
+2021,GO,Ed�ia,923319
+2021,GO,Estrela do Norte,74794
+2021,GO,Faina,167592
+2021,GO,Fazenda Nova,152399
+2021,GO,Firmin�polis,272114
+2021,GO,Flores de Goi�s,250936
+2021,GO,Formosa,3247792
+2021,GO,Formoso,111669
+2021,GO,Gameleira de Goi�s,312523
+2021,GO,Divin�polis de Goi�s,91700
+2021,GO,Goian�polis,294381
+2021,GO,Goiandira,202194
+2021,GO,Goian�sia,1888263
+2021,GO,Goi�nia,59865990
+2021,GO,Goianira,1102687
+2021,GO,Goi�s,763707
+2021,GO,Goiatuba,2169433
+2021,GO,Gouvel�ndia,169369
+2021,GO,Guap�,347667
+2021,GO,Guara�ta,52169
+2021,GO,Guarani de Goi�s,86085
+2021,GO,Guarinos,64343
+2021,GO,Heitora�,83875
+2021,GO,Hidrol�ndia,1329143
+2021,GO,Hidrolina,87743
+2021,GO,Iaciara,226513
+2021,GO,Inaciol�ndia,237525
+2021,GO,Indiara,656300
+2021,GO,Inhumas,1406216
+2021,GO,Ipameri,2429403
+2021,GO,Ipiranga de Goi�s,69939
+2021,GO,Ipor�,876296
+2021,GO,Israel�ndia,71461
+2021,GO,Itabera�,1804955
+2021,GO,Itaguari,98133
+2021,GO,Itaguaru,104080
+2021,GO,Itaj�,131496
+2021,GO,Itapaci,547546
+2021,GO,Itapirapu�,222269
+2021,GO,Itapuranga,553555
+2021,GO,Itarum�,324831
+2021,GO,Itau�u,219235
+2021,GO,Itumbiara,5324330
+2021,GO,Ivol�ndia,139620
+2021,GO,Jandaia,426814
+2021,GO,Jaragu�,919741
+2021,GO,Jata�,7996737
+2021,GO,Jaupaci,83148
+2021,GO,Jes�polis,39661
+2021,GO,Jovi�nia,342128
+2021,GO,Jussara,693476
+2021,GO,Lagoa Santa,51073
+2021,GO,Leopoldo de Bulh�es,343211
+2021,GO,Luzi�nia,5435386
+2021,GO,Mairipotaba,88293
+2021,GO,Mamba�,107530
+2021,GO,Mara Rosa,291248
+2021,GO,Marzag�o,68532
+2021,GO,Matrinch�,170652
+2021,GO,Mauril�ndia,247891
+2021,GO,Mimoso de Goi�s,247554
+2021,GO,Mina�u,1296632
+2021,GO,Mineiros,3288692
+2021,GO,Moipor�,53240
+2021,GO,Monte Alegre de Goi�s,120264
+2021,GO,Montes Claros de Goi�s,498788
+2021,GO,Montividiu,1604396
+2021,GO,Montividiu do Norte,108826
+2021,GO,Morrinhos,1857437
+2021,GO,Morro Agudo de Goi�s,54822
+2021,GO,Moss�medes,131825
+2021,GO,Mozarl�ndia,1025028
+2021,GO,Mundo Novo,180831
+2021,GO,Mutun�polis,86417
+2021,GO,Naz�rio,276910
+2021,GO,Ner�polis,1021184
+2021,GO,Niquel�ndia,1291680
+2021,GO,Nova Am�rica,48876
+2021,GO,Nova Aurora,71030
+2021,GO,Nova Crix�s,628524
+2021,GO,Nova Gl�ria,141160
+2021,GO,Nova Igua�u de Goi�s,61464
+2021,GO,Nova Roma,66579
+2021,GO,Nova Veneza,197263
+2021,GO,Novo Brasil,85234
+2021,GO,Novo Gama,1154068
+2021,GO,Novo Planalto,160447
+2021,GO,Orizona,938155
+2021,GO,Ouro Verde de Goi�s,150001
+2021,GO,Ouvidor,765399
+2021,GO,Padre Bernardo,1052149
+2021,GO,Palestina de Goi�s,173192
+2021,GO,Palmeiras de Goi�s,1770770
+2021,GO,Palmelo,55748
+2021,GO,Palmin�polis,220046
+2021,GO,Panam�,109627
+2021,GO,Paranaiguara,236667
+2021,GO,Para�na,1559917
+2021,GO,Perol�ndia,708388
+2021,GO,Petrolina de Goi�s,178771
+2021,GO,Pilar de Goi�s,192739
+2021,GO,Piracanjuba,1239008
+2021,GO,Piranhas,609385
+2021,GO,Piren�polis,640329
+2021,GO,Pires do Rio,1405076
+2021,GO,Planaltina,1453001
+2021,GO,Pontalina,717210
+2021,GO,Porangatu,1430131
+2021,GO,Porteir�o,222461
+2021,GO,Portel�ndia,367281
+2021,GO,Posse,703571
+2021,GO,Professor Jamil,72086
+2021,GO,Quirin�polis,2147553
+2021,GO,Rialma,314485
+2021,GO,Rian�polis,83216
+2021,GO,Rio Quente,326106
+2021,GO,Rio Verde,16306271
+2021,GO,Rubiataba,565885
+2021,GO,Sanclerl�ndia,217555
+2021,GO,Santa B�rbara de Goi�s,154107
+2021,GO,Santa Cruz de Goi�s,295245
+2021,GO,Santa F� de Goi�s,260166
+2021,GO,Santa Helena de Goi�s,1620937
+2021,GO,Santa Isabel,123175
+2021,GO,Santa Rita do Araguaia,204953
+2021,GO,Santa Rita do Novo Destino,110056
+2021,GO,Santa Rosa de Goi�s,68304
+2021,GO,Santa Tereza de Goi�s,87563
+2021,GO,Santa Terezinha de Goi�s,190835
+2021,GO,Santo Ant�nio da Barra,320991
+2021,GO,Santo Ant�nio de Goi�s,154832
+2021,GO,Santo Ant�nio do Descoberto,825618
+2021,GO,S�o Domingos,206245
+2021,GO,S�o Francisco de Goi�s,130583
+2021,GO,S�o Jo�o d'Alian�a,569989
+2021,GO,S�o Jo�o da Para�na,139615
+2021,GO,S�o Lu�s de Montes Belos,1486904
+2021,GO,S�o Luiz do Norte,137395
+2021,GO,S�o Miguel do Araguaia,691572
+2021,GO,S�o Miguel do Passa Quatro,316723
+2021,GO,S�o Patr�cio,53450
+2021,GO,S�o Sim�o,1432833
+2021,GO,Senador Canedo,4765089
+2021,GO,Serran�polis,652577
+2021,GO,Silv�nia,1315548
+2021,GO,Simol�ndia,173317
+2021,GO,S�tio d'Abadia,75917
+2021,GO,Taquaral de Goi�s,89299
+2021,GO,Teresina de Goi�s,39122
+2021,GO,Terez�polis de Goi�s,211068
+2021,GO,Tr�s Ranchos,63861
+2021,GO,Trindade,2666621
+2021,GO,Trombas,70124
+2021,GO,Turv�nia,204383
+2021,GO,Turvel�ndia,566461
+2021,GO,Uirapuru,77418
+2021,GO,Urua�u,1299876
+2021,GO,Uruana,294357
+2021,GO,Uruta�,164803
+2021,GO,Valpara�so de Goi�s,2964512
+2021,GO,Varj�o,105088
+2021,GO,Vian�polis,857968
+2021,GO,Vicentin�polis,480173
+2021,GO,Vila Boa,179899
+2021,GO,Vila Prop�cio,308013
+2021,DF,Bras�lia,286943782
